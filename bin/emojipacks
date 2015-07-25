@@ -1,0 +1,37 @@
+#!/usr/bin/env node --harmony
+
+var program = require('commander');
+var Prompt = require('../lib/prompt');
+var Slack = require('../lib/slack');
+var Pack = require('../lib/pack');
+var co = require('co');
+
+/**
+ * Usage.
+ */
+
+program
+  .version(require('../package').version)
+  .usage('<command>');
+
+/**
+ * Help.
+ */
+
+program.on('--help', function(){
+  console.log();
+  console.log('    emojipack          import emojis to your slack');
+  console.log();
+});
+
+/**
+ * Start process.
+ */
+
+co(function *() {
+  var user = yield Prompt.start();
+  var pack = yield Pack.get(user.pack);
+  user.emojis = pack.emojis
+  var slack = new Slack(user);
+  yield slack.import();
+});
