@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://www.github.com/lambtron/emojipacks-cli"
+    "url": "https://www.github.com/lambtron/emojipacks"
   },
   "engines": {
     "node": ">= 0.11.x",
