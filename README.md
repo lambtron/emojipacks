@@ -24,7 +24,7 @@ There is only one command:
 $ emojipacks
 ```
 
-..and it'll ask you a few questions:
+It'll ask you a few questions:
 
 ```bash
 Slack subdomain: 20percentclub
@@ -33,7 +33,7 @@ Password: *********
 Path or URL of Emoji yaml file: ./packs/futurama.yaml
 ```
 
-..and let it work its magic:
+Then, let it work its magic:
 
 ```bash
 Starting import
@@ -50,7 +50,7 @@ Uploading hypnotoad with http://i.imgur.com/o7tyjxN.gif
 Uploaded emojis
 ```
 
-Note that the emoji pack to upload can be a path to a yaml file on your machine or a URL like [http://www.emojipacks.com/packs/food.yaml](http://www.emojipacks.com/packs/food.yaml).
+Note that the emoji pack to upload can be a **path** to a yaml file on your machine or a **URL**, like [http://www.emojipacks.com/packs/food.yaml](http://www.emojipacks.com/packs/food.yaml).
 
 ## Emoji Yaml File
 
@@ -73,7 +73,7 @@ emojis:
 
 ## Emoji packs
 
-<img src="http://i.imgur.com/7zYM751.png" alt="futurama" style="width: 22px;"/> [futurama](http://www.emojipacks.com/packs/futurama.yaml)
+- [futurama](http://www.emojipacks.com/packs/futurama.yaml)
 - [food](http://www.emojipacks.com/packs/food.yaml)
 - [skype](http://www.emojipacks.com/packs/skype.yaml)
 - [starwars](http://www.emojipacks.com/packs/starwars.yaml)
