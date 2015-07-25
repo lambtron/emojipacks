@@ -1,4 +1,4 @@
-# emojipacks-cli
+# emojipacks
 
 > CLI to bulk upload emojis to your Slack!
 
@@ -11,8 +11,8 @@ $ npm install -g emojipacks
 or
 
 ```bash
-$ git clone git@github.com:lambtron/emojipacks-cli.git
-$ cd emojipacks-cli
+$ git clone git@github.com:lambtron/emojipacks.git
+$ cd emojipacks
 $ make
 ```
 
