@@ -47,11 +47,12 @@ Uploading amywong with http://i.imgur.com/DgKkcCi.png
  .
  .
 Uploading hypnotoad with http://i.imgur.com/o7tyjxN.gif
+Uploaded emojis
 ```
 
 Note that the emoji pack to upload can be a path to a yaml file on your machine or a URL like [http://www.emojipacks.com/packs/food.yaml](http://www.emojipacks.com/packs/food.yaml).
 
-## Yaml File
+## Emoji Yaml File
 
 Also note that the yaml file must be formatted as such:
 
@@ -81,6 +82,8 @@ emojis:
 ![](http://media1.giphy.com/media/68H7QjnqFOn2E/100.gif)
 
 Want to contribute? [Suggest an emoji pack](https://20p.typeform.com/to/xOFDyq)!
+
+*Enjoyed this project? Check out my [blog](https://blog.andyjiang.com) for more*.
 
 ## License (MIT)
 
