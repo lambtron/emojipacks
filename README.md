@@ -73,7 +73,7 @@ emojis:
 
 ## Emoji packs
 
-![](http://i.imgur.com/7zYM751.png) [futurama](http://www.emojipacks.com/packs/futurama.yaml)
+<img src="http://i.imgur.com/7zYM751.png" alt="futurama" style="width: 22px;"/> [futurama](http://www.emojipacks.com/packs/futurama.yaml)
 - [food](http://www.emojipacks.com/packs/food.yaml)
 - [skype](http://www.emojipacks.com/packs/skype.yaml)
 - [starwars](http://www.emojipacks.com/packs/starwars.yaml)
