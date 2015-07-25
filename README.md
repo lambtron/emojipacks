@@ -4,6 +4,8 @@
 
 ## Install
 
+*Note you must have `node` and `npm` installed. If you don't, go to [nodejs.org](https://www.nodejs.org) and follow the install instructions there.*
+
 ```bash
 $ npm install -g emojipacks
 ```
