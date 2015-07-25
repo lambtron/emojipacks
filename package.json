@@ -1,5 +1,5 @@
 {
-  "name": "emojipacks-cli",
+  "name": "emojipacks",
   "description": "CLI to upload emojis to Slack",
   "version": "0.0.1",
   "author": "Andy Jiang",
