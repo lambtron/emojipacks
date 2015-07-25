@@ -78,6 +78,7 @@ emojis:
 - [skype](http://www.emojipacks.com/packs/skype.yaml)
 - [starwars](http://www.emojipacks.com/packs/starwars.yaml)
 - [startups](http://www.emojipacks.com/packs/startups.yaml)
+- [businessfish](http://www.emojipacks.com/packs/businessfish.yaml)
 
 ![](http://media1.giphy.com/media/68H7QjnqFOn2E/100.gif)
 
