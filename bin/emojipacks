@@ -25,4 +25,5 @@ co(function *() {
   user.emojis = pack.emojis;
   var slack = new Slack(user, program.debug);
   yield slack.import();
+  process.exit();
 });
