@@ -1,0 +1,96 @@
+title: Segment
+emojis:
+  - name: alex-millet
+    src: ./images/temo/alex-millet.png
+  - name: amir-abu-shareb
+    src: ./images/temo/amir-abu-shareb.png
+  - name: andy-jiang
+    src: ./images/temo/andy-jiang.png
+  - name: anthony-short
+    src: ./images/temo/anthony-short.png
+  - name: arpitha-timmaraju
+    src: ./images/temo/arpitha-timmaraju.png
+  - name: becky-jaimes
+    src: ./images/temo/becky-jaimes.png
+  - name: brantley-beaird
+    src: ./images/temo/brantley-beaird.png
+  - name: calvin-edson
+    src: ./images/temo/calvin-edson.png
+  - name: calvin-french-owen
+    src: ./images/temo/calvin-french-owen.png
+  - name: carolann-bonner
+    src: ./images/temo/carolann-bonner.png
+  - name: chris-smith
+    src: ./images/temo/chris-smith.png
+  - name: chris-sperandio
+    src: ./images/temo/chris-sperandio.png
+  - name: chris-surdi
+    src: ./images/temo/chris-surdi.png
+  - name: diana-smith
+    src: ./images/temo/diana-smith.png
+  - name: dominic-barnes
+    src: ./images/temo/dominic-barnes.png
+  - name: elizabeth-yee
+    src: ./images/temo/elizabeth-yee.png
+  - name: francisco-alberini
+    src: ./images/temo/francisco-alberini.png
+  - name: frank-higgins
+    src: ./images/temo/frank-higgins.png
+  - name: galen-frechette
+    src: ./images/temo/galen-frechette.png
+  - name: garrett-johnson
+    src: ./images/temo/garrett-johnson.png
+  - name: gregg-stone
+    src: ./images/temo/gregg-stone.png
+  - name: han-kim
+    src: ./images/temo/han-kim.png
+  - name: ian-storm-taylor
+    src: ./images/temo/ian-storm-taylor.png
+  - name: ilya-volodarsky
+    src: ./images/temo/ilya-volodarsky.png
+  - name: jake-peterson
+    src: ./images/temo/jake-peterson.png
+  - name: jeff-burkland
+    src: ./images/temo/jeff-burkland.png
+  - name: jenn-boyce
+    src: ./images/temo/jenn-boyce.png
+  - name: jj-nguyen
+    src: ./images/temo/jj-nguyen.png
+  - name: josh-saunders
+    src: ./images/temo/josh-saunders.png
+  - name: julian-dunn
+    src: ./images/temo/julian-dunn.png
+  - name: karthick-sriraman
+    src: ./images/temo/karthick-sriraman.png
+  - name: kevin-niparko
+    src: ./images/temo/kevin-niparko.png
+  - name: lance-pollard
+    src: ./images/temo/lance-pollard.png
+  - name: laylee-asgari
+    src: ./images/temo/laylee-asgari.png
+  - name: nathan-houle
+    src: ./images/temo/nathan-houle.png
+  - name: peter-reinhardt
+    src: ./images/temo/peter-reinhardt.png
+  - name: prateek-srivastava
+    src: ./images/temo/prateek-srivastava.png
+  - name: raphael-parker
+    src: ./images/temo/raphael-parker.png
+  - name: sam-johnson
+    src: ./images/temo/sam-johnson.png
+  - name: stephen-guerguy
+    src: ./images/temo/stephen-guerguy.png
+  - name: steven-miller
+    src: ./images/temo/steven-miller.png
+  - name: thomas-foley
+    src: ./images/temo/thomas-foley.png
+  - name: tj-holowaychuk
+    src: ./images/temo/tj-holowaychuk.png
+  - name: travis-jeffery
+    src: ./images/temo/travis-jeffery.png
+  - name: vince-prignano
+    src: ./images/temo/vince-prignano.png
+  - name: will-johnson
+    src: ./images/temo/will-johnson.png
+  - name: zeb-hermann
+    src: ./images/temo/zeb-hermann.png
