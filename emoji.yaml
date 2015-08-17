@@ -52,8 +52,6 @@ emojis:
   src:  ./images/emoji_to_upload/hookem.png
   - name: kebab
   src:  ./images/emoji_to_upload/kebab.png
-  - name: narwhalbacon
-  src:  ./images/emoji_to_upload/narwhalbacon.jpg
   - name: pumpkin
   src:  ./images/emoji_to_upload/pumpkin.png
   - name: stare
@@ -122,8 +120,6 @@ emojis:
   src:  ./images/emoji_to_upload/romney.png
   - name: successful
   src:  ./images/emoji_to_upload/successful.png
-  - name: whynotboth
-  src:  ./images/emoji_to_upload/whynotboth.gif
   - name: ashton
   src:  ./images/emoji_to_upload/ashton.png
   - name: bfohh
@@ -144,8 +140,6 @@ emojis:
   src:  ./images/emoji_to_upload/sadtroll.png
   - name: sweetjesus
   src:  ./images/emoji_to_upload/sweetjesus.png
-  - name: woah
-  src:  ./images/emoji_to_upload/woah.jpg
   - name: bender
   src:  ./images/emoji_to_upload/bender.png
   - name: bfquestion
@@ -156,8 +150,6 @@ emojis:
   src:  ./images/emoji_to_upload/ducreux.png
   - name: gtfo
   src:  ./images/emoji_to_upload/gtfo.png
-  - name: hypnotoad
-  src:  ./images/emoji_to_upload/hypnotoad.gif
   - name: lincoln
   src:  ./images/emoji_to_upload/lincoln.png
   - name: nixonhead
@@ -196,8 +188,6 @@ emojis:
   src:  ./images/emoji_to_upload/bfsob.png
   - name: cupcake
   src:  ./images/emoji_to_upload/cupcake.png
-  - name: fail
-  src:  ./images/emoji_to_upload/fail.jpg
   - name: ham
   src:  ./images/emoji_to_upload/ham.png
   - name: jackolantern
@@ -230,8 +220,6 @@ emojis:
   src:  ./images/emoji_to_upload/ohgodwhy.png
   - name: scumbag
   src:  ./images/emoji_to_upload/scumbag.png
-  - name: timeforthat
-  src:  ./images/emoji_to_upload/timeforthat.gif
   - name: yuno
   src:  ./images/emoji_to_upload/yuno.png
   - name: bfcomeon
@@ -242,8 +230,6 @@ emojis:
   src:  ./images/emoji_to_upload/daenerys.png
   - name: farnsworth
   src:  ./images/emoji_to_upload/farnsworth.png
-  - name: headdesk
-  src:  ./images/emoji_to_upload/headdesk.gif
   - name: jeff
   src:  ./images/emoji_to_upload/jeff.png
   - name: milk
@@ -254,22 +240,16 @@ emojis:
   src:  ./images/emoji_to_upload/shrug.png
   - name: troll
   src:  ./images/emoji_to_upload/troll.png
-  - name: zoidberg
-  src:  ./images/emoji_to_upload/zoidberg.gif
   - name: bfcongrats
   src:  ./images/emoji_to_upload/bfcongrats.png
   - name: bftired
   src:  ./images/emoji_to_upload/bftired.png
-  - name: dance
-  src:  ./images/emoji_to_upload/dance.gif
   - name: farnsworth2
   src:  ./images/emoji_to_upload/farnsworth2.png
   - name: heart
   src:  ./images/emoji_to_upload/heart.png
   - name: jira
   src:  ./images/emoji_to_upload/jira.png
-  - name: mindblown
-  src:  ./images/emoji_to_upload/mindblown.gif
   - name: pete
   src:  ./images/emoji_to_upload/pete.png
   - name: slurmsmckenzie
@@ -280,10 +260,6 @@ emojis:
   src:  ./images/emoji_to_upload/zoidberg.png
   - name: bfdetermine
   src:  ./images/emoji_to_upload/bfdetermine.png
-  - name: boom
-  src:  ./images/emoji_to_upload/boom.gif
-  - name: dealwithit
-  src:  ./images/emoji_to_upload/dealwithit.gif
   - name: flan
   src:  ./images/emoji_to_upload/flan.png
   - name: hermes
@@ -304,8 +280,6 @@ emojis:
   src:  ./images/emoji_to_upload/brannigan.png
   - name: derp
   src:  ./images/emoji_to_upload/derp.png
-  - name: fliesaway
-  src:  ./images/emoji_to_upload/fliesaway.jpg
   - name: hideyokids
   src:  ./images/emoji_to_upload/hideyokids.png
   - name: joffrey
