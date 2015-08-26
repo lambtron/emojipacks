@@ -1,478 +1,396 @@
 title: Skype Flags
 emojis:
-  - name: af
+  - name: flag-af
     src: http://www.skype-emoticons.com/images/af.png
-  - name: al
+  - name: flag-al
     src: http://www.skype-emoticons.com/images/al.png
-  - name: dz
+  - name: flag-dz
     src: http://www.skype-emoticons.com/images/dz.png
-  - name: as
+  - name: flag-as
     src: http://www.skype-emoticons.com/images/as.png
-  - name: ad
+  - name: flag-ad
     src: http://www.skype-emoticons.com/images/ad.png
-  - name: ao
+  - name: flag-ao
     src: http://www.skype-emoticons.com/images/ao.png
-  - name: ai
+  - name: flag-ai
     src: http://www.skype-emoticons.com/images/ai.png
-  - name: aq
+  - name: flag-aq
     src: http://www.skype-emoticons.com/images/aq.png
-  - name: ag
+  - name: flag-ag
     src: http://www.skype-emoticons.com/images/ag.png
-  - name: ar
+  - name: flag-ar
     src: http://www.skype-emoticons.com/images/ar.png
-  - name: am
+  - name: flag-am
     src: http://www.skype-emoticons.com/images/am.png
-  - name: aw
+  - name: flag-aw
     src: http://www.skype-emoticons.com/images/aw.png
-  - name: au
-    src: http://www.skype-emoticons.com/images/au.png
-  - name: at
-    src: http://www.skype-emoticons.com/images/at.png
-  - name: az
+  - name: flag-az
     src: http://www.skype-emoticons.com/images/az.png
-  - name: bs
+  - name: flag-bs
     src: http://www.skype-emoticons.com/images/bs.png
-  - name: bh
+  - name: flag-bh
     src: http://www.skype-emoticons.com/images/bh.png
-  - name: bd
+  - name: flag-bd
     src: http://www.skype-emoticons.com/images/bd.png
-  - name: bb
+  - name: flag-bb
     src: http://www.skype-emoticons.com/images/bb.png
-  - name: by
+  - name: flag-by
     src: http://www.skype-emoticons.com/images/by.png
-  - name: be
+  - name: flag-be
     src: http://www.skype-emoticons.com/images/be.png
-  - name: bz
+  - name: flag-bz
     src: http://www.skype-emoticons.com/images/bz.png
-  - name: bj
+  - name: flag-bj
     src: http://www.skype-emoticons.com/images/bj.png
-  - name: bm
+  - name: flag-bm
     src: http://www.skype-emoticons.com/images/bm.png
-  - name: bt
+  - name: flag-bt
     src: http://www.skype-emoticons.com/images/bt.png
-  - name: bo
+  - name: flag-bo
     src: http://www.skype-emoticons.com/images/bo.png
-  - name: ba
+  - name: flag-ba
     src: http://www.skype-emoticons.com/images/ba.png
-  - name: bw
+  - name: flag-bw
     src: http://www.skype-emoticons.com/images/bw.png
-  - name: br
-    src: http://www.skype-emoticons.com/images/br.png
-  - name: io
+  - name: flag-io
     src: http://www.skype-emoticons.com/images/io.png
-  - name: vg
+  - name: flag-vg
     src: http://www.skype-emoticons.com/images/vg.png
-  - name: bn
+  - name: flag-bn
     src: http://www.skype-emoticons.com/images/bn.png
-  - name: bg
+  - name: flag-bg
     src: http://www.skype-emoticons.com/images/bg.png
-  - name: bf
+  - name: flag-bf
     src: http://www.skype-emoticons.com/images/bf.png
-  - name: bi
+  - name: flag-bi
     src: http://www.skype-emoticons.com/images/bi.png
-  - name: kh
+  - name: flag-kh
     src: http://www.skype-emoticons.com/images/kh.png
-  - name: cm
+  - name: flag-cm
     src: http://www.skype-emoticons.com/images/cm.png
-  - name: ca
-    src: http://www.skype-emoticons.com/images/ca.png
-  - name: cv
+  - name: flag-cv
     src: http://www.skype-emoticons.com/images/cv.png
-  - name: ky
+  - name: flag-ky
     src: http://www.skype-emoticons.com/images/ky.png
-  - name: cf
+  - name: flag-cf
     src: http://www.skype-emoticons.com/images/cf.png
-  - name: td
+  - name: flag-td
     src: http://www.skype-emoticons.com/images/td.png
-  - name: cl
-    src: http://www.skype-emoticons.com/images/cl.png
-  - name: cn
-    src: http://www.skype-emoticons.com/images/cn.png
-  - name: cx
+  - name: flag-cx
     src: http://www.skype-emoticons.com/images/cx.png
-  - name: cc
+  - name: flag-cc
     src: http://www.skype-emoticons.com/images/cc.png
-  - name: co
-    src: http://www.skype-emoticons.com/images/co.png
-  - name: km
+  - name: flag-km
     src: http://www.skype-emoticons.com/images/km.png
-  - name: cd
+  - name: flag-cd
     src: http://www.skype-emoticons.com/images/cd.png
-  - name: cg
+  - name: flag-cg
     src: http://www.skype-emoticons.com/images/cg.png
-  - name: ck
+  - name: flag-ck
     src: http://www.skype-emoticons.com/images/ck.png
-  - name: cr
+  - name: flag-cr
     src: http://www.skype-emoticons.com/images/cr.png
-  - name: ci
+  - name: flag-ci
     src: http://www.skype-emoticons.com/images/ci.png
-  - name: cu
+  - name: flag-cu
     src: http://www.skype-emoticons.com/images/cu.png
-  - name: cy
+  - name: flag-cy
     src: http://www.skype-emoticons.com/images/cy.png
-  - name: cz
+  - name: flag-cz
     src: http://www.skype-emoticons.com/images/cz.png
-  - name: dk
-    src: http://www.skype-emoticons.com/images/dk.png
-  - name: dj
+  - name: flag-dj
     src: http://www.skype-emoticons.com/images/dj.png
-  - name: dm
+  - name: flag-dm
     src: http://www.skype-emoticons.com/images/dm.png
-  - name: do
+  - name: flag-do
     src: http://www.skype-emoticons.com/images/do.png
-  - name: ec
+  - name: flag-ec
     src: http://www.skype-emoticons.com/images/ec.png
-  - name: eg
+  - name: flag-eg
     src: http://www.skype-emoticons.com/images/eg.png
-  - name: eu
+  - name: flag-eu
     src: http://www.skype-emoticons.com/images/eu.png
-  - name: sv
+  - name: flag-sv
     src: http://www.skype-emoticons.com/images/sv.png
-  - name: gq
+  - name: flag-gq
     src: http://www.skype-emoticons.com/images/gq.png
-  - name: er
+  - name: flag-er
     src: http://www.skype-emoticons.com/images/er.png
-  - name: ee
+  - name: flag-ee
     src: http://www.skype-emoticons.com/images/ee.png
-  - name: et
+  - name: flag-et
     src: http://www.skype-emoticons.com/images/et.png
-  - name: fo
+  - name: flag-fo
     src: http://www.skype-emoticons.com/images/fo.png
-  - name: fk
+  - name: flag-fk
     src: http://www.skype-emoticons.com/images/fk.png
-  - name: fj
+  - name: flag-fj
     src: http://www.skype-emoticons.com/images/fj.png
-  - name: fi
-    src: http://www.skype-emoticons.com/images/fi.png
-  - name: fr
-    src: http://www.skype-emoticons.com/images/fr.png
-  - name: gf
+  - name: flag-gf
     src: http://www.skype-emoticons.com/images/gf.png
-  - name: pf
+  - name: flag-pf
     src: http://www.skype-emoticons.com/images/pf.png
-  - name: tf
+  - name: flag-tf
     src: http://www.skype-emoticons.com/images/tf.png
-  - name: ga
+  - name: flag-ga
     src: http://www.skype-emoticons.com/images/ga.png
-  - name: gm
+  - name: flag-gm
     src: http://www.skype-emoticons.com/images/gm.png
-  - name: ge
+  - name: flag-ge
     src: http://www.skype-emoticons.com/images/ge.png
-  - name: de
-    src: http://www.skype-emoticons.com/images/de.png
-  - name: gh
+  - name: flag-gh
     src: http://www.skype-emoticons.com/images/gh.png
-  - name: gi
+  - name: flag-gi
     src: http://www.skype-emoticons.com/images/gi.png
-  - name: gr
+  - name: flag-gr
     src: http://www.skype-emoticons.com/images/gr.png
-  - name: gl
+  - name: flag-gl
     src: http://www.skype-emoticons.com/images/gl.png
-  - name: gd
+  - name: flag-gd
     src: http://www.skype-emoticons.com/images/gd.png
-  - name: gp
+  - name: flag-gp
     src: http://www.skype-emoticons.com/images/gp.png
-  - name: gu
+  - name: flag-gu
     src: http://www.skype-emoticons.com/images/gu.png
-  - name: gt
+  - name: flag-gt
     src: http://www.skype-emoticons.com/images/gt.png
-  - name: gn
+  - name: flag-gn
     src: http://www.skype-emoticons.com/images/gn.png
-  - name: gw
+  - name: flag-gw
     src: http://www.skype-emoticons.com/images/gw.png
-  - name: gy
+  - name: flag-gy
     src: http://www.skype-emoticons.com/images/gy.png
-  - name: ht
+  - name: flag-ht
     src: http://www.skype-emoticons.com/images/ht.png
-  - name: hm
+  - name: flag-hm
     src: http://www.skype-emoticons.com/images/hm.png
-  - name: va
+  - name: flag-va
     src: http://www.skype-emoticons.com/images/va.png
-  - name: hn
+  - name: flag-hn
     src: http://www.skype-emoticons.com/images/hn.png
-  - name: hk
-    src: http://www.skype-emoticons.com/images/hk.png
-  - name: hr
+  - name: flag-hr
     src: http://www.skype-emoticons.com/images/hr.png
-  - name: hu
+  - name: flag-hu
     src: http://www.skype-emoticons.com/images/hu.png
-  - name: is
+  - name: flag-is
     src: http://www.skype-emoticons.com/images/is.png
-  - name: in
-    src: http://www.skype-emoticons.com/images/in.png
-  - name: id
-    src: http://www.skype-emoticons.com/images/id.png
-  - name: ir
+  - name: flag-ir
     src: http://www.skype-emoticons.com/images/ir.png
-  - name: iq
+  - name: flag-iq
     src: http://www.skype-emoticons.com/images/iq.png
-  - name: ie
-    src: http://www.skype-emoticons.com/images/ie.png
-  - name: il
-    src: http://www.skype-emoticons.com/images/il.png
-  - name: it
-    src: http://www.skype-emoticons.com/images/it.png
-  - name: jm
+  - name: flag-jm
     src: http://www.skype-emoticons.com/images/jm.png
-  - name: jp
-    src: http://www.skype-emoticons.com/images/jp.png
-  - name: jo
+  - name: flag-jo
     src: http://www.skype-emoticons.com/images/jo.png
-  - name: kz
+  - name: flag-kz
     src: http://www.skype-emoticons.com/images/kz.png
-  - name: ke
+  - name: flag-ke
     src: http://www.skype-emoticons.com/images/ke.png
-  - name: ki
+  - name: flag-ki
     src: http://www.skype-emoticons.com/images/ki.png
-  - name: kp
+  - name: flag-kp
     src: http://www.skype-emoticons.com/images/kp.png
-  - name: kr
-    src: http://www.skype-emoticons.com/images/kr.png
-  - name: kw
+  - name: flag-kw
     src: http://www.skype-emoticons.com/images/kw.png
-  - name: kg
+  - name: flag-kg
     src: http://www.skype-emoticons.com/images/kg.png
-  - name: la
+  - name: flag-la
     src: http://www.skype-emoticons.com/images/la.png
-  - name: lv
+  - name: flag-lv
     src: http://www.skype-emoticons.com/images/lv.png
-  - name: lb
+  - name: flag-lb
     src: http://www.skype-emoticons.com/images/lb.png
-  - name: ls
+  - name: flag-ls
     src: http://www.skype-emoticons.com/images/ls.png
-  - name: lr
+  - name: flag-lr
     src: http://www.skype-emoticons.com/images/lr.png
-  - name: ly
+  - name: flag-ly
     src: http://www.skype-emoticons.com/images/ly.png
-  - name: li
+  - name: flag-li
     src: http://www.skype-emoticons.com/images/li.png
-  - name: lt
+  - name: flag-lt
     src: http://www.skype-emoticons.com/images/lt.png
-  - name: lu
+  - name: flag-lu
     src: http://www.skype-emoticons.com/images/lu.png
-  - name: mo
-    src: http://www.skype-emoticons.com/images/mo.png
-  - name: me
+  - name: flag-me
     src: http://www.skype-emoticons.com/images/me.png
-  - name: mk
+  - name: flag-mk
     src: http://www.skype-emoticons.com/images/mk.png
-  - name: mg
+  - name: flag-mg
     src: http://www.skype-emoticons.com/images/mg.png
-  - name: mw
+  - name: flag-mw
     src: http://www.skype-emoticons.com/images/mw.png
-  - name: my
-    src: http://www.skype-emoticons.com/images/my.png
-  - name: mv
+  - name: flag-mv
     src: http://www.skype-emoticons.com/images/mv.png
-  - name: ml
+  - name: flag-ml
     src: http://www.skype-emoticons.com/images/ml.png
-  - name: mt
+  - name: flag-mt
     src: http://www.skype-emoticons.com/images/mt.png
-  - name: mh
+  - name: flag-mh
     src: http://www.skype-emoticons.com/images/mh.png
-  - name: mq
+  - name: flag-mq
     src: http://www.skype-emoticons.com/images/mq.png
-  - name: mr
+  - name: flag-mr
     src: http://www.skype-emoticons.com/images/mr.png
-  - name: mu
+  - name: flag-mu
     src: http://www.skype-emoticons.com/images/mu.png
-  - name: yt
+  - name: flag-yt
     src: http://www.skype-emoticons.com/images/yt.png
-  - name: mx
-    src: http://www.skype-emoticons.com/images/mx.png
-  - name: fm
+  - name: flag-fm
     src: http://www.skype-emoticons.com/images/fm.png
-  - name: md
+  - name: flag-md
     src: http://www.skype-emoticons.com/images/md.png
-  - name: mc
+  - name: flag-mc
     src: http://www.skype-emoticons.com/images/mc.png
-  - name: mn
+  - name: flag-mn
     src: http://www.skype-emoticons.com/images/mn.png
-  - name: ms
+  - name: flag-ms
     src: http://www.skype-emoticons.com/images/ms.png
-  - name: ma
+  - name: flag-ma
     src: http://www.skype-emoticons.com/images/ma.png
-  - name: mz
+  - name: flag-mz
     src: http://www.skype-emoticons.com/images/mz.png
-  - name: mm
+  - name: flag-mm
     src: http://www.skype-emoticons.com/images/mm.png
-  - name: na
+  - name: flag-na
     src: http://www.skype-emoticons.com/images/na.png
-  - name: nr
+  - name: flag-nr
     src: http://www.skype-emoticons.com/images/nr.png
-  - name: np
+  - name: flag-np
     src: http://www.skype-emoticons.com/images/np.png
-  - name: an
+  - name: flag-an
     src: http://www.skype-emoticons.com/images/an.png
-  - name: nl
-    src: http://www.skype-emoticons.com/images/nl.png
-  - name: nc
+  - name: flag-nc
     src: http://www.skype-emoticons.com/images/nc.png
-  - name: nz
-    src: http://www.skype-emoticons.com/images/nz.png
-  - name: ni
+  - name: flag-ni
     src: http://www.skype-emoticons.com/images/ni.png
-  - name: ne
+  - name: flag-ne
     src: http://www.skype-emoticons.com/images/ne.png
-  - name: ng
+  - name: flag-ng
     src: http://www.skype-emoticons.com/images/ng.png
-  - name: nu
+  - name: flag-nu
     src: http://www.skype-emoticons.com/images/nu.png
-  - name: nf
+  - name: flag-nf
     src: http://www.skype-emoticons.com/images/nf.png
-  - name: mp
+  - name: flag-mp
     src: http://www.skype-emoticons.com/images/mp.png
-  - name: no
-    src: http://www.skype-emoticons.com/images/no.png
-  - name: om
+  - name: flag-om
     src: http://www.skype-emoticons.com/images/om.png
-  - name: pk
+  - name: flag-pk
     src: http://www.skype-emoticons.com/images/pk.png
-  - name: pw
+  - name: flag-pw
     src: http://www.skype-emoticons.com/images/pw.png
-  - name: ps
+  - name: flag-ps
     src: http://www.skype-emoticons.com/images/ps.png
-  - name: pa
+  - name: flag-pa
     src: http://www.skype-emoticons.com/images/pa.png
-  - name: pg
+  - name: flag-pg
     src: http://www.skype-emoticons.com/images/pg.png
-  - name: py
+  - name: flag-py
     src: http://www.skype-emoticons.com/images/py.png
-  - name: pe
+  - name: flag-pe
     src: http://www.skype-emoticons.com/images/pe.png
-  - name: ph
-    src: http://www.skype-emoticons.com/images/ph.png
-  - name: pn
+  - name: flag-pn
     src: http://www.skype-emoticons.com/images/pn.png
-  - name: pl
-    src: http://www.skype-emoticons.com/images/pl.png
-  - name: pt
-    src: http://www.skype-emoticons.com/images/pt.png
-  - name: pr
-    src: http://www.skype-emoticons.com/images/pr.png
-  - name: qa
+  - name: flag-qa
     src: http://www.skype-emoticons.com/images/qa.png
-  - name: re
+  - name: flag-re
     src: http://www.skype-emoticons.com/images/re.png
-  - name: ro
+  - name: flag-ro
     src: http://www.skype-emoticons.com/images/ro.png
-  - name: rs
+  - name: flag-rs
     src: http://www.skype-emoticons.com/images/rs.png
-  - name: ru
-    src: http://www.skype-emoticons.com/images/ru.png
-  - name: rw
+  - name: flag-rw
     src: http://www.skype-emoticons.com/images/rw.png
-  - name: sh
+  - name: flag-sh
     src: http://www.skype-emoticons.com/images/sh.png
-  - name: kn
+  - name: flag-kn
     src: http://www.skype-emoticons.com/images/kn.png
-  - name: lc
+  - name: flag-lc
     src: http://www.skype-emoticons.com/images/lc.png
-  - name: pm
+  - name: flag-pm
     src: http://www.skype-emoticons.com/images/pm.png
-  - name: vc
+  - name: flag-vc
     src: http://www.skype-emoticons.com/images/vc.png
-  - name: ws
+  - name: flag-ws
     src: http://www.skype-emoticons.com/images/ws.png
-  - name: sm
+  - name: flag-sm
     src: http://www.skype-emoticons.com/images/sm.png
-  - name: st
+  - name: flag-st
     src: http://www.skype-emoticons.com/images/st.png
-  - name: sa
-    src: http://www.skype-emoticons.com/images/sa.png
-  - name: sn
+  - name: flag-sn
     src: http://www.skype-emoticons.com/images/sn.png
-  - name: cs
+  - name: flag-cs
     src: http://www.skype-emoticons.com/images/cs.png
-  - name: sc
+  - name: flag-sc
     src: http://www.skype-emoticons.com/images/sc.png
-  - name: sl
+  - name: flag-sl
     src: http://www.skype-emoticons.com/images/sl.png
-  - name: sg
-    src: http://www.skype-emoticons.com/images/sg.png
-  - name: sk
+  - name: flag-sk
     src: http://www.skype-emoticons.com/images/sk.png
-  - name: si
+  - name: flag-si
     src: http://www.skype-emoticons.com/images/si.png
-  - name: sb
+  - name: flag-sb
     src: http://www.skype-emoticons.com/images/sb.png
-  - name: so
+  - name: flag-so
     src: http://www.skype-emoticons.com/images/so.png
-  - name: za
-    src: http://www.skype-emoticons.com/images/za.png
-  - name: es
-    src: http://www.skype-emoticons.com/images/es.png
-  - name: lk
+  - name: flag-lk
     src: http://www.skype-emoticons.com/images/lk.png
-  - name: sd
+  - name: flag-sd
     src: http://www.skype-emoticons.com/images/sd.png
-  - name: sr
+  - name: flag-sr
     src: http://www.skype-emoticons.com/images/sr.png
-  - name: sz
+  - name: flag-sz
     src: http://www.skype-emoticons.com/images/sz.png
-  - name: se
-    src: http://www.skype-emoticons.com/images/se.png
-  - name: ch
-    src: http://www.skype-emoticons.com/images/ch.png
-  - name: sy
+  - name: flag-sy
     src: http://www.skype-emoticons.com/images/sy.png
-  - name: tw
+  - name: flag-tw
     src: http://www.skype-emoticons.com/images/tw.png
-  - name: tj
+  - name: flag-tj
     src: http://www.skype-emoticons.com/images/tj.png
-  - name: tz
+  - name: flag-tz
     src: http://www.skype-emoticons.com/images/tz.png
-  - name: th
+  - name: flag-th
     src: http://www.skype-emoticons.com/images/th.png
-  - name: tl
+  - name: flag-tl
     src: http://www.skype-emoticons.com/images/tl.png
-  - name: tg
+  - name: flag-tg
     src: http://www.skype-emoticons.com/images/tg.png
-  - name: tk
+  - name: flag-tk
     src: http://www.skype-emoticons.com/images/tk.png
-  - name: to
+  - name: flag-to
     src: http://www.skype-emoticons.com/images/to.png
-  - name: tt
+  - name: flag-tt
     src: http://www.skype-emoticons.com/images/tt.png
-  - name: tn
+  - name: flag-tn
     src: http://www.skype-emoticons.com/images/tn.png
-  - name: tr
-    src: http://www.skype-emoticons.com/images/tr.png
-  - name: tm
+  - name: flag-tm
     src: http://www.skype-emoticons.com/images/tm.png
-  - name: tc
+  - name: flag-tc
     src: http://www.skype-emoticons.com/images/tc.png
-  - name: tv
+  - name: flag-tv
     src: http://www.skype-emoticons.com/images/tv.png
-  - name: vi
+  - name: flag-vi
     src: http://www.skype-emoticons.com/images/vi.png
-  - name: ug
+  - name: flag-ug
     src: http://www.skype-emoticons.com/images/ug.png
-  - name: ua
+  - name: flag-ua
     src: http://www.skype-emoticons.com/images/ua.png
-  - name: ae
-    src: http://www.skype-emoticons.com/images/ae.png
-  - name: gb
-    src: http://www.skype-emoticons.com/images/gb.png
-  - name: us
-    src: http://www.skype-emoticons.com/images/us.png
-  - name: uy
+  - name: flag-uy
     src: http://www.skype-emoticons.com/images/uy.png
-  - name: uz
+  - name: flag-uz
     src: http://www.skype-emoticons.com/images/uz.png
-  - name: vu
+  - name: flag-vu
     src: http://www.skype-emoticons.com/images/vu.png
-  - name: ve
+  - name: flag-ve
     src: http://www.skype-emoticons.com/images/ve.png
-  - name: vn
-    src: http://www.skype-emoticons.com/images/vn.png
-  - name: wf
+  - name: flag-wf
     src: http://www.skype-emoticons.com/images/wf.png
-  - name: eh
+  - name: flag-eh
     src: http://www.skype-emoticons.com/images/eh.png
-  - name: ye
+  - name: flag-ye
     src: http://www.skype-emoticons.com/images/ye.png
-  - name: zm
+  - name: flag-zm
     src: http://www.skype-emoticons.com/images/zm.png
-  - name: zw
+  - name: flag-zw
     src: http://www.skype-emoticons.com/images/zw.png
