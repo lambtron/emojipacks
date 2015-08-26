@@ -1,0 +1,56 @@
+title: starwars
+emojis:
+  - name: ackbar
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/ackbar.png
+  - name: boba
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/boba.png
+  - name: 3po
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/c3p0.png
+  - name: chewie
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/chewie.png
+  - name: clonetrooper
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/clonetrooper.png
+  - name: clonetrooper2
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/clonetrooper2.png
+  - name: clonetrooper3
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/clonetrooper3.png
+  - name: clonetrooper4
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/clonetrooper4.png
+  - name: darthmaul
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/darthmaul.png
+  - name: darthsidious
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/darthsidious.png
+  - name: darthvader
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/darthvader.png
+  - name: dualsith
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/dualsith.png
+  - name: jango
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/jango.png
+  - name: jarjarbinks
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/jarjarbinks.png
+  - name: jedi
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/jedi.png
+  - name: jedi2
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/jedi2.png
+  - name: leia
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/leia.png
+  - name: mace
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/mace.png
+  - name: macewindu
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/macewindu.png
+  - name: steamingmad
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/mad.png
+  - name: masteryoda
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/masteryoda.png
+  - name: r2
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/r2d2.png
+  - name: sith
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/sith.png
+  - name: stormtrooper2
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/stormtrooper.png
+  - name: trap
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/trap.png
+  - name: x-wing
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/x-wing.png
+  - name: y-wing
+    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/y-wing.png
