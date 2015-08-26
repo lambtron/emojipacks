@@ -1,14 +1,14 @@
 title: alerts
 emojis:
   - name: done
-  src:  http://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/alerts/done.png
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/alerts/done.png
   - name: unknown
-  src:  http://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/alerts/unknown.png
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/alerts/unknown.png
   - name: stash
-  src:  http://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/alerts/stash.png
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/alerts/stash.png
   - name: continue
-  src:  http://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/alerts/continue.png
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/alerts/continue.png
   - name: failed
-  src:  http://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/alerts/failed.png
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/alerts/failed.png
   - name: successful
-  src:  http://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/alerts/successful.png
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/alerts/successful.png
