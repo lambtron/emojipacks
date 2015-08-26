@@ -1,0 +1,56 @@
+title: food
+emojis:
+  - name: popcorn
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/popcorn.png
+  - name: juice
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/juice.png
+  - name: poptart
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/poptart.png
+  - name: soup
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/soup.png
+  - name: kebab
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/kebab.png
+  - name: pumpkin
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/pumpkin.png
+  - name: donut
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/donut.png
+  - name: fudge
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/fudge.png
+  - name: hotdog
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/hotdog.png
+  - name: edamame
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/edamame.png
+  - name: gummyworms
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/gummyworms.png
+  - name: doritos
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/doritos.png
+  - name: lemonade
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/lemonade.png
+  - name: nigiri
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/nigiri.png
+  - name: logcake
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/logcake.png
+  - name: cupcake
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/cupcake.png
+  - name: ham
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/ham.png
+  - name: jackolantern
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/jackolantern.png
+  - name: macandcheese
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/macandcheese.png
+  - name: sandwich
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/sandwich.png
+  - name: thanksgivingturkey
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/thanksgivingturkey.png
+  - name: dadcoffee
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/dadcoffee.png
+  - name: milk
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/milk.png
+  - name: onigiri
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/onigiri.png
+  - name: flan
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/flan.png
+  - name: slurpee
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/slurpee.png
+  - name: smore
+  src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/food/smore.png
