@@ -50,7 +50,5 @@ emojis:
     src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/stormtrooper.png
   - name: trap
     src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/trap.png
-  - name: x-wing
-    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/x-wing.png
   - name: y-wing
     src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/starwars/y-wing.png
