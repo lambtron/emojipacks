@@ -1,7 +1,5 @@
 title: unicode
 emojis:
-  - name: beads
-    src:  beads.png
   - name: burrito
     src:  burrito.png
   - name: fever
