@@ -1,0 +1,34 @@
+title: unicode
+emojis:
+  - name: ackbar
+    src:  beads.png
+  - name:
+    src:  burrito.png
+  - name: fever
+    src:  fever.png
+  - name: hippo
+    src:  hippo.png
+  - name: hotdog
+    src:  hotdog.png
+  - name: huggingface
+    src:  huggingface.png
+  - name: hurt
+    src:  hurt.png
+  - name: mecca
+    src:  mecca.png
+  - name: mosque
+    src:  mosque.png
+  - name: popcorn
+    src:  popcorn.png
+  - name: temple
+    src:  temple.png
+  - name: thinking
+    src:  thinking.png
+  - name: unicorn
+    src:  unicorn.png
+  - name: upsidedown
+    src:  upsidedown.png
+  - name: volleyball2
+    src:  volleyball2.png
+  - name: worship
+    src:  worship.png
