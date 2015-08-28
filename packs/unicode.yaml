@@ -8,7 +8,7 @@ emojis:
     src:  fever.png
   - name: hippo
     src:  hippo.png
-  - name: hotdog
+  - name: hot_dog
     src:  hotdog.png
   - name: huggingface
     src:  huggingface.png
@@ -18,13 +18,13 @@ emojis:
     src:  mecca.png
   - name: mosque
     src:  mosque.png
-  - name: popcorn
+  - name: popcorn1
     src:  popcorn.png
   - name: temple
     src:  temple.png
   - name: thinking
     src:  thinking.png
-  - name: unicorn
+  - name: unicorn1
     src:  unicorn.png
   - name: upsidedown
     src:  upsidedown.png
