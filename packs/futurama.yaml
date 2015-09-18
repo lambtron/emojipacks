@@ -1,42 +1,42 @@
-title: futurama
+title: Futurama
 emojis:
-  - name: bubblegumtate
-    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/futurama/bubblegumtate.png
-  - name: fry
-    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/futurama/fry.png
-  - name: calculon
-    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/futurama/calculon.png
-  - name: fry2
-    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/futurama/fry2.png
-  - name: planetexpress
-    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/futurama/planetexpress.png
-  - name: amywong
-    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/futurama/amywong.png
-  - name: futuramamom
-    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/futurama/futuramamom.png
-  - name: nixonhead
-    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/futurama/nixonhead.png
-  - name: leela
-    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/futurama/leela.png
   - name: bender
-    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/futurama/bender.png
-  - name: nibbler
-    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/futurama/nibbler.png
-  - name: cubert
-    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/futurama/cubert.png
-  - name: farnsworth
-    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/futurama/farnsworth.png
-  - name: farnsworth2
-    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/futurama/farnsworth2.png
+    src: http://i.imgur.com/7zYM751.png
+  - name: amywong
+    src: http://i.imgur.com/DgKkcCi.png
   - name: zoidberg
-    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/futurama/zoidberg.png
+    src: http://i.imgur.com/mSqDwpv.gif
+  - name: bubblegumtate
+    src: http://i.imgur.com/KZc4d9V.png
+  - name: calculon
+    src: http://i.imgur.com/2Bs3xWa.png
+  - name: cubert
+    src: http://i.imgur.com/GwtQgYZ.png
+  - name: fry
+    src: http://i.imgur.com/x22kJb2.png
   - name: hermes
-    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/futurama/hermes.png
-  - name: slurmsmckenzie
-    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/futurama/slurmsmckenzie.png
-  - name: morbo
-    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/futurama/morbo.png
-  - name: brannigan
-    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/futurama/brannigan.png
+    src: http://i.imgur.com/l9Tjiba.png
   - name: kif
-    src:  https://raw.githubusercontent.com/alecfwilson/emojipacks/master/images/futurama/kif.png
+    src: http://i.imgur.com/nbSLkk1.png
+  - name: leela
+    src: http://i.imgur.com/QfvN4LT.png
+  - name: futuramamom
+    src: http://i.imgur.com/fZtHKuB.png
+  - name: morbo
+    src: http://i.imgur.com/8U4g4M9.png
+  - name: nibbler
+    src: http://i.imgur.com/MAzi5aq.png
+  - name: notsureif
+    src: http://i.imgur.com/0TRikVb.png
+  - name: farnsworth
+    src: http://i.imgur.com/YVweaxk.png
+  - name: pxlogo
+    src: http://i.imgur.com/TbB6PC0.png
+  - name: nixonhead
+    src: http://i.imgur.com/zc491zY.png
+  - name: slurmsmckenzie
+    src: http://i.imgur.com/tC4G9Mq.png
+  - name: brannigan
+    src: http://i.imgur.com/eLCLr9R.png
+  - name: hypnotoad
+    src: http://i.imgur.com/o7tyjxN.gif
