@@ -56,7 +56,7 @@ Note that the emoji pack to upload can be a **path** to a yaml file on your mach
 
 ## Emoji Yaml File
 
-Also note that the yaml file must be formatted as such:
+Also note that the yaml file must be indented properly and formatted as such:
 
 ```yaml
 title: food
@@ -72,6 +72,7 @@ emojis:
 - Square images work best
 - Image can't be larger than 128px in width or height
 - Image must be smaller than 64K in file size
+
 
 ## Emoji packs
 
@@ -95,7 +96,8 @@ Want to contribute? [Suggest an emoji pack](https://20p.typeform.com/to/xOFDyq)!
 This script will essentially log into your Slack and then submit a `POST` request on the emoji upload form page. If you are seeing errors, make sure that:
 - **you have Slack privileges to add custom emojis**: otherwise, the script won't be able to get to the emoji upload form
 - **you disabled two-factor authentication**: again, having two-factor enabled will prevent the script from getting to the necessary emoji upload form
-- **your credentials are correct**
+- **your credentials are correct**: if you have done all of the following correctly try running the command **emojipacks -d**
+
 
 *Still having issues? Create an issue [here](https://github.com/lambtron/emojipacks/issues/new).*
 

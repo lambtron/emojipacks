@@ -14,7 +14,7 @@ install: node_modules
 				@npm link
 				@echo
 				@echo "\x1B[97m  emojipacks \x1B[90m·\x1B[39m Successfully installed Emojipack!"
-				@echo "\x1B[97m             \x1B[90m·\x1B[39m Run \`emojipack\` to get started."
+				@echo "\x1B[97m             \x1B[90m·\x1B[39m Run \`emojipacks\` to get started."
 				@echo
 
 # Install node modules with npm.
