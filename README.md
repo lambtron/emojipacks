@@ -89,8 +89,6 @@ emojis:
 
 Want to contribute? [Suggest an emoji pack](https://20p.typeform.com/to/xOFDyq)!
 
-*Enjoyed this project? Check out my [blog](https://blog.andyjiang.com) for more*.
-
 ## Troubleshooting
 
 This script will essentially log into your Slack and then submit a `POST` request on the emoji upload form page. If you are seeing errors, make sure that:
@@ -98,8 +96,9 @@ This script will essentially log into your Slack and then submit a `POST` reques
 - **you disabled two-factor authentication**: again, having two-factor enabled will prevent the script from getting to the necessary emoji upload form
 - **your credentials are correct**: if you have done all of the following correctly try running the command **emojipacks -d**
 
-
 *Still having issues? Create an issue [here](https://github.com/lambtron/emojipacks/issues/new).*
+
+*Enjoyed this project? Check out my [blog](http://blog.andyjiang.com) for more*.
 
 ## License (MIT)
 
