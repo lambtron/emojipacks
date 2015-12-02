@@ -1,0 +1,13 @@
+language: node_js
+
+node_js:
+  - 0.10
+
+# whitelist
+# gh-pages is otherwise ignored by Travis CI
+# Use a regex to whitelist gh-pages and all branches
+branches:
+  only:
+    - /.*/
+
+sudo: false # Use container-based infrastructure
