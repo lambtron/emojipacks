@@ -43,5 +43,13 @@
     "request": "^2.60.0",
     "thunkify-wrap": "^1.0.4",
     "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.3",
+    "grunt-yaml-validator": "^0.7.3",
+    "grunt-cli": "^0.1.13"
+  },
+  "scripts": {
+    "test": "grunt travis --verbose"
   }
 }
