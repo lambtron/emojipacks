@@ -84,6 +84,7 @@ emojis:
 - [businessfish](http://www.emojipacks.com/packs/businessfish.yaml)
 - [hipchat](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/hipchat.yaml)
 - [twitch](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/twitch.yaml)
+- [Slackmojis](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis.yaml)
 
 ![](http://media1.giphy.com/media/68H7QjnqFOn2E/100.gif)
 
