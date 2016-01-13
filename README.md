@@ -85,6 +85,7 @@ emojis:
 - [hipchat](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/hipchat.yaml)
 - [twitch](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/twitch.yaml)
 - [Slackmojis](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis.yaml)
+- [parrotparty](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/parrotparty.yaml) ([Parrot](http://cultofthepartyparrot.com/) [Paint](http://cultofthepartyparrot.com/paint/))
 
 ![](http://media1.giphy.com/media/68H7QjnqFOn2E/100.gif)
 
