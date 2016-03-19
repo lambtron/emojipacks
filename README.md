@@ -91,6 +91,26 @@ emojis:
 
 Want to contribute? [Suggest an emoji pack](https://20p.typeform.com/to/xOFDyq)!
 
+## Batch use
+
+You can set the following environment variables instead of being prompted interactively for the parameters:
+
+* `SLACK_SUBDOMAIN`
+* `SLACK_EMAIL`
+* `SLACK_PASSWORD`
+* `SLACK_EMOJIPACK`
+
+For example:
+
+    SLACK_SUBDOMAIN=example SLACK_EMAIL=foobar@example.com SLACK_PASSWORD='secret-pw' SLACK_EMOJIPACK=packs/futurama.pack bin/emojipacks
+
+This is convenient when you want to import many emoji packs at once, you might use this to import ![:allthethings:](https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/allthethings-1414024836@2x.png) at once for example:
+
+    export SLACK_SUBDOMAIN=example SLACK_EMAIL=foobar@example.com SLACK_PASSWORD='secret-pw'
+    for emoji in packs/*.yaml; do  SLACK_EMOJIPACK="$emoji" bin/emojipacks; done
+
+Please be cautious and know that if you use the environment variable configurations to drive the import on a multiuser system, that other people logged in could observe your Slack domain, email, and password while the script is running, as environment variables are not private. This does not matter so much on a single user system, such as your personal computer.
+
 ## Troubleshooting
 
 This script will essentially log into your Slack and then submit a `POST` request on the emoji upload form page. If you are seeing errors, make sure that:
