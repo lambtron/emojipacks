@@ -1,0 +1,66 @@
+title: Neko Atsume
+emojis:
+  - name: bandit
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/bandit.png
+  - name: bobthecat
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/bobthecat.png
+  - name: bolt
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/bolt.png
+  - name: breezy
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/breezy.png
+  - name: callie
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/callie.png
+  - name: cocoa
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/cocoa.png
+  - name: dottie
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/dottie.png
+  - name: fortune
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/fortune.png
+  - name: fred
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/fred.png
+  - name: gabriel
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/gabriel.png
+  - name: ginger
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/ginger.png
+  - name: gozer
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/gozer.png
+  - name: lexy
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/lexy.png
+  - name: mack
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/mack.png
+  - name: marshmallow
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/marshmallow.png
+  - name: misty
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/misty.png
+  - name: patches
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/patches.png
+  - name: peaches
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/peaches.png
+  - name: pepper
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/pepper.png
+  - name: pickles
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/pickles.png
+  - name: princess
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/princess.png
+  - name: pumpkin
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/pumpkin.png
+  - name: rascal
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/rascal.png
+  - name: shadow
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/shadow.png
+  - name: smokey
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/smokey.png
+  - name: snowball
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/snowball.png
+  - name: socks
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/socks.png
+  - name: speckles
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/speckles.png
+  - name: sunny
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/sunny.png
+  - name: tabitha
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/tabitha.png
+  - name: tubbs
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/tubbs.png
+  - name: xerxes
+    src: https://raw.githubusercontent.com/meteormanaged/neko-atsume-slack-emojis/master/kitties/xerxes.png
