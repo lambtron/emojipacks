@@ -89,6 +89,9 @@ emojis:
 - [Slackmojis](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis.yaml)
 - [parrotparty](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/parrotparty.yaml) ([Parrot](http://cultofthepartyparrot.com/) [Paint](http://cultofthepartyparrot.com/paint/))
 - [Finland](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/finland.yaml)
+- [pokemongo](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/pokemongo.yaml)
+- [nekoatsume](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/nekoatsume.yaml)
+- [octicons](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/octicons.yaml)
 
 ![](http://media1.giphy.com/media/68H7QjnqFOn2E/100.gif)
 
