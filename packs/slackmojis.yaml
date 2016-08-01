@@ -1,47 +1,121 @@
 title: slackemojis
 emojis:
+  - src: http://emojis.slackmojis.com/emojis/images/1464134981/459/fb-angry.gif
+    name: fb-angry
+  - src: http://emojis.slackmojis.com/emojis/images/1464135070/463/fb-heart.gif
+    name: fb-heart
+  - src: http://emojis.slackmojis.com/emojis/images/1464135056/462/fb-laugh.gif
+    name: fb-laugh
+  - src: http://emojis.slackmojis.com/emojis/images/1464135097/464/fb-like.gif
+    name: fb-like
+  - src: http://emojis.slackmojis.com/emojis/images/1464135001/460/fb-sad.gif
+    name: fb-sad
+  - src: http://emojis.slackmojis.com/emojis/images/1464135017/461/fb-wow.gif
+    name: fb-wow
   - src: http://emojis.slackmojis.com/emojis/images/1450319445/42/amazon.png
     name: amazon
   - src: http://emojis.slackmojis.com/emojis/images/1450319443/30/android.jpg
     name: android
   - src: http://emojis.slackmojis.com/emojis/images/1450319442/24/appleinc.png
     name: appleinc
-  - src: http://emojis.slackmojis.com/emojis/images/1450464744/191/asana.png
+  - src: http://emojis.slackmojis.com/emojis/images/1467305681/623/asana.png
     name: asana
+  - src: http://emojis.slackmojis.com/emojis/images/1450464744/191/asana.png
+    name: asana2
+  - src: http://emojis.slackmojis.com/emojis/images/1460283908/347/askfm.png
+    name: askfm
+  - src: http://emojis.slackmojis.com/emojis/images/1467057057/599/aws.png
+    name: aws
+  - src: http://emojis.slackmojis.com/emojis/images/1467057067/600/aws_eb.png
+    name: aws_eb
   - src: http://emojis.slackmojis.com/emojis/images/1450464763/192/basecamp.png
     name: basecamp
   - src: http://emojis.slackmojis.com/emojis/images/1450319453/119/chrome.png
     name: chrome
+  - src: http://emojis.slackmojis.com/emojis/images/1461993145/378/clojure.gif
+    name: clojure
+  - src: http://emojis.slackmojis.com/emojis/images/1452776893/262/crowdfire.png
+    name: crowdfire
+  - src: http://emojis.slackmojis.com/emojis/images/1465574290/509/datadog.png
+    name: datadog
+  - src: http://emojis.slackmojis.com/emojis/images/1467306197/627/digital_ocean.png
+    name: digital_ocean
+  - src: http://emojis.slackmojis.com/emojis/images/1462400762/397/docker.png
+    name: docker
   - src: http://emojis.slackmojis.com/emojis/images/1450319444/37/dropbox.png
     name: dropbox
   - src: http://emojis.slackmojis.com/emojis/images/1450464653/187/droplr.png
     name: droplr
+  - src: http://emojis.slackmojis.com/emojis/images/1467056968/594/emacs.png
+    name: emacs
+  - src: http://emojis.slackmojis.com/emojis/images/1457252455/311/ether.png
+    name: ether
+  - src: http://emojis.slackmojis.com/emojis/images/1467305929/625/evernote.png
+    name: evernote
+  - src: http://emojis.slackmojis.com/emojis/images/1467307123/639/evernote_app.png
+    name: evernote_app
   - src: http://emojis.slackmojis.com/emojis/images/1450319443/34/facebook.png
     name: facebook
   - src: http://emojis.slackmojis.com/emojis/images/1450319453/118/firefox.png
     name: firefox
+  - src: http://emojis.slackmojis.com/emojis/images/1458106637/314/flask.png
+    name: flask
+  - src: http://emojis.slackmojis.com/emojis/images/1450805181/256/gap.png
+    name: gap
+  - src: http://emojis.slackmojis.com/emojis/images/1460043575/341/git.png
+    name: git
+  - src: http://emojis.slackmojis.com/emojis/images/1450822151/257/github.png
+    name: github
   - src: http://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png
     name: gmail
+  - src: http://emojis.slackmojis.com/emojis/images/1454546974/291/golang.png
+    name: golang
   - src: http://emojis.slackmojis.com/emojis/images/1450464805/195/google.png
     name: google
+  - src: http://emojis.slackmojis.com/emojis/images/1467066274/602/gopro.png
+    name: gopro
+  - src: http://emojis.slackmojis.com/emojis/images/1467305559/622/harvest_app.png
+    name: harvest_app
+  - src: http://emojis.slackmojis.com/emojis/images/1465929657/511/heroku.png
+    name: heroku
+  - src: http://emojis.slackmojis.com/emojis/images/1460043535/340/ibm.png
+    name: ibm
   - src: http://emojis.slackmojis.com/emojis/images/1450464717/189/illustrator.png
     name: illustrator
+  - src: http://emojis.slackmojis.com/emojis/images/1467305029/617/imzy.png
+    name: imzy
   - src: http://emojis.slackmojis.com/emojis/images/1450464691/188/indesign.png
     name: indesign
-  - src: http://emojis.slackmojis.com/emojis/images/1450319445/40/instagram.png
+  - src: http://emojis.slackmojis.com/emojis/images/1453827454/268/instacart.png
+    name: instacart
+  - src: http://emojis.slackmojis.com/emojis/images/1467306728/632/instagram.png
     name: instagram
+  - src: http://emojis.slackmojis.com/emojis/images/1450319445/40/instagram.png
+    name: instagram2
   - src: http://emojis.slackmojis.com/emojis/images/1450319454/117/internet_explorer.png
     name: internet_explorer
   - src: http://emojis.slackmojis.com/emojis/images/1450733280/232/java.png
     name: java
-  - src: http://emojis.slackmojis.com/emojis/images/1450319444/33/java.png
-    name: java
   - src: http://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png
     name: javascript
+  - src: http://emojis.slackmojis.com/emojis/images/1467306670/631/jenkins_ci.png
+    name: jenkins_ci
   - src: http://emojis.slackmojis.com/emojis/images/1450448442/161/mailchimp.png
     name: mailchimp
+  - src: http://emojis.slackmojis.com/emojis/images/1464195835/495/mcdonalds.png
+    name: mcdonalds
+  - src: http://emojis.slackmojis.com/emojis/images/1467056894/592/metabase.png
+    name: metabase
   - src: http://emojis.slackmojis.com/emojis/images/1450319459/146/netflix.png
     name: netflix
+  - src: http://emojis.slackmojis.com/emojis/images/1467306844/634/new_relic.png
+    name: new_relic
+  - src: http://emojis.slackmojis.com/emojis/images/1465155056/503/opera.png
+    name: opera
+  - src: http://emojis.slackmojis.com/emojis/images/1467306358/628/pagerduty.png
+    name: pagerduty
+  - src: http://emojis.slackmojis.com/emojis/images/1467306584/630/paypal.png
+    name: paypal
   - src: http://emojis.slackmojis.com/emojis/images/1450464730/190/photoshop.png
     name: photoshop
   - src: http://emojis.slackmojis.com/emojis/images/1450319454/130/php.png
@@ -56,50 +130,104 @@ emojis:
     name: python
   - src: http://emojis.slackmojis.com/emojis/images/1450738434/245/raspberry_pi.png
     name: raspberry_pi
+  - src: http://emojis.slackmojis.com/emojis/images/1467306474/629/reddit.png
+    name: reddit
+  - src: http://emojis.slackmojis.com/emojis/images/1462128189/390/redux.png
+    name: redux
   - src: http://emojis.slackmojis.com/emojis/images/1450319445/31/ruby.png
     name: ruby
+  - src: http://emojis.slackmojis.com/emojis/images/1467305311/619/ruby_on_rails.png
+    name: ruby_on_rails
   - src: http://emojis.slackmojis.com/emojis/images/1450369354/148/safari.png
     name: safari
   - src: http://emojis.slackmojis.com/emojis/images/1450448377/159/skype.png
     name: skype
-  - src: http://emojis.slackmojis.com/emojis/images/1450319445/39/snapchat.jpg
+  - src: http://emojis.slackmojis.com/emojis/images/1467939767/647/snapchat.jpg
     name: snapchat
   - src: http://emojis.slackmojis.com/emojis/images/1450319449/120/soundcloud.png
     name: soundcloud
   - src: http://emojis.slackmojis.com/emojis/images/1450319454/41/spotify.png
     name: spotify
+  - src: http://emojis.slackmojis.com/emojis/images/1467306978/636/squareup.png
+    name: squareup
+  - src: http://emojis.slackmojis.com/emojis/images/1462799966/405/stackoverflow.png
+    name: stackoverflow
   - src: http://emojis.slackmojis.com/emojis/images/1450319454/66/starbucks.png
     name: starbucks
+  - src: http://emojis.slackmojis.com/emojis/images/1467307084/638/stripe.png
+    name: stripe
+  - src: http://emojis.slackmojis.com/emojis/images/1467305145/618/swarm_app.png
+    name: swarm_app
+  - src: http://emojis.slackmojis.com/emojis/images/1459365617/335/tesla.jpg
+    name: tesla
+  - src: http://emojis.slackmojis.com/emojis/images/1454267655/281/tinder.png
+    name: tinder
   - src: http://emojis.slackmojis.com/emojis/images/1450480108/214/todoist.png
     name: todoist
+  - src: http://emojis.slackmojis.com/emojis/images/1467305427/620/toggl.png
+    name: toggl
+  - src: http://emojis.slackmojis.com/emojis/images/1462891199/406/travisci.png
+    name: travisci
   - src: http://emojis.slackmojis.com/emojis/images/1450448407/160/trello.png
     name: trello
-  - src: http://emojis.slackmojis.com/emojis/images/1450319443/35/twitter.png
-    name: twitter
   - src: http://emojis.slackmojis.com/emojis/images/1450733056/231/twitter.png
     name: twitter
+  - src: http://emojis.slackmojis.com/emojis/images/1450319443/35/twitter.png
+    name: twitter2
+  - src: http://emojis.slackmojis.com/emojis/images/1452690821/261/windows.png
+    name: windows
+  - src: http://emojis.slackmojis.com/emojis/images/1467305795/624/wordpress.png
+    name: wordpress
   - src: http://emojis.slackmojis.com/emojis/images/1450319445/18/yo.png
     name: yo
+  - src: http://emojis.slackmojis.com/emojis/images/1464897233/502/zeplin.png
+    name: zeplin
   - src: http://emojis.slackmojis.com/emojis/images/1450319443/3/aliensguy.jpg
     name: aliensguy
   - src: http://emojis.slackmojis.com/emojis/images/1450319440/23/all_the_things.jpg
     name: all_the_things
+  - src: http://emojis.slackmojis.com/emojis/images/1463601416/411/awwyeah.png
+    name: awwyeah
+  - src: http://emojis.slackmojis.com/emojis/images/1463601451/412/captain_obvious.png
+    name: captain_obvious
+  - src: http://emojis.slackmojis.com/emojis/images/1463601502/415/challenge_accepted.jpg
+    name: challenge_accepted
+  - src: http://emojis.slackmojis.com/emojis/images/1463601522/416/challenge_denied.jpg
+    name: challenge_denied
+  - src: http://emojis.slackmojis.com/emojis/images/1463601563/418/crying.png
+    name: crying
+  - src: http://emojis.slackmojis.com/emojis/images/1462299228/395/datboi.gif
+    name: datboi
+  - src: http://emojis.slackmojis.com/emojis/images/1463602472/439/deal_with_it.png
+    name: deal_with_it
   - src: http://emojis.slackmojis.com/emojis/images/1450380010/150/dickbutt.png
     name: dickbutt
-  - src: http://emojis.slackmojis.com/emojis/images/1450319447/2/doge.jpg
-    name: doge
-  - src: http://emojis.slackmojis.com/emojis/images/1450319452/107/doge.png
-    name: doge
   - src: http://emojis.slackmojis.com/emojis/images/1450451598/168/doge2.png
     name: doge2
+  - src: http://emojis.slackmojis.com/emojis/images/1457563042/312/doge.png
+    name: doge
+  - src: http://emojis.slackmojis.com/emojis/images/1463602545/441/door_stop.png
+    name: door_stop
+  - src: http://emojis.slackmojis.com/emojis/images/1463602516/440/epic_win.png
+    name: epic_win
   - src: http://emojis.slackmojis.com/emojis/images/1450319441/51/facepalm.png
     name: facepalm
+  - src: http://emojis.slackmojis.com/emojis/images/1450473045/204/facepalm.gif
+    name: facepalm2
+  - src: http://emojis.slackmojis.com/emojis/images/1454927900/294/feels.png
+    name: feels
   - src: http://emojis.slackmojis.com/emojis/images/1450319446/63/fry.png
     name: fry
-  - src: http://emojis.slackmojis.com/emojis/images/1450448061/154/grumpy_cat.png
-    name: grumpy_cat
+  - src: http://emojis.slackmojis.com/emojis/images/1463601656/419/gasp.png
+    name: gasp
+  - src: http://emojis.slackmojis.com/emojis/images/1458326965/319/grumpycat.png
+    name: grumpycat
   - src: http://emojis.slackmojis.com/emojis/images/1450319455/129/hypnotoad.gif
     name: hypnotoad
+  - src: http://emojis.slackmojis.com/emojis/images/1463602430/438/insanity_wolf.png
+    name: insanity_wolf
+  - src: http://emojis.slackmojis.com/emojis/images/1463602347/436/i_see_what_you_did_there.png
+    name: i_see_what_you_did_there
   - src: http://emojis.slackmojis.com/emojis/images/1450319446/57/kappa.png
     name: kappa
   - src: http://emojis.slackmojis.com/emojis/images/1450319443/1/lol.gif
@@ -108,26 +236,126 @@ emojis:
     name: megusta
   - src: http://emojis.slackmojis.com/emojis/images/1450319447/26/mindblown.gif
     name: mindblown
-  - src: http://emojis.slackmojis.com/emojis/images/1450319446/56/notbad.jpg
+  - src: http://emojis.slackmojis.com/emojis/images/1463601925/423/no.jpg
+    name: no
+  - src: http://emojis.slackmojis.com/emojis/images/1458326982/320/notbad.png
     name: notbad
+  - src: http://emojis.slackmojis.com/emojis/images/1450319446/56/notbad.jpg
+    name: notbad2
+  - src: http://emojis.slackmojis.com/emojis/images/1463602283/435/not_sure.jpg
+    name: not_sure
+  - src: http://emojis.slackmojis.com/emojis/images/1463601984/425/numb.png
+    name: numb
   - src: http://emojis.slackmojis.com/emojis/images/1450319443/64/nyancat.gif
     name: nyancat
   - src: http://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif
     name: nyancat_big
+  - src: http://emojis.slackmojis.com/emojis/images/1463602736/442/psy.gif
+    name: psy
+  - src: http://emojis.slackmojis.com/emojis/images/1463601948/424/rage.jpg
+    name: rage
+  - src: http://emojis.slackmojis.com/emojis/images/1463602390/437/rainbow_puke.jpg
+    name: rainbow_puke
+  - src: http://emojis.slackmojis.com/emojis/images/1463602020/426/seriously.png
+    name: seriously
+  - src: http://emojis.slackmojis.com/emojis/images/1463601732/420/slam.gif
+    name: slam
+  - src: http://emojis.slackmojis.com/emojis/images/1458327048/324/socute.png
+    name: socute
+  - src: http://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png
+    name: success-kid
   - src: http://emojis.slackmojis.com/emojis/images/1450319446/65/take_my_money.png
     name: take_my_money
-  - src: http://emojis.slackmojis.com/emojis/images/1450319447/52/the_more_you_know.gif
-    name: the_more_you_know
   - src: http://emojis.slackmojis.com/emojis/images/1450319446/62/the_more_you_know.png
     name: the_more_you_know
+  - src: http://emojis.slackmojis.com/emojis/images/1450319447/52/the_more_you_know.gif
+    name: the_more_you_know2
+  - src: http://emojis.slackmojis.com/emojis/images/1463601767/421/trap.png
+    name: trap
+  - src: http://emojis.slackmojis.com/emojis/images/1463602125/429/troll.png
+    name: troll
+  - src: http://emojis.slackmojis.com/emojis/images/1463602254/434/very_nice.jpg
+    name: very_nice
   - src: http://emojis.slackmojis.com/emojis/images/1450319445/54/watch_out.png
     name: watch_out
+  - src: http://emojis.slackmojis.com/emojis/images/1463602170/430/what_year_is_it.png
+    name: what_year_is_it
   - src: http://emojis.slackmojis.com/emojis/images/1450319444/53/whoa.jpg
     name: whoa
+  - src: http://emojis.slackmojis.com/emojis/images/1463602048/427/whoa_guys.png
+    name: whoa_guys
   - src: http://emojis.slackmojis.com/emojis/images/1450319445/55/why_not_both.jpg
     name: why_not_both
+  - src: http://emojis.slackmojis.com/emojis/images/1463602190/432/worst_ever.jpg
+    name: worst_ever
+  - src: http://emojis.slackmojis.com/emojis/images/1458849771/332/xzibit.png
+    name: xzibit
+  - src: http://emojis.slackmojis.com/emojis/images/1463602224/433/you_dont_say.png
+    name: you_dont_say
+  - src: http://emojis.slackmojis.com/emojis/images/1463602086/428/y_u_no.png
+    name: y_u_no
   - src: http://emojis.slackmojis.com/emojis/images/1450319448/22/zoidberg.jpg
     name: zoidberg
+  - src: http://emojis.slackmojis.com/emojis/images/1464145836/465/76ers.png
+    name: 76ers
+  - src: http://emojis.slackmojis.com/emojis/images/1464145871/466/bucks.png
+    name: bucks
+  - src: http://emojis.slackmojis.com/emojis/images/1464145910/467/bulls.png
+    name: bulls
+  - src: http://emojis.slackmojis.com/emojis/images/1464145928/468/cavaliers.png
+    name: cavaliers
+  - src: http://emojis.slackmojis.com/emojis/images/1464145943/469/celtics.png
+    name: celtics
+  - src: http://emojis.slackmojis.com/emojis/images/1464145963/470/clippers.png
+    name: clippers
+  - src: http://emojis.slackmojis.com/emojis/images/1464145979/471/grizzlies.png
+    name: grizzlies
+  - src: http://emojis.slackmojis.com/emojis/images/1464146002/472/hawks.png
+    name: hawks
+  - src: http://emojis.slackmojis.com/emojis/images/1464146040/473/heat.png
+    name: heat
+  - src: http://emojis.slackmojis.com/emojis/images/1464146057/474/hornets.png
+    name: hornets
+  - src: http://emojis.slackmojis.com/emojis/images/1464146076/475/jazz.png
+    name: jazz
+  - src: http://emojis.slackmojis.com/emojis/images/1464146094/476/kings.png
+    name: kings
+  - src: http://emojis.slackmojis.com/emojis/images/1464146113/477/knicks.png
+    name: knicks
+  - src: http://emojis.slackmojis.com/emojis/images/1464146132/478/lakers.png
+    name: lakers
+  - src: http://emojis.slackmojis.com/emojis/images/1464146151/479/magic.png
+    name: magic
+  - src: http://emojis.slackmojis.com/emojis/images/1464146169/480/mavericks.png
+    name: mavericks
+  - src: http://emojis.slackmojis.com/emojis/images/1464146190/481/nets.png
+    name: nets
+  - src: http://emojis.slackmojis.com/emojis/images/1464146207/482/nuggets.png
+    name: nuggets
+  - src: http://emojis.slackmojis.com/emojis/images/1464146223/483/pacers.png
+    name: pacers
+  - src: http://emojis.slackmojis.com/emojis/images/1464146241/484/pelicans.png
+    name: pelicans
+  - src: http://emojis.slackmojis.com/emojis/images/1464146256/485/pistons.png
+    name: pistons
+  - src: http://emojis.slackmojis.com/emojis/images/1464146288/486/raptors.png
+    name: raptors
+  - src: http://emojis.slackmojis.com/emojis/images/1464146305/487/rockets.png
+    name: rockets
+  - src: http://emojis.slackmojis.com/emojis/images/1464146323/488/spurs.png
+    name: spurs
+  - src: http://emojis.slackmojis.com/emojis/images/1464146340/489/suns.png
+    name: suns
+  - src: http://emojis.slackmojis.com/emojis/images/1464146357/490/thunder.png
+    name: thunder
+  - src: http://emojis.slackmojis.com/emojis/images/1464146376/491/timberwolves.png
+    name: timberwolves
+  - src: http://emojis.slackmojis.com/emojis/images/1464146395/492/trailblazers.png
+    name: trailblazers
+  - src: http://emojis.slackmojis.com/emojis/images/1464146409/493/warriors.png
+    name: warriors
+  - src: http://emojis.slackmojis.com/emojis/images/1464146426/494/wizards.png
+    name: wizards
   - src: http://emojis.slackmojis.com/emojis/images/1450735430/234/bulbasaur.png
     name: bulbasaur
   - src: http://emojis.slackmojis.com/emojis/images/1450735493/236/charizard.png
@@ -136,18 +364,22 @@ emojis:
     name: charmander
   - src: http://emojis.slackmojis.com/emojis/images/1450735463/235/ditto.png
     name: ditto
+  - src: http://emojis.slackmojis.com/emojis/images/1468518265/661/eevee.png
+    name: eevee
+  - src: http://emojis.slackmojis.com/emojis/images/1469201940/672/instinct.gif
+    name: instinct
   - src: http://emojis.slackmojis.com/emojis/images/1450736574/244/ivysaur.png
     name: ivysaur
-  - src: http://emojis.slackmojis.com/emojis/images/1450319452/103/jigglypuff.png
-    name: jigglypuff
   - src: http://emojis.slackmojis.com/emojis/images/1450736274/243/mew.png
     name: mew
   - src: http://emojis.slackmojis.com/emojis/images/1450736076/242/mewtwo.png
     name: mewtwo
-  - src: http://emojis.slackmojis.com/emojis/images/1450735712/238/pikachu.png
-    name: pikachu
+  - src: http://emojis.slackmojis.com/emojis/images/1469201975/673/mystic.gif
+    name: mystic
   - src: http://emojis.slackmojis.com/emojis/images/1450458394/182/pikachu.gif
     name: pikachu
+  - src: http://emojis.slackmojis.com/emojis/images/1450735712/238/pikachu.png
+    name: pikachu2
   - src: http://emojis.slackmojis.com/emojis/images/1450464069/186/pokeball.png
     name: pokeball
   - src: http://emojis.slackmojis.com/emojis/images/1450736025/241/psyduck.png
@@ -158,6 +390,8 @@ emojis:
     name: snorlax
   - src: http://emojis.slackmojis.com/emojis/images/1450735892/240/squirtle.png
     name: squirtle
+  - src: http://emojis.slackmojis.com/emojis/images/1469202036/674/valor.gif
+    name: valor
   - src: http://emojis.slackmojis.com/emojis/images/1450319442/13/1up.png
     name: 1up
   - src: http://emojis.slackmojis.com/emojis/images/1450319445/44/coin.gif
@@ -165,37 +399,55 @@ emojis:
   - src: http://emojis.slackmojis.com/emojis/images/1450319445/45/goomba.gif
     name: goomba
   - src: http://emojis.slackmojis.com/emojis/images/1450319443/25/hadouken.jpeg
-    name: hadouken
+    name: hadouken.
   - src: http://emojis.slackmojis.com/emojis/images/1450319454/128/kerbal_space_program.jpg
     name: kerbal_space_program
   - src: http://emojis.slackmojis.com/emojis/images/1450716258/223/kirby.gif
     name: kirby
   - src: http://emojis.slackmojis.com/emojis/images/1450448467/162/kirby.gif
-    name: kirby
+    name: kirby2
   - src: http://emojis.slackmojis.com/emojis/images/1450451879/172/knuckles.gif
     name: knuckles
+  - src: http://emojis.slackmojis.com/emojis/images/1460496183/350/knuckles_waiting.gif
+    name: knuckles_waiting
+  - src: http://emojis.slackmojis.com/emojis/images/1463675476/450/koopakart.gif
+    name: koopakart
+  - src: http://emojis.slackmojis.com/emojis/images/1463675556/452/link-run.gif
+    name: link-run
+  - src: http://emojis.slackmojis.com/emojis/images/1463675522/451/link-spin.gif
+    name: link-spin
+  - src: http://emojis.slackmojis.com/emojis/images/1463675873/453/link-triforce.png
+    name: link-triforce
   - src: http://emojis.slackmojis.com/emojis/images/1450319445/43/mario.gif
     name: mario
-  - src: http://emojis.slackmojis.com/emojis/images/1450731329/226/mario.gif
-    name: mario
   - src: http://emojis.slackmojis.com/emojis/images/1450452676/173/mario.png
-    name: mario
+    name: mario2
+  - src: http://emojis.slackmojis.com/emojis/images/1450731329/226/mario.gif
+    name: mario3
   - src: http://emojis.slackmojis.com/emojis/images/1450319446/47/mario.gif
-    name: mario
+    name: mario4
   - src: http://emojis.slackmojis.com/emojis/images/1450452687/174/mario-block.png
     name: mario-block
+  - src: http://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif
+    name: mega
+  - src: http://emojis.slackmojis.com/emojis/images/1454429593/285/metroid.gif
+    name: metroid
   - src: http://emojis.slackmojis.com/emojis/images/1450319446/48/n64.gif
     name: n64
   - src: http://emojis.slackmojis.com/emojis/images/1450731407/227/powerup.gif
     name: powerup
   - src: http://emojis.slackmojis.com/emojis/images/1450319445/46/question.gif
-    name: question_block
+    name: question
   - src: http://emojis.slackmojis.com/emojis/images/1450372448/149/sonic.gif
     name: sonic
   - src: http://emojis.slackmojis.com/emojis/images/1450452707/176/sonic-dance.gif
     name: sonic-dance
+  - src: http://emojis.slackmojis.com/emojis/images/1460495922/349/sonic_sleeping.gif
+    name: sonic_sleeping
   - src: http://emojis.slackmojis.com/emojis/images/1450452697/175/sonic-wait.gif
     name: sonic-wait
+  - src: http://emojis.slackmojis.com/emojis/images/1460495732/348/sonic_waiting.gif
+    name: sonic_waiting
   - src: http://emojis.slackmojis.com/emojis/images/1450452720/177/tails.gif
     name: tails
   - src: http://emojis.slackmojis.com/emojis/images/1450319459/144/yoshi.gif
@@ -203,13 +455,15 @@ emojis:
   - src: http://emojis.slackmojis.com/emojis/images/1450473982/206/bb8.png
     name: bb8
   - src: http://emojis.slackmojis.com/emojis/images/1450319450/111/bb8.png
-    name: bb8
+    name: bb82
   - src: http://emojis.slackmojis.com/emojis/images/1450319459/140/bobba_fett.gif
     name: bobba_fett
   - src: http://emojis.slackmojis.com/emojis/images/1450319458/133/c3po.png
     name: c3po
   - src: http://emojis.slackmojis.com/emojis/images/1450473998/208/c3po.png
-    name: c3po
+    name: c3po2
+  - src: http://emojis.slackmojis.com/emojis/images/1453827656/279/captain_phasma.png
+    name: captain_phasma
   - src: http://emojis.slackmojis.com/emojis/images/1450459444/185/chewie.png
     name: chewie
   - src: http://emojis.slackmojis.com/emojis/images/1450319458/131/darth_vader.png
@@ -218,10 +472,18 @@ emojis:
     name: death_star
   - src: http://emojis.slackmojis.com/emojis/images/1450319450/114/empire.png
     name: empire
+  - src: http://emojis.slackmojis.com/emojis/images/1453827617/277/kylo_ren.png
+    name: kylo_ren
   - src: http://emojis.slackmojis.com/emojis/images/1450319458/136/landspeeder.png
     name: landspeeder
-  - src: http://emojis.slackmojis.com/emojis/images/1450319458/132/r2d2.png
+  - src: http://emojis.slackmojis.com/emojis/images/1458398253/328/phasma.png
+    name: phasma
+  - src: http://emojis.slackmojis.com/emojis/images/1453827427/267/poe.png
+    name: poe
+  - src: http://emojis.slackmojis.com/emojis/images/1453827632/278/r2d2.png
     name: r2d2
+  - src: http://emojis.slackmojis.com/emojis/images/1450319458/132/r2d2.png
+    name: r2d22
   - src: http://emojis.slackmojis.com/emojis/images/1450319450/113/rebel.png
     name: rebel
   - src: http://emojis.slackmojis.com/emojis/images/1450319448/112/starwars.png
@@ -260,233 +522,781 @@ emojis:
     name: thumb_up
   - src: http://emojis.slackmojis.com/emojis/images/1450319458/90/winky.gif
     name: winky
-  - src: http://emojis.slackmojis.com/emojis/images/1450319451/95/2pac.jpg
-    name: 2pac
+  - src: http://emojis.slackmojis.com/emojis/images/1462193706/392/1.png
+    name: 1
   - src: http://emojis.slackmojis.com/emojis/images/1450319441/4/america.gif
     name: america
+  - src: http://emojis.slackmojis.com/emojis/images/1455131138/295/angryeyes.png
+    name: angryeyes
   - src: http://emojis.slackmojis.com/emojis/images/1450319451/91/angry_trump.jpg
     name: angry_trump
+  - src: http://emojis.slackmojis.com/emojis/images/1466719434/582/awthanks.png
+    name: awthanks
   - src: http://emojis.slackmojis.com/emojis/images/1450447981/152/aw_yeah.gif
     name: aw_yeah
+  - src: http://emojis.slackmojis.com/emojis/images/1467141162/608/axe.png
+    name: axe
   - src: http://emojis.slackmojis.com/emojis/images/1450319451/99/back_away.gif
     name: back_away
   - src: http://emojis.slackmojis.com/emojis/images/1450319452/108/bacon.png
     name: bacon
+  - src: http://emojis.slackmojis.com/emojis/images/1469848085/691/balloonface.gif
+    name: balloonface
   - src: http://emojis.slackmojis.com/emojis/images/1450694616/220/bananadance.gif
     name: bananadance
   - src: http://emojis.slackmojis.com/emojis/images/1450739071/248/bananas.jpg
     name: bananas
+  - src: http://emojis.slackmojis.com/emojis/images/1469717931/689/bandcamp.png
+    name: bandcamp
+  - src: http://emojis.slackmojis.com/emojis/images/1466642054/532/bandit.gif
+    name: bandit
+  - src: http://emojis.slackmojis.com/emojis/images/1458603661/330/barf.png
+    name: barf
   - src: http://emojis.slackmojis.com/emojis/images/1450319441/10/batman.gif
     name: batman
   - src: http://emojis.slackmojis.com/emojis/images/1450319448/67/beachball.gif
     name: beachball
-  - src: http://emojis.slackmojis.com/emojis/images/1450319451/93/bernie_sanders.jpg
+  - src: http://emojis.slackmojis.com/emojis/images/1467988867/649/beachball.gif
+    name: beachball2
+  - src: http://emojis.slackmojis.com/emojis/images/1462093642/388/beanbag.png
+    name: beanbag
+  - src: http://emojis.slackmojis.com/emojis/images/1454373051/282/bernie_sanders.png
     name: bernie_sanders
-  - src: http://emojis.slackmojis.com/emojis/images/1450663478/219/bmo.gif
-    name: bmo
+  - src: http://emojis.slackmojis.com/emojis/images/1466782998/587/biking.gif
+    name: biking
+  - src: http://emojis.slackmojis.com/emojis/images/1463434823/409/bird-person.png
+    name: bird-person
+  - src: http://emojis.slackmojis.com/emojis/images/1458326950/318/blacksun.png
+    name: blacksun
+  - src: http://emojis.slackmojis.com/emojis/images/1469732727/690/blackswan.png
+    name: blackswan
+  - src: http://emojis.slackmojis.com/emojis/images/1466643050/554/bluesteel.gif
+    name: bluesteel
   - src: http://emojis.slackmojis.com/emojis/images/1450319443/20/bmo.gif
     name: bmo
+  - src: http://emojis.slackmojis.com/emojis/images/1450663478/219/bmo.gif
+    name: bmo2
+  - src: http://emojis.slackmojis.com/emojis/images/1460689690/361/bob_ross.png
+    name: bob_ross
   - src: http://emojis.slackmojis.com/emojis/images/1450785923/251/booom.gif
     name: booom
+  - src: http://emojis.slackmojis.com/emojis/images/1466642130/533/bows.gif
+    name: bows
+  - src: http://emojis.slackmojis.com/emojis/images/1466642156/534/brb.gif
+    name: brb
+  - src: http://emojis.slackmojis.com/emojis/images/1462452877/398/briefcase_wanker.jpg
+    name: briefcase_wanker
+  - src: http://emojis.slackmojis.com/emojis/images/1462193502/391/bucha.jpg
+    name: bucha
   - src: http://emojis.slackmojis.com/emojis/images/1450319454/125/bud_light.png
     name: bud_light
   - src: http://emojis.slackmojis.com/emojis/images/1450319453/124/budweiser.jpg
     name: budweiser
+  - src: http://emojis.slackmojis.com/emojis/images/1461188030/373/butanimated.jpg
+    name: butanimated
   - src: http://emojis.slackmojis.com/emojis/images/1450448631/167/bye_boo.gif
     name: bye_boo
-  - src: http://emojis.slackmojis.com/emojis/images/1450451792/169/carlton.gif
-    name: carlton
+  - src: http://emojis.slackmojis.com/emojis/images/1463616090/447/captain_america.gif
+    name: captain_america
   - src: http://emojis.slackmojis.com/emojis/images/1450464776/193/carlton.gif
     name: carlton
   - src: http://emojis.slackmojis.com/emojis/images/1450319453/122/carlton.gif
-    name: carlton
-  - src: http://emojis.slackmojis.com/emojis/images/1450448569/165/chandler_dance.gif
-    name: chandler_dance
+    name: carlton2
+  - src: http://emojis.slackmojis.com/emojis/images/1450451792/169/carlton.gif
+    name: carlton3
+  - src: http://emojis.slackmojis.com/emojis/images/1453827545/272/cartman.png
+    name: cartman
+  - src: http://emojis.slackmojis.com/emojis/images/1466720019/584/cash.gif
+    name: cash
+  - src: http://emojis.slackmojis.com/emojis/images/1466642201/535/celebrate.gif
+    name: celebrate
+  - src: http://emojis.slackmojis.com/emojis/images/1461175967/371/celeryman.gif
+    name: celeryman
+  - src: http://emojis.slackmojis.com/emojis/images/1456506335/302/chad.gif
+    name: chad
   - src: http://emojis.slackmojis.com/emojis/images/1450448593/166/chandler_dance.gif
     name: chandler_dance
+  - src: http://emojis.slackmojis.com/emojis/images/1450448569/165/chandler_dance.gif
+    name: chandler_dance2
+  - src: http://emojis.slackmojis.com/emojis/images/1469223471/679/charmander_dancing.gif
+    name: charmander_dancing
+  - src: http://emojis.slackmojis.com/emojis/images/1466642314/537/cheeky.gif
+    name: cheeky
+  - src: http://emojis.slackmojis.com/emojis/images/1460689738/362/cheese.png
+    name: cheese
+  - src: http://emojis.slackmojis.com/emojis/images/1460142373/345/chemex.png
+    name: chemex
+  - src: http://emojis.slackmojis.com/emojis/images/1458327002/321/chemex.png
+    name: chemex2
   - src: http://emojis.slackmojis.com/emojis/images/1450731534/230/chocobo.gif
     name: chocobo
+  - src: http://emojis.slackmojis.com/emojis/images/1455304756/296/chompy.gif
+    name: chompy
+  - src: http://emojis.slackmojis.com/emojis/images/1467142789/610/circleci.png
+    name: circleci
+  - src: http://emojis.slackmojis.com/emojis/images/1467142822/612/circleci-fail.png
+    name: circleci-fail
+  - src: http://emojis.slackmojis.com/emojis/images/1467142808/611/circleci-pass.png
+    name: circleci-pass
   - src: http://emojis.slackmojis.com/emojis/images/1450451832/170/clapping.gif
     name: clapping
   - src: http://emojis.slackmojis.com/emojis/images/1450319458/139/classy_pbj_time.gif
     name: classy_pbj_time
+  - src: http://emojis.slackmojis.com/emojis/images/1467056982/595/clojure.png
+    name: clojure2
   - src: http://emojis.slackmojis.com/emojis/images/1450319459/147/cocktail.png
     name: cocktail
+  - src: http://emojis.slackmojis.com/emojis/images/1462093427/382/coconut.png
+    name: coconut
+  - src: http://emojis.slackmojis.com/emojis/images/1466000192/520/command.png
+    name: command
   - src: http://emojis.slackmojis.com/emojis/images/1450799464/255/communist.png
     name: communist
+  - src: http://emojis.slackmojis.com/emojis/images/1460753366/368/companion_cube.png
+    name: companion_cube
+  - src: http://emojis.slackmojis.com/emojis/images/1465511639/508/con-air.jpg
+    name: con-air
   - src: http://emojis.slackmojis.com/emojis/images/1450319442/16/construction.gif
     name: construction
+  - src: http://emojis.slackmojis.com/emojis/images/1466718118/569/cool_cat.gif
+    name: cool_cat
+  - src: http://emojis.slackmojis.com/emojis/images/1468590869/663/coolio.jpg
+    name: coolio
+  - src: http://emojis.slackmojis.com/emojis/images/1460689775/363/corndog.png
+    name: corndog
   - src: http://emojis.slackmojis.com/emojis/images/1450319454/126/corona.jpg
     name: corona
   - src: http://emojis.slackmojis.com/emojis/images/1450319453/116/creeper.jpg
     name: creeper
-  - src: http://emojis.slackmojis.com/emojis/images/1450786117/252/crowdfire.png
-    name: crowdfire
+  - src: http://emojis.slackmojis.com/emojis/images/1469473098/680/cryingjordan.png
+    name: cryingjordan
+  - src: http://emojis.slackmojis.com/emojis/images/1466010648/521/crying_jordan.png
+    name: crying_jordan
+  - src: http://emojis.slackmojis.com/emojis/images/1463615519/445/crying_kim_kardashian.png
+    name: crying_kim_kardashian
   - src: http://emojis.slackmojis.com/emojis/images/1450319458/142/dance.gif
     name: dance
   - src: http://emojis.slackmojis.com/emojis/images/1450448537/164/dance_awkward.gif
     name: dance_awkward
+  - src: http://emojis.slackmojis.com/emojis/images/1466642278/536/dancing_corgi.gif
+    name: dancing_corgi
+  - src: http://emojis.slackmojis.com/emojis/images/1454535588/287/dancing_hotdog.gif
+    name: dancing_hotdog
+  - src: http://emojis.slackmojis.com/emojis/images/1463616139/448/dancing_lisa.gif
+    name: dancing_lisa
+  - src: http://emojis.slackmojis.com/emojis/images/1466660842/557/dancing_penguin.gif
+    name: dancing_penguin
+  - src: http://emojis.slackmojis.com/emojis/images/1463769162/456/dancing_pickle.gif
+    name: dancing_pickle
+  - src: http://emojis.slackmojis.com/emojis/images/1467056994/596/database.png
+    name: database
+  - src: http://emojis.slackmojis.com/emojis/images/1458161344/316/deadmau5.png
+    name: deadmau5
+  - src: http://emojis.slackmojis.com/emojis/images/1464201115/496/deadpool.png
+    name: deadpool
+  - src: http://emojis.slackmojis.com/emojis/images/1462544232/404/decepticon.jpg
+    name: decepticon
+  - src: http://emojis.slackmojis.com/emojis/images/1466115175/528/defeat_the_porpoise.png
+    name: defeat_the_porpoise
+  - src: http://emojis.slackmojis.com/emojis/images/1461995399/380/dentures.png
+    name: dentures
+  - src: http://emojis.slackmojis.com/emojis/images/1460689854/364/deputy.jpg
+    name: deputy
+  - src: http://emojis.slackmojis.com/emojis/images/1466642363/538/devil.gif
+    name: devil
+  - src: http://emojis.slackmojis.com/emojis/images/1465999612/512/disco.gif
+    name: disco
+  - src: http://emojis.slackmojis.com/emojis/images/1466661094/558/disco_dance.gif
+    name: disco_dance
+  - src: http://emojis.slackmojis.com/emojis/images/1458327098/325/dna.png
+    name: dna
+  - src: http://emojis.slackmojis.com/emojis/images/1467057004/597/doge.png
+    name: doge3
   - src: http://emojis.slackmojis.com/emojis/images/1450319448/68/domo.png
     name: domo
+  - src: http://emojis.slackmojis.com/emojis/images/1454373223/284/donald_trump.png
+    name: donald_trump
+  - src: http://emojis.slackmojis.com/emojis/images/1460579148/355/doom_acid_barrel.gif
+    name: doom_acid_barrel
+  - src: http://emojis.slackmojis.com/emojis/images/1460579206/358/doom_flame_barrel.gif
+    name: doom_flame_barrel
+  - src: http://emojis.slackmojis.com/emojis/images/1460579162/356/doom_gib.gif
+    name: doom_gib
+  - src: http://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif
+    name: doom_look
+  - src: http://emojis.slackmojis.com/emojis/images/1460579188/357/doom_lost_soul.gif
+    name: doom_lost_soul
+  - src: http://emojis.slackmojis.com/emojis/images/1460579119/353/doom_mad.gif
+    name: doom_mad
+  - src: http://emojis.slackmojis.com/emojis/images/1463696649/454/doot.png
+    name: doot
+  - src: http://emojis.slackmojis.com/emojis/images/1467398513/640/doritos.png
+    name: doritos
+  - src: http://emojis.slackmojis.com/emojis/images/1455900004/298/drake.gif
+    name: drake
+  - src: http://emojis.slackmojis.com/emojis/images/1463616071/446/drake.png
+    name: drake2
+  - src: http://emojis.slackmojis.com/emojis/images/1467070238/603/drone.gif
+    name: drone
   - src: http://emojis.slackmojis.com/emojis/images/1450319444/28/drool.gif
     name: drool
   - src: http://emojis.slackmojis.com/emojis/images/1450319447/58/easy_button.png
     name: easy_button
+  - src: http://emojis.slackmojis.com/emojis/images/1463659367/449/elmo.png
+    name: elmo
+  - src: http://emojis.slackmojis.com/emojis/images/1462093671/389/empathy.png
+    name: empathy
+  - src: http://emojis.slackmojis.com/emojis/images/1468928462/671/entrigd.png
+    name: entrigd
+  - src: http://emojis.slackmojis.com/emojis/images/1466642402/539/ermygerd.gif
+    name: ermygerd
   - src: http://emojis.slackmojis.com/emojis/images/1450786119/253/evil.png
     name: evil
-  - src: http://emojis.slackmojis.com/emojis/images/1450319441/7/excited.gif
-    name: excited
+  - src: http://emojis.slackmojis.com/emojis/images/1461883213/376/excellent.png
+    name: excellent
+  - src: http://emojis.slackmojis.com/emojis/images/1456336445/300/excite_bike.png
+    name: excite_bike
+  - src: http://emojis.slackmojis.com/emojis/images/1456336650/301/excite_biker.gif
+    name: excite_biker
   - src: http://emojis.slackmojis.com/emojis/images/1450319443/19/excited.gif
     name: excited
+  - src: http://emojis.slackmojis.com/emojis/images/1450319441/7/excited.gif
+    name: excited2
+  - src: http://emojis.slackmojis.com/emojis/images/1467228391/613/explode.gif
+    name: explode
   - src: http://emojis.slackmojis.com/emojis/images/1450464788/194/eyeroll.gif
     name: eyeroll
-  - src: http://emojis.slackmojis.com/emojis/images/1450473045/204/facepalm.gif
-    name: facepalm
-  - src: http://emojis.slackmojis.com/emojis/images/1450319452/105/fingers_crossed.jpg
+  - src: http://emojis.slackmojis.com/emojis/images/1462194139/394/facedesk.gif
+    name: facedesk
+  - src: http://emojis.slackmojis.com/emojis/images/1458326928/317/facepalm.png
+    name: facepalm3
+  - src: http://emojis.slackmojis.com/emojis/images/1460753406/369/facepalm.png
+    name: facepalm4
+  - src: http://emojis.slackmojis.com/emojis/images/1462193880/393/facepalm.png
+    name: facepalm5
+  - src: http://emojis.slackmojis.com/emojis/images/1459899884/339/fail.jpg
+    name: fail
+  - src: http://emojis.slackmojis.com/emojis/images/1455307267/297/farnsworth.png
+    name: farnsworth
+  - src: http://emojis.slackmojis.com/emojis/images/1469213672/677/fiestaparrot.gif
+    name: fiestaparrot
+  - src: http://emojis.slackmojis.com/emojis/images/1466717920/567/finger.gif
+    name: finger
+  - src: http://emojis.slackmojis.com/emojis/images/1463158664/407/finger_hole.gif
+    name: finger_hole
+  - src: http://emojis.slackmojis.com/emojis/images/1463158691/408/fingers_crossed.png
     name: fingers_crossed
+  - src: http://emojis.slackmojis.com/emojis/images/1450319452/105/fingers_crossed.jpg
+    name: fingers_crossed2
+  - src: http://emojis.slackmojis.com/emojis/images/1462478663/401/fingers-crossed.png
+    name: fingers-crossed
   - src: http://emojis.slackmojis.com/emojis/images/1450451869/171/finn.png
     name: finn
+  - src: http://emojis.slackmojis.com/emojis/images/1453827404/266/finn.png
+    name: finn2
   - src: http://emojis.slackmojis.com/emojis/images/1450319448/70/finn.gif
-    name: finn
+    name: finn3
   - src: http://emojis.slackmojis.com/emojis/images/1450319446/49/fireball.gif
     name: fireball
+  - src: http://emojis.slackmojis.com/emojis/images/1466642430/540/fist_bump.gif
+    name: fist_bump
+  - src: http://emojis.slackmojis.com/emojis/images/1460146074/346/flag_on_the_play.jpg
+    name: flag_on_the_play
   - src: http://emojis.slackmojis.com/emojis/images/1450319442/15/flames.gif
     name: flames
   - src: http://emojis.slackmojis.com/emojis/images/1450319442/12/flames.gif
-    name: flames
+    name: flames2
   - src: http://emojis.slackmojis.com/emojis/images/1450319458/141/flash.gif
     name: flash
+  - src: http://emojis.slackmojis.com/emojis/images/1466717691/564/flex.gif
+    name: flex
+  - src: http://emojis.slackmojis.com/emojis/images/1459368872/336/flying_money_with_wings.gif
+    name: flying_money_with_wings
+  - src: http://emojis.slackmojis.com/emojis/images/1466085608/524/freddo.png
+    name: freddo
+  - src: http://emojis.slackmojis.com/emojis/images/1453827468/269/freezing.png
+    name: freezing
+  - src: http://emojis.slackmojis.com/emojis/images/1458327017/322/frenchpress.png
+    name: frenchpress
+  - src: http://emojis.slackmojis.com/emojis/images/1468361262/654/fridayfriday.png
+    name: fridayfriday
+  - src: http://emojis.slackmojis.com/emojis/images/1466718493/577/fury.gif
+    name: fury
   - src: http://emojis.slackmojis.com/emojis/images/1450458362/181/gandalf.gif
     name: gandalf
-  - src: http://emojis.slackmojis.com/emojis/images/1450805181/256/gap.png
-    name: gap
-  - src: http://emojis.slackmojis.com/emojis/images/1450822151/257/github.png
-    name: github
+  - src: http://emojis.slackmojis.com/emojis/images/1466718186/570/giggle.gif
+    name: giggle
+  - src: http://emojis.slackmojis.com/emojis/images/1463758880/455/gir_dance.gif
+    name: gir_dance
+  - src: http://emojis.slackmojis.com/emojis/images/1467306116/626/github_octocat.png
+    name: github_octocat
+  - src: http://emojis.slackmojis.com/emojis/images/1462543849/402/gizmo.jpg
+    name: gizmo
+  - src: http://emojis.slackmojis.com/emojis/images/1469509342/681/good.png
+    name: good
   - src: http://emojis.slackmojis.com/emojis/images/1450319441/6/good_job.gif
     name: good_job
   - src: http://emojis.slackmojis.com/emojis/images/1450472477/201/retard.gif
-    name: goofball
+    name: retard
+  - src: http://emojis.slackmojis.com/emojis/images/1453827482/270/growler.png
+    name: growler
   - src: http://emojis.slackmojis.com/emojis/images/1450319454/127/guiness.jpg
-    name: guinness
+    name: guiness
+  - src: http://emojis.slackmojis.com/emojis/images/1454625679/293/hahabusiness.png
+    name: hahabusiness
   - src: http://emojis.slackmojis.com/emojis/images/1450448030/153/hammer_time.gif
     name: hammer_time
   - src: http://emojis.slackmojis.com/emojis/images/1451434494/259/handshake.png
     name: handshake
   - src: http://emojis.slackmojis.com/emojis/images/1450697661/221/happening.gif
     name: happening
+  - src: http://emojis.slackmojis.com/emojis/images/1466103186/525/happygoat.gif
+    name: happygoat
+  - src: http://emojis.slackmojis.com/emojis/images/1454537645/288/happy_obama.png
+    name: happy_obama
+  - src: http://emojis.slackmojis.com/emojis/images/1458398330/329/harold.jpg
+    name: harold
+  - src: http://emojis.slackmojis.com/emojis/images/1460120004/342/harry.gif
+    name: harry
+  - src: http://emojis.slackmojis.com/emojis/images/1461994151/379/headcrab.gif
+    name: headcrab
+  - src: http://emojis.slackmojis.com/emojis/images/1466103216/526/headdesk.gif
+    name: headdesk
+  - src: http://emojis.slackmojis.com/emojis/images/1466718253/571/headphones_on.gif
+    name: headphones_on
+  - src: http://emojis.slackmojis.com/emojis/images/1453827728/280/heisenberg.png
+    name: heisenberg
+  - src: http://emojis.slackmojis.com/emojis/images/1462093558/386/helicopter.png
+    name: helicopter
   - src: http://emojis.slackmojis.com/emojis/images/1450731497/229/heres_johnny.png
     name: heres_johnny
+  - src: http://emojis.slackmojis.com/emojis/images/1465508314/507/hey-girl.png
+    name: hey-girl
+  - src: http://emojis.slackmojis.com/emojis/images/1467905977/643/high-five.gif
+    name: high-five
+  - src: http://emojis.slackmojis.com/emojis/images/1462093608/387/high_speed_rail.png
+    name: high_speed_rail
+  - src: http://emojis.slackmojis.com/emojis/images/1454373207/283/hillary_clinton.png
+    name: hillary_clinton
+  - src: http://emojis.slackmojis.com/emojis/images/1453827364/265/hipster.png
+    name: hipster
+  - src: http://emojis.slackmojis.com/emojis/images/1453827527/271/hipster_oversized_glasses.png
+    name: hipster_oversized_glasses
   - src: http://emojis.slackmojis.com/emojis/images/1450573669/215/hodor.png
     name: hodor
   - src: http://emojis.slackmojis.com/emojis/images/1450475643/211/homer-disappear.gif
-    name: homerdisppear
+    name: homer-disappear
+  - src: http://emojis.slackmojis.com/emojis/images/1460753339/367/honeybadger.png
+    name: honeybadger
+  - src: http://emojis.slackmojis.com/emojis/images/1466718311/572/hug.gif
+    name: hug
+  - src: http://emojis.slackmojis.com/emojis/images/1460751056/366/humpday.png
+    name: humpday
+  - src: http://emojis.slackmojis.com/emojis/images/1466642474/541/hungover.gif
+    name: hungover
+  - src: http://emojis.slackmojis.com/emojis/images/1467907796/644/hypnotoad.gif
+    name: hypnotoad2
+  - src: http://emojis.slackmojis.com/emojis/images/1458327032/323/imposibru.png
+    name: imposibru
+  - src: http://emojis.slackmojis.com/emojis/images/1466718368/573/inlove.gif
+    name: inlove
+  - src: http://emojis.slackmojis.com/emojis/images/1466718396/574/island.gif
+    name: island
   - src: http://emojis.slackmojis.com/emojis/images/1450319448/69/jake_wink.gif
     name: jake_wink
+  - src: http://emojis.slackmojis.com/emojis/images/1467931869/646/jigglypuff.png
+    name: jigglypuff
+  - src: http://emojis.slackmojis.com/emojis/images/1461689832/375/jordan_cry.png
+    name: jordan_cry
+  - src: http://emojis.slackmojis.com/emojis/images/1467056953/593/kanye.png
+    name: kanye
   - src: http://emojis.slackmojis.com/emojis/images/1450319451/94/kanye_west.png
     name: kanye_west
-  - src: http://emojis.slackmojis.com/emojis/images/1450738632/246/leftshark.png
+  - src: http://emojis.slackmojis.com/emojis/images/1453827557/273/kenny.png
+    name: kenny
+  - src: http://emojis.slackmojis.com/emojis/images/1464738582/501/kid-deal.gif
+    name: kid-deal
+  - src: http://emojis.slackmojis.com/emojis/images/1465999817/514/kungfu.gif
+    name: kungfu
+  - src: http://emojis.slackmojis.com/emojis/images/1453827570/274/kyle.png
+    name: kyle
+  - src: http://emojis.slackmojis.com/emojis/images/1466445801/530/lacroix.png
+    name: lacroix
+  - src: http://emojis.slackmojis.com/emojis/images/1466642508/542/lalala.gif
+    name: lalala
+  - src: http://emojis.slackmojis.com/emojis/images/1459517920/337/lebowski-what-day.gif
+    name: lebowski-what-day
+  - src: http://emojis.slackmojis.com/emojis/images/1466643149/555/leftshark.gif
     name: leftshark
+  - src: http://emojis.slackmojis.com/emojis/images/1450738632/246/leftshark.png
+    name: leftshark2
   - src: http://emojis.slackmojis.com/emojis/images/1450448094/155/left_shark.gif
     name: left_shark
+  - src: http://emojis.slackmojis.com/emojis/images/1456563844/303/lel.png
+    name: lel
+  - src: http://emojis.slackmojis.com/emojis/images/1466717873/566/letsplay.gif
+    name: letsplay
+  - src: http://emojis.slackmojis.com/emojis/images/1467989187/650/librato.png
+    name: librato
+  - src: http://emojis.slackmojis.com/emojis/images/1466642533/543/lifeishard.gif
+    name: lifeishard
   - src: http://emojis.slackmojis.com/emojis/images/1450755127/249/liftoff.gif
     name: liftoff
+  - src: http://emojis.slackmojis.com/emojis/images/1460690103/365/lilbub.png
+    name: lilbub
+  - src: http://emojis.slackmojis.com/emojis/images/1468001883/651/liono.png
+    name: liono
+  - src: http://emojis.slackmojis.com/emojis/images/1468001886/652/liono.png
+    name: liono2
+  - src: http://emojis.slackmojis.com/emojis/images/1466718427/575/lips_sealed.gif
+    name: lips_sealed
+  - src: http://emojis.slackmojis.com/emojis/images/1469578344/684/lucy.png
+    name: lucy
+  - src: http://emojis.slackmojis.com/emojis/images/1463909277/457/lumberg.jpg
+    name: lumberg
+  - src: http://emojis.slackmojis.com/emojis/images/1465999778/513/magic.gif
+    name: magic2
+  - src: http://emojis.slackmojis.com/emojis/images/1467602838/641/mario_mushroom.jpg
+    name: mario_mushroom
   - src: http://emojis.slackmojis.com/emojis/images/1450731446/228/matrix.gif
     name: matrix
-  - src: http://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif
-    name: mega
+  - src: http://emojis.slackmojis.com/emojis/images/1466642575/544/meditating.gif
+    name: meditating
+  - src: http://emojis.slackmojis.com/emojis/images/1457631751/313/meeseeks.png
+    name: meeseeks
   - src: http://emojis.slackmojis.com/emojis/images/1450717560/224/megalizard.gif
     name: megalizard
+  - src: http://emojis.slackmojis.com/emojis/images/1466655364/556/merica.gif
+    name: merica
+  - src: http://emojis.slackmojis.com/emojis/images/1467136439/605/merica.gif
+    name: merica2
+  - src: http://emojis.slackmojis.com/emojis/images/1467657554/642/metal2.gif
+    name: metal2
+  - src: http://emojis.slackmojis.com/emojis/images/1452204135/260/mic_drop.jpg
+    name: mic_drop
+  - src: http://emojis.slackmojis.com/emojis/images/1466661664/559/mindblown.gif
+    name: mindblown2
   - src: http://emojis.slackmojis.com/emojis/images/1450319449/71/minion_wave.png
     name: minion_wave
   - src: http://emojis.slackmojis.com/emojis/images/1450448161/157/mj.gif
     name: mj
+  - src: http://emojis.slackmojis.com/emojis/images/1460498003/352/mk_cyrax_dance.gif
+    name: mk_cyrax_dance
+  - src: http://emojis.slackmojis.com/emojis/images/1463599308/410/monocle.png
+    name: monocle
+  - src: http://emojis.slackmojis.com/emojis/images/1466642596/545/mooning.gif
+    name: mooning
+  - src: http://emojis.slackmojis.com/emojis/images/1456946612/308/morty.png
+    name: morty
+  - src: http://emojis.slackmojis.com/emojis/images/1466642617/546/motherofgod.gif
+    name: motherofgod
+  - src: http://emojis.slackmojis.com/emojis/images/1469213520/676/mugatu.gif
+    name: mugatu
+  - src: http://emojis.slackmojis.com/emojis/images/1469525574/682/mystic.gif
+    name: mystic2
   - src: http://emojis.slackmojis.com/emojis/images/1450475559/209/narwhal.png
     name: narwhal
+  - src: http://emojis.slackmojis.com/emojis/images/1461379139/374/nekoatsume.jpg
+    name: nekoatsume
   - src: http://emojis.slackmojis.com/emojis/images/1450319446/50/nemo.gif
     name: nemo
+  - src: http://emojis.slackmojis.com/emojis/images/1467230093/614/nerfwar.gif
+    name: nerfwar
+  - src: http://emojis.slackmojis.com/emojis/images/1468432327/659/nicmoji_angry.gif
+    name: nicmoji_angry
+  - src: http://emojis.slackmojis.com/emojis/images/1468432303/658/nicmoji_laugh.gif
+    name: nicmoji_laugh
+  - src: http://emojis.slackmojis.com/emojis/images/1468432280/657/nicmoji_sad.gif
+    name: nicmoji_sad
+  - src: http://emojis.slackmojis.com/emojis/images/1468432253/656/nicmoji_smile.gif
+    name: nicmoji_smile
+  - src: http://emojis.slackmojis.com/emojis/images/1468432227/655/nicmoji_the_bees.gif
+    name: nicmoji_the_bees
+  - src: http://emojis.slackmojis.com/emojis/images/1466717443/563/ninja.gif
+    name: ninja
   - src: http://emojis.slackmojis.com/emojis/images/1450319449/74/notes_minion.png
     name: notes_minion
+  - src: http://emojis.slackmojis.com/emojis/images/1467056591/588/not_metal.png
+    name: not_metal
   - src: http://emojis.slackmojis.com/emojis/images/1450319451/96/notorious_big.png
     name: notorious_big
   - src: http://emojis.slackmojis.com/emojis/images/1450319451/98/no_way_oprah.gif
     name: no_way_oprah
+  - src: http://emojis.slackmojis.com/emojis/images/1467138982/607/octopus.png
+    name: octopus
+  - src: http://emojis.slackmojis.com/emojis/images/1458942752/333/ohyeah.gif
+    name: ohyeah
   - src: http://emojis.slackmojis.com/emojis/images/1450319453/110/olaf.png
     name: olaf
+  - src: http://emojis.slackmojis.com/emojis/images/1468493014/660/omglol.gif
+    name: omglol
   - src: http://emojis.slackmojis.com/emojis/images/1450475672/212/omg-panda.gif
     name: omg-panda
+  - src: http://emojis.slackmojis.com/emojis/images/1466717778/565/on_the_throne.gif
+    name: on_the_throne
+  - src: http://emojis.slackmojis.com/emojis/images/1464295570/500/oof.jpg
+    name: oof
   - src: http://emojis.slackmojis.com/emojis/images/1450448500/163/panda_dance.gif
     name: panda_dance
+  - src: http://emojis.slackmojis.com/emojis/images/1465496467/506/panic.gif
+    name: panic
   - src: http://emojis.slackmojis.com/emojis/images/1450319447/59/panic_button.png
     name: panic_button
+  - src: http://emojis.slackmojis.com/emojis/images/1466642659/547/party.gif
+    name: party
   - src: http://emojis.slackmojis.com/emojis/images/1450472795/202/partyparrot.gif
     name: partyparrot
+  - src: http://emojis.slackmojis.com/emojis/images/1454619308/292/party_parrot_shuffle.gif
+    name: party_parrot_shuffle
   - src: http://emojis.slackmojis.com/emojis/images/1450319453/123/pbr.jpg
     name: pbr
   - src: http://emojis.slackmojis.com/emojis/images/1450319441/8/peanut_butter_jelly_time.gif
     name: peanut_butter_jelly_time
   - src: http://emojis.slackmojis.com/emojis/images/1450319441/9/peekaboo.gif
     name: peekaboo
+  - src: http://emojis.slackmojis.com/emojis/images/1461950846/377/peep.jpg
+    name: peep
   - src: http://emojis.slackmojis.com/emojis/images/1450473027/203/pepperdance.gif
     name: pepperdance
+  - src: http://emojis.slackmojis.com/emojis/images/1465999866/515/pewpew.gif
+    name: pewpew
+  - src: http://emojis.slackmojis.com/emojis/images/1453827596/276/phantom.png
+    name: phantom
   - src: http://emojis.slackmojis.com/emojis/images/1450738648/247/philosoraptor.png
     name: philosoraptor
+  - src: http://emojis.slackmojis.com/emojis/images/1454429611/286/phoenix.gif
+    name: phoenix
+  - src: http://emojis.slackmojis.com/emojis/images/1458332392/327/picard-why.png
+    name: picard-why
+  - src: http://emojis.slackmojis.com/emojis/images/1469578364/685/pigpen.png
+    name: pigpen
+  - src: http://emojis.slackmojis.com/emojis/images/1469223442/678/pikachu_dancing.gif
+    name: pikachu_dancing
+  - src: http://emojis.slackmojis.com/emojis/images/1459530879/338/pinball.png
+    name: pinball
   - src: http://emojis.slackmojis.com/emojis/images/1450319443/27/pizza_party.png
     name: pizza_party
+  - src: http://emojis.slackmojis.com/emojis/images/1467915398/645/pizzaspin.gif
+    name: pizzaspin
+  - src: http://emojis.slackmojis.com/emojis/images/1466718469/576/plane.gif
+    name: plane
   - src: http://emojis.slackmojis.com/emojis/images/1450319449/73/please_minion.png
     name: please_minion
+  - src: http://emojis.slackmojis.com/emojis/images/1453182793/263/plusone.png
+    name: plusone
+  - src: http://emojis.slackmojis.com/emojis/images/1467305510/621/podio.png
+    name: podio
+  - src: http://emojis.slackmojis.com/emojis/images/1466642686/548/poke.gif
+    name: poke
+  - src: http://emojis.slackmojis.com/emojis/images/1469615595/687/pokemon.png
+    name: pokemon
   - src: http://emojis.slackmojis.com/emojis/images/1450448130/156/poolparty.gif
     name: poolparty
+  - src: http://emojis.slackmojis.com/emojis/images/1466717309/560/poolparty.gif
+    name: poolparty2
+  - src: http://emojis.slackmojis.com/emojis/images/1456910575/305/praisethesun.jpg
+    name: praisethesun
   - src: http://emojis.slackmojis.com/emojis/images/1450456352/178/prettyinstant.png
     name: prettyinstant
+  - src: http://emojis.slackmojis.com/emojis/images/1466720173/586/puke.gif
+    name: puke
   - src: http://emojis.slackmojis.com/emojis/images/1450458292/179/pumpgirl.gif
     name: pumpgirl
   - src: http://emojis.slackmojis.com/emojis/images/1450458329/180/pumpgirlrevers.gif
     name: pumpgirlrevers
+  - src: http://emojis.slackmojis.com/emojis/images/1456946579/306/purpose.png
+    name: purpose
+  - src: http://emojis.slackmojis.com/emojis/images/1467306915/635/pushbullet.png
+    name: pushbullet
+  - src: http://emojis.slackmojis.com/emojis/images/1462093473/384/rainbow.png
+    name: rainbow
   - src: http://emojis.slackmojis.com/emojis/images/1450319452/106/rainbow_flag.png
     name: rainbow_flag
+  - src: http://emojis.slackmojis.com/emojis/images/1458327119/326/readingpoopincrying.png
+    name: readingpoopincrying
+  - src: http://emojis.slackmojis.com/emojis/images/1467306771/633/redmine.png
+    name: redmine
+  - src: http://emojis.slackmojis.com/emojis/images/1468012281/653/respect.png
+    name: respect
+  - src: http://emojis.slackmojis.com/emojis/images/1456946597/307/rick.png
+    name: rick
   - src: http://emojis.slackmojis.com/emojis/images/1450319451/97/rick_ross.jpeg
-    name: rick_ross
+    name: rick_ross.
   - src: http://emojis.slackmojis.com/emojis/images/1450824286/258/rocket_launcher.png
     name: rocket_launcher
+  - src: http://emojis.slackmojis.com/emojis/images/1467304424/616/rockstar-can.jpg
+    name: rockstar-can
   - src: http://emojis.slackmojis.com/emojis/images/1450319447/60/ron_swanson.png
     name: ron_swanson
-  - src: http://emojis.slackmojis.com/emojis/images/1450319452/104/sailormoon.png
-    name: sailormoon
+  - src: http://emojis.slackmojis.com/emojis/images/1454537658/289/sad_obama.png
+    name: sad_obama
+  - src: http://emojis.slackmojis.com/emojis/images/1467939792/648/sailor_moon.png
+    name: sailor_moon
+  - src: http://emojis.slackmojis.com/emojis/images/1466642726/549/scope_creep.gif
+    name: scope_creep
   - src: http://emojis.slackmojis.com/emojis/images/1450470391/199/scotch.jpg
     name: scotch
+  - src: http://emojis.slackmojis.com/emojis/images/1467057017/598/sf_giants.png
+    name: sf_giants
   - src: http://emojis.slackmojis.com/emojis/images/1450319441/5/sheepy.gif
     name: sheepy
   - src: http://emojis.slackmojis.com/emojis/images/1450471546/200/shia.gif
     name: shia
+  - src: http://emojis.slackmojis.com/emojis/images/1466718522/578/shocked.gif
+    name: shocked
+  - src: http://emojis.slackmojis.com/emojis/images/1464289825/499/shrug.png
+    name: shrug
+  - src: http://emojis.slackmojis.com/emojis/images/1466717410/562/skipping.gif
+    name: skipping
+  - src: http://emojis.slackmojis.com/emojis/images/1466642756/550/slowclap.gif
+    name: slowclap
+  - src: http://emojis.slackmojis.com/emojis/images/1456966232/310/slow_clap.gif
+    name: slow_clap
+  - src: http://emojis.slackmojis.com/emojis/images/1468525895/662/slowpoke.jpg
+    name: slowpoke2
+  - src: http://emojis.slackmojis.com/emojis/images/1468696620/664/smiths.jpg
+    name: smiths
+  - src: http://emojis.slackmojis.com/emojis/images/1466717977/568/smoke_it.gif
+    name: smoke_it
+  - src: http://emojis.slackmojis.com/emojis/images/1466718594/580/snailing.gif
+    name: snailing
   - src: http://emojis.slackmojis.com/emojis/images/1450319449/101/snoop_dancing.gif
     name: snoop_dancing
+  - src: http://emojis.slackmojis.com/emojis/images/1469578327/683/snoopy.png
+    name: snoopy
+  - src: http://emojis.slackmojis.com/emojis/images/1467056731/589/somewhat_metal.png
+    name: somewhat_metal
+  - src: http://emojis.slackmojis.com/emojis/images/1466439103/529/sonic-running.gif
+    name: sonic-running
   - src: http://emojis.slackmojis.com/emojis/images/1450663451/217/sparta.png
     name: sparta
   - src: http://emojis.slackmojis.com/emojis/images/1450319442/11/spiderman.gif
     name: spiderman
   - src: http://emojis.slackmojis.com/emojis/images/1450319443/17/spinner.gif
     name: spinner
+  - src: http://emojis.slackmojis.com/emojis/images/1460580292/359/spot_dance.gif
+    name: spot_dance
   - src: http://emojis.slackmojis.com/emojis/images/1450319447/61/sriracha.jpg
     name: sriracha
+  - src: http://emojis.slackmojis.com/emojis/images/1453827583/275/stan.png
+    name: stan
+  - src: http://emojis.slackmojis.com/emojis/images/1460128124/343/stickam.png
+    name: stickam
+  - src: http://emojis.slackmojis.com/emojis/images/1466720097/585/stop.gif
+    name: stop
+  - src: http://emojis.slackmojis.com/emojis/images/1460496332/351/subzero_turnt.gif
+    name: subzero_turnt
+  - src: http://emojis.slackmojis.com/emojis/images/1465999900/516/success.png
+    name: success
+  - src: http://emojis.slackmojis.com/emojis/images/1466717378/561/sun.gif
+    name: sun
+  - src: http://emojis.slackmojis.com/emojis/images/1454537683/290/surprised_obama.png
+    name: surprised_obama
+  - src: http://emojis.slackmojis.com/emojis/images/1466642811/551/swear.gif
+    name: swear
+  - src: http://emojis.slackmojis.com/emojis/images/1466718564/579/talk_to_the_hand.gif
+    name: talk_to_the_hand
+  - src: http://emojis.slackmojis.com/emojis/images/1464030102/458/tardis.gif
+    name: tardis
+  - src: http://emojis.slackmojis.com/emojis/images/1467057081/601/taylor_swift.png
+    name: taylor_swift
+  - src: http://emojis.slackmojis.com/emojis/images/1467056779/590/taylor_swift.png
+    name: taylor_swift2
+  - src: http://emojis.slackmojis.com/emojis/images/1467141448/609/terminator.png
+    name: terminator
   - src: http://emojis.slackmojis.com/emojis/images/1450663468/218/terrycrews.png
     name: terrycrews
+  - src: http://emojis.slackmojis.com/emojis/images/1470076018/692/tesla.jpeg
+    name: tesla.
   - src: http://emojis.slackmojis.com/emojis/images/1450319444/29/thankyou.gif
     name: thankyou
+  - src: http://emojis.slackmojis.com/emojis/images/1466719485/583/thank_you.gif
+    name: thank_you
+  - src: http://emojis.slackmojis.com/emojis/images/1469206071/675/thisisfine.png
+    name: thisisfine
+  - src: http://emojis.slackmojis.com/emojis/images/1462543869/403/thundercats.png
+    name: thundercats
+  - src: http://emojis.slackmojis.com/emojis/images/1469641059/688/totoro.gif
+    name: totoro
+  - src: http://emojis.slackmojis.com/emojis/images/1467056864/591/toucan.png
+    name: toucan
+  - src: http://emojis.slackmojis.com/emojis/images/1455907617/299/travolta.gif
+    name: travolta
+  - src: http://emojis.slackmojis.com/emojis/images/1467300589/615/triforce.png
+    name: triforce
+  - src: http://emojis.slackmojis.com/emojis/images/1466000076/519/trogdor.png
+    name: trogdor
+  - src: http://emojis.slackmojis.com/emojis/images/1462386516/396/trump_china.png
+    name: trump_china
   - src: http://emojis.slackmojis.com/emojis/images/1450319451/92/trump_hair.jpg
     name: trump_hair
   - src: http://emojis.slackmojis.com/emojis/images/1450786255/254/tumbleweed.gif
     name: tumbleweed
+  - src: http://emojis.slackmojis.com/emojis/images/1465999929/517/twerk.png
+    name: twerk
+  - src: http://emojis.slackmojis.com/emojis/images/1462478610/399/two-cents.jpg
+    name: two-cents
+  - src: http://emojis.slackmojis.com/emojis/images/1467307018/637/typeform.png
+    name: typeform
   - src: http://emojis.slackmojis.com/emojis/images/1450319449/72/ugh_minion.png
     name: ugh_minion
+  - src: http://emojis.slackmojis.com/emojis/images/1461073185/370/unacceptable.png
+    name: unacceptable
   - src: http://emojis.slackmojis.com/emojis/images/1450458420/183/unicorn.gif
     name: unicorn
+  - src: http://emojis.slackmojis.com/emojis/images/1462093452/383/unicorn.png
+    name: unicorn2
+  - src: http://emojis.slackmojis.com/emojis/images/1466110250/527/usmnt.png
+    name: usmnt
+  - src: http://emojis.slackmojis.com/emojis/images/1463614042/443/verified.png
+    name: verified
+  - src: http://emojis.slackmojis.com/emojis/images/1466000034/518/very_metal.gif
+    name: very_metal
+  - src: http://emojis.slackmojis.com/emojis/images/1462093385/381/vinyl.png
+    name: vinyl
+  - src: http://emojis.slackmojis.com/emojis/images/1465327199/504/wat.jpg
+    name: wat
   - src: http://emojis.slackmojis.com/emojis/images/1450319459/143/waving.gif
     name: waving
+  - src: http://emojis.slackmojis.com/emojis/images/1467073145/604/weed.png
+    name: weed
+  - src: http://emojis.slackmojis.com/emojis/images/1465426678/505/welcome.jpeg
+    name: welcome.
   - src: http://emojis.slackmojis.com/emojis/images/1450319449/75/whatever_minion.png
     name: whatever_minion
+  - src: http://emojis.slackmojis.com/emojis/images/1466555638/531/whiskey.png
+    name: whiskey
+  - src: http://emojis.slackmojis.com/emojis/images/1464201164/497/whisky.png
+    name: whisky
+  - src: http://emojis.slackmojis.com/emojis/images/1460676349/360/wiggle_cat.gif
+    name: wiggle_cat
   - src: http://emojis.slackmojis.com/emojis/images/1450663432/216/wololo.gif
     name: wololo
-  - src: http://emojis.slackmojis.com/emojis/images/1450448195/158/yay.gif
-    name: yay
+  - src: http://emojis.slackmojis.com/emojis/images/1467136778/606/wolverine.gif
+    name: wolverine
+  - src: http://emojis.slackmojis.com/emojis/images/1469578434/686/woodstock.png
+    name: woodstock
+  - src: http://emojis.slackmojis.com/emojis/images/1460141625/344/woohoo.png
+    name: woohoo
+  - src: http://emojis.slackmojis.com/emojis/images/1465592381/510/wookiemom.gif
+    name: wookiemom
+  - src: http://emojis.slackmojis.com/emojis/images/1461187775/372/woot.jpg
+    name: woot
+  - src: http://emojis.slackmojis.com/emojis/images/1458682046/331/word.png
+    name: word
+  - src: http://emojis.slackmojis.com/emojis/images/1466642830/552/wtf.gif
+    name: wtf
+  - src: http://emojis.slackmojis.com/emojis/images/1456960586/309/yak.png
+    name: yak
   - src: http://emojis.slackmojis.com/emojis/images/1450475621/210/yay.gif
     name: yay
+  - src: http://emojis.slackmojis.com/emojis/images/1450448195/158/yay.gif
+    name: yay2
+  - src: http://emojis.slackmojis.com/emojis/images/1462478640/400/yeti.jpg
+    name: yeti
+  - src: http://emojis.slackmojis.com/emojis/images/1466642890/553/yoga.gif
+    name: yoga
+  - src: http://emojis.slackmojis.com/emojis/images/1466718697/581/zombie.gif
+    name: zombie
+  - src: http://emojis.slackmojis.com/emojis/images/1462093519/385/zombie.png
+    name: zombie2
