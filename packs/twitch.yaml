@@ -1,308 +1,308 @@
 title: Twitch
 emojis:
-  - name: 4Head
-    src: https://static-cdn.jtvnw.net/emoticons/v1/354/1.0
-  - name: ANELE
+  - name: anele
     src: https://static-cdn.jtvnw.net/emoticons/v1/3792/1.0
-  - name: ArgieB8
+  - name: argieb8
     src: https://static-cdn.jtvnw.net/emoticons/v1/51838/1.0
-  - name: ArsonNoSexy
+  - name: arsonnosexy
     src: https://static-cdn.jtvnw.net/emoticons/v1/50/1.0
-  - name: AsianGlow
+  - name: asianglow
     src: https://static-cdn.jtvnw.net/emoticons/v1/74/1.0
-  - name: AtGL
+  - name: atgl
     src: https://static-cdn.jtvnw.net/emoticons/v1/9809/1.0
-  - name: AthenaPMS
+  - name: athenapms
     src: https://static-cdn.jtvnw.net/emoticons/v1/32035/1.0
-  - name: AtIvy
+  - name: ativy
     src: https://static-cdn.jtvnw.net/emoticons/v1/9800/1.0
-  - name: AtWW
+  - name: atww
     src: https://static-cdn.jtvnw.net/emoticons/v1/9801/1.0
-  - name: BabyRage
+  - name: babyrage
     src: https://static-cdn.jtvnw.net/emoticons/v1/22639/1.0
-  - name: BatChest
+  - name: batchest
     src: https://static-cdn.jtvnw.net/emoticons/v1/1905/1.0
-  - name: BCWarrior
+  - name: bcwarrior
     src: https://static-cdn.jtvnw.net/emoticons/v1/30/1.0
-  - name: BibleThump
+  - name: biblethump
     src: https://static-cdn.jtvnw.net/emoticons/v1/86/1.0
-  - name: BigBrother
+  - name: bigbrother
     src: https://static-cdn.jtvnw.net/emoticons/v1/1904/1.0
-  - name: BionicBunion
+  - name: bionicbunion
     src: https://static-cdn.jtvnw.net/emoticons/v1/24/1.0
-  - name: BlargNaut
+  - name: blargnaut
     src: https://static-cdn.jtvnw.net/emoticons/v1/38/1.0
-  - name: bleedPurple
+  - name: bleedpurple
     src: https://static-cdn.jtvnw.net/emoticons/v1/62835/1.0
-  - name: BloodTrail
+  - name: bloodtrail
     src: https://static-cdn.jtvnw.net/emoticons/v1/69/1.0
-  - name: BORT
+  - name: bort
     src: https://static-cdn.jtvnw.net/emoticons/v1/243/1.0
-  - name: BrainSlug
+  - name: brainslug
     src: https://static-cdn.jtvnw.net/emoticons/v1/881/1.0
-  - name: BrokeBack
+  - name: brokeback
     src: https://static-cdn.jtvnw.net/emoticons/v1/4057/1.0
-  - name: BuddhaBar
+  - name: buddhabar
     src: https://static-cdn.jtvnw.net/emoticons/v1/27602/1.0
-  - name: CoolCat
+  - name: coolcat
     src: https://static-cdn.jtvnw.net/emoticons/v1/58127/1.0
-  - name: CorgiDerp
+  - name: corgiderp
     src: https://static-cdn.jtvnw.net/emoticons/v1/49106/1.0
-  - name: CougarHunt
+  - name: cougarhunt
     src: https://static-cdn.jtvnw.net/emoticons/v1/21/1.0
-  - name: DAESuppy
+  - name: daesuppy
     src: https://static-cdn.jtvnw.net/emoticons/v1/973/1.0
-  - name: DansGame
+  - name: dansgame
     src: https://static-cdn.jtvnw.net/emoticons/v1/33/1.0
-  - name: DatHass
+  - name: dathass
     src: https://static-cdn.jtvnw.net/emoticons/v1/20225/1.0
-  - name: DatSheffy
+  - name: datsheffy
     src: https://static-cdn.jtvnw.net/emoticons/v1/170/1.0
-  - name: DBstyle
+  - name: dbstyle
     src: https://static-cdn.jtvnw.net/emoticons/v1/73/1.0
-  - name: deExcite
+  - name: deexcite
     src: https://static-cdn.jtvnw.net/emoticons/v1/46249/1.0
-  - name: deIlluminati
+  - name: deilluminati
     src: https://static-cdn.jtvnw.net/emoticons/v1/46248/1.0
-  - name: DendiFace
+  - name: dendiface
     src: https://static-cdn.jtvnw.net/emoticons/v1/58135/1.0
-  - name: DogFace
+  - name: dogface
     src: https://static-cdn.jtvnw.net/emoticons/v1/1903/1.0
-  - name: DOOMGuy
+  - name: doomguy
     src: https://static-cdn.jtvnw.net/emoticons/v1/54089/1.0
-  - name: duDudu
+  - name: dududu
     src: https://static-cdn.jtvnw.net/emoticons/v1/62834/1.0
-  - name: EagleEye
+  - name: eagleeye
     src: https://static-cdn.jtvnw.net/emoticons/v1/20/1.0
-  - name: EleGiggle
+  - name: elegiggle
     src: https://static-cdn.jtvnw.net/emoticons/v1/4339/1.0
-  - name: EvilFetus
+  - name: evilfetus
     src: https://static-cdn.jtvnw.net/emoticons/v1/72/1.0
-  - name: FailFish
+  - name: failfish
     src: https://static-cdn.jtvnw.net/emoticons/v1/360/1.0
-  - name: FPSMarksman
+  - name: fourhead
+    src: https://static-cdn.jtvnw.net/emoticons/v1/354/1.0
+  - name: fpsmarksman
     src: https://static-cdn.jtvnw.net/emoticons/v1/42/1.0
-  - name: FrankerZ
+  - name: frankerz
     src: https://static-cdn.jtvnw.net/emoticons/v1/65/1.0
-  - name: FreakinStinkin
+  - name: freakinstinkin
     src: https://static-cdn.jtvnw.net/emoticons/v1/39/1.0
-  - name: FUNgineer
+  - name: fungineer
     src: https://static-cdn.jtvnw.net/emoticons/v1/244/1.0
-  - name: FunRun
+  - name: funrun
     src: https://static-cdn.jtvnw.net/emoticons/v1/48/1.0
-  - name: FuzzyOtterOO
+  - name: fuzzyotteroo
     src: https://static-cdn.jtvnw.net/emoticons/v1/168/1.0
-  - name: GasJoker
+  - name: gasjoker
     src: https://static-cdn.jtvnw.net/emoticons/v1/9802/1.0
-  - name: GingerPower
+  - name: gingerpower
     src: https://static-cdn.jtvnw.net/emoticons/v1/32/1.0
-  - name: GrammarKing
+  - name: grammarking
     src: https://static-cdn.jtvnw.net/emoticons/v1/3632/1.0
-  - name: HassanChop
+  - name: hassanchop
     src: https://static-cdn.jtvnw.net/emoticons/v1/68/1.0
-  - name: HeyGuys
+  - name: heyguys
     src: https://static-cdn.jtvnw.net/emoticons/v1/30259/1.0
-  - name: HotPokket
+  - name: hotpokket
     src: https://static-cdn.jtvnw.net/emoticons/v1/357/1.0
-  - name: HumbleLife
+  - name: humblelife
     src: https://static-cdn.jtvnw.net/emoticons/v1/46881/1.0
-  - name: ItsBoshyTime
+  - name: itsboshytime
     src: https://static-cdn.jtvnw.net/emoticons/v1/169/1.0
-  - name: Jebaited
+  - name: jebaited
     src: https://static-cdn.jtvnw.net/emoticons/v1/90/1.0
-  - name: JKanStyle
+  - name: jkanstyle
     src: https://static-cdn.jtvnw.net/emoticons/v1/15/1.0
-  - name: JonCarnage
+  - name: joncarnage
     src: https://static-cdn.jtvnw.net/emoticons/v1/26/1.0
-  - name: KAPOW
+  - name: kapow
     src: https://static-cdn.jtvnw.net/emoticons/v1/9803/1.0
-  - name: Kappa
+  - name: kappa
     src: https://static-cdn.jtvnw.net/emoticons/v1/25/1.0
-  - name: KappaPride
+  - name: kappapride
     src: https://static-cdn.jtvnw.net/emoticons/v1/55338/1.0
-  - name: Keepo
+  - name: keepo
     src: https://static-cdn.jtvnw.net/emoticons/v1/1902/1.0
-  - name: KevinTurtle
+  - name: kevinturtle
     src: https://static-cdn.jtvnw.net/emoticons/v1/40/1.0
-  - name: Kippa
+  - name: kippa
     src: https://static-cdn.jtvnw.net/emoticons/v1/1901/1.0
-  - name: Kreygasm
+  - name: kreygasm
     src: https://static-cdn.jtvnw.net/emoticons/v1/41/1.0
-  - name: KZskull
+  - name: kzskull
     src: https://static-cdn.jtvnw.net/emoticons/v1/5253/1.0
-  - name: Mau5
+  - name: mau5
     src: https://static-cdn.jtvnw.net/emoticons/v1/30134/1.0
-  - name: mcaT
+  - name: mcat
     src: https://static-cdn.jtvnw.net/emoticons/v1/35063/1.0
-  - name: MechaSupes
+  - name: mechasupes
     src: https://static-cdn.jtvnw.net/emoticons/v1/9804/1.0
-  - name: MingLee
+  - name: minglee
     src: https://static-cdn.jtvnw.net/emoticons/v1/68856/1.0
-  - name: MrDestructoid
+  - name: mrdestructoid
     src: https://static-cdn.jtvnw.net/emoticons/v1/28/1.0
-  - name: MVGame
+  - name: mvgame
     src: https://static-cdn.jtvnw.net/emoticons/v1/29/1.0
-  - name: NightBat
+  - name: nightbat
     src: https://static-cdn.jtvnw.net/emoticons/v1/9805/1.0
-  - name: NinjaTroll
+  - name: ninjatroll
     src: https://static-cdn.jtvnw.net/emoticons/v1/45/1.0
-  - name: NoNoSpot
+  - name: nonospot
     src: https://static-cdn.jtvnw.net/emoticons/v1/44/1.0
-  - name: NotATK
+  - name: notatk
     src: https://static-cdn.jtvnw.net/emoticons/v1/34875/1.0
-  - name: NotLikeThis
+  - name: notlikethis
     src: https://static-cdn.jtvnw.net/emoticons/v1/58765/1.0
-  - name: OMGScoots
+  - name: omgscoots
     src: https://static-cdn.jtvnw.net/emoticons/v1/91/1.0
-  - name: OneHand
+  - name: onehand
     src: https://static-cdn.jtvnw.net/emoticons/v1/66/1.0
-  - name: OpieOP
+  - name: opieop
     src: https://static-cdn.jtvnw.net/emoticons/v1/356/1.0
-  - name: OptimizePrime
+  - name: optimizeprime
     src: https://static-cdn.jtvnw.net/emoticons/v1/16/1.0
-  - name: OSbeaver
+  - name: osbeaver
     src: https://static-cdn.jtvnw.net/emoticons/v1/47005/1.0
-  - name: OSbury
+  - name: osbury
     src: https://static-cdn.jtvnw.net/emoticons/v1/47420/1.0
-  - name: OSdeo
+  - name: osdeo
     src: https://static-cdn.jtvnw.net/emoticons/v1/47007/1.0
-  - name: OSfrog
+  - name: osfrog
     src: https://static-cdn.jtvnw.net/emoticons/v1/47008/1.0
-  - name: OSkomodo
+  - name: oskomodo
     src: https://static-cdn.jtvnw.net/emoticons/v1/47010/1.0
-  - name: OSrob
+  - name: osrob
     src: https://static-cdn.jtvnw.net/emoticons/v1/47302/1.0
-  - name: OSsloth
+  - name: ossloth
     src: https://static-cdn.jtvnw.net/emoticons/v1/47011/1.0
-  - name: panicBasket
+  - name: panicbasket
     src: https://static-cdn.jtvnw.net/emoticons/v1/22998/1.0
-  - name: PanicVis
+  - name: panicvis
     src: https://static-cdn.jtvnw.net/emoticons/v1/3668/1.0
-  - name: PazPazowitz
+  - name: pazpazowitz
     src: https://static-cdn.jtvnw.net/emoticons/v1/19/1.0
-  - name: PeoplesChamp
+  - name: peopleschamp
     src: https://static-cdn.jtvnw.net/emoticons/v1/3412/1.0
-  - name: PermaSmug
+  - name: permasmug
     src: https://static-cdn.jtvnw.net/emoticons/v1/27509/1.0
-  - name: PicoMause
+  - name: picomause
     src: https://static-cdn.jtvnw.net/emoticons/v1/27/1.0
-  - name: PipeHype
+  - name: pipehype
     src: https://static-cdn.jtvnw.net/emoticons/v1/4240/1.0
-  - name: PJHarley
+  - name: pjharley
     src: https://static-cdn.jtvnw.net/emoticons/v1/9808/1.0
-  - name: PJSalt
+  - name: pjsalt
     src: https://static-cdn.jtvnw.net/emoticons/v1/36/1.0
-  - name: PMSTwin
+  - name: pmstwin
     src: https://static-cdn.jtvnw.net/emoticons/v1/92/1.0
-  - name: PogChamp
+  - name: pogchamp
     src: https://static-cdn.jtvnw.net/emoticons/v1/88/1.0
-  - name: Poooound
+  - name: poooound
     src: https://static-cdn.jtvnw.net/emoticons/v1/358/1.0
-  - name: PraiseIt
+  - name: praiseit
     src: https://static-cdn.jtvnw.net/emoticons/v1/38586/1.0
-  - name: PRChase
+  - name: prchase
     src: https://static-cdn.jtvnw.net/emoticons/v1/28328/1.0
-  - name: PunchTrees
+  - name: punchtrees
     src: https://static-cdn.jtvnw.net/emoticons/v1/47/1.0
-  - name: PuppeyFace
+  - name: puppeyface
     src: https://static-cdn.jtvnw.net/emoticons/v1/58136/1.0
-  - name: RaccAttack
+  - name: raccattack
     src: https://static-cdn.jtvnw.net/emoticons/v1/27679/1.0
-  - name: RalpherZ
+  - name: ralpherz
     src: https://static-cdn.jtvnw.net/emoticons/v1/1900/1.0
-  - name: RedCoat
+  - name: redcoat
     src: https://static-cdn.jtvnw.net/emoticons/v1/22/1.0
-  - name: ResidentSleeper
+  - name: residentsleeper
     src: https://static-cdn.jtvnw.net/emoticons/v1/245/1.0
-  - name: riPepperonis
+  - name: ripepperonis
     src: https://static-cdn.jtvnw.net/emoticons/v1/62833/1.0
-  - name: RitzMitz
+  - name: ritzmitz
     src: https://static-cdn.jtvnw.net/emoticons/v1/4338/1.0
-  - name: RuleFive
+  - name: rulefive
     src: https://static-cdn.jtvnw.net/emoticons/v1/361/1.0
-  - name: SeemsGood
+  - name: seemsgood
     src: https://static-cdn.jtvnw.net/emoticons/v1/64138/1.0
-  - name: ShadyLulu
+  - name: shadylulu
     src: https://static-cdn.jtvnw.net/emoticons/v1/52492/1.0
-  - name: Shazam
+  - name: shazam
     src: https://static-cdn.jtvnw.net/emoticons/v1/9807/1.0
   - name: shazamicon
     src: https://static-cdn.jtvnw.net/emoticons/v1/9806/1.0
-  - name: ShazBotstix
+  - name: shazbotstix
     src: https://static-cdn.jtvnw.net/emoticons/v1/87/1.0
-  - name: ShibeZ
+  - name: shibez
     src: https://static-cdn.jtvnw.net/emoticons/v1/27903/1.0
-  - name: SMOrc
+  - name: smorc
     src: https://static-cdn.jtvnw.net/emoticons/v1/52/1.0
-  - name: SMSkull
+  - name: smskull
     src: https://static-cdn.jtvnw.net/emoticons/v1/51/1.0
-  - name: SoBayed
+  - name: sobayed
     src: https://static-cdn.jtvnw.net/emoticons/v1/1906/1.0
-  - name: SoonerLater
+  - name: soonerlater
     src: https://static-cdn.jtvnw.net/emoticons/v1/355/1.0
-  - name: SriHead
+  - name: srihead
     src: https://static-cdn.jtvnw.net/emoticons/v1/14706/1.0
-  - name: SSSsss
+  - name: ssssss
     src: https://static-cdn.jtvnw.net/emoticons/v1/46/1.0
-  - name: StoneLightning
+  - name: stonelightning
     src: https://static-cdn.jtvnw.net/emoticons/v1/17/1.0
-  - name: StrawBeary
+  - name: strawbeary
     src: https://static-cdn.jtvnw.net/emoticons/v1/37/1.0
-  - name: SuperVinlin
+  - name: supervinlin
     src: https://static-cdn.jtvnw.net/emoticons/v1/31/1.0
-  - name: SwiftRage
+  - name: swiftrage
     src: https://static-cdn.jtvnw.net/emoticons/v1/34/1.0
-  - name: tbBaconBiscuit
+  - name: tbbaconbiscuit
     src: https://static-cdn.jtvnw.net/emoticons/v1/44499/1.0
-  - name: tbChickenBiscuit
+  - name: tbchickenbiscuit
     src: https://static-cdn.jtvnw.net/emoticons/v1/56879/1.0
-  - name: tbQuesarito
+  - name: tbquesarito
     src: https://static-cdn.jtvnw.net/emoticons/v1/56883/1.0
-  - name: tbSausageBiscuit
+  - name: tbsausagebiscuit
     src: https://static-cdn.jtvnw.net/emoticons/v1/56881/1.0
-  - name: tbSpicy
+  - name: tbspicy
     src: https://static-cdn.jtvnw.net/emoticons/v1/56882/1.0
-  - name: tbSriracha
+  - name: tbsriracha
     src: https://static-cdn.jtvnw.net/emoticons/v1/56880/1.0
-  - name: TF2John
+  - name: tf2john
     src: https://static-cdn.jtvnw.net/emoticons/v1/1899/1.0
-  - name: TheKing
+  - name: theking
     src: https://static-cdn.jtvnw.net/emoticons/v1/50901/1.0
-  - name: TheRinger
+  - name: theringer
     src: https://static-cdn.jtvnw.net/emoticons/v1/18/1.0
-  - name: TheTarFu
+  - name: thetarfu
     src: https://static-cdn.jtvnw.net/emoticons/v1/70/1.0
-  - name: TheThing
+  - name: thething
     src: https://static-cdn.jtvnw.net/emoticons/v1/7427/1.0
-  - name: ThunBeast
+  - name: thunbeast
     src: https://static-cdn.jtvnw.net/emoticons/v1/1898/1.0
-  - name: TinyFace
+  - name: tinyface
     src: https://static-cdn.jtvnw.net/emoticons/v1/67/1.0
-  - name: TooSpicy
+  - name: toospicy
     src: https://static-cdn.jtvnw.net/emoticons/v1/359/1.0
-  - name: TriHard
+  - name: trihard
     src: https://static-cdn.jtvnw.net/emoticons/v1/171/1.0
-  - name: TTours
+  - name: ttours
     src: https://static-cdn.jtvnw.net/emoticons/v1/38436/1.0
-  - name: twitchRaid
+  - name: twitchraid
     src: https://static-cdn.jtvnw.net/emoticons/v1/62836/1.0
-  - name: UleetBackup
+  - name: uleetbackup
     src: https://static-cdn.jtvnw.net/emoticons/v1/49/1.0
-  - name: UncleNox
+  - name: unclenox
     src: https://static-cdn.jtvnw.net/emoticons/v1/3666/1.0
-  - name: UnSane
+  - name: unsane
     src: https://static-cdn.jtvnw.net/emoticons/v1/71/1.0
-  - name: VaultBoy
+  - name: vaultboy
     src: https://static-cdn.jtvnw.net/emoticons/v1/54090/1.0
-  - name: Volcania
+  - name: volcania
     src: https://static-cdn.jtvnw.net/emoticons/v1/166/1.0
-  - name: WholeWheat
+  - name: wholewheat
     src: https://static-cdn.jtvnw.net/emoticons/v1/1896/1.0
-  - name: WinWaker
+  - name: winwaker
     src: https://static-cdn.jtvnw.net/emoticons/v1/167/1.0
-  - name: WTRuck
+  - name: wtruck
     src: https://static-cdn.jtvnw.net/emoticons/v1/1897/1.0
-  - name: WutFace
+  - name: wutface
     src: https://static-cdn.jtvnw.net/emoticons/v1/28087/1.0
-  - name: YouWHY
+  - name: youwhy
     src: https://static-cdn.jtvnw.net/emoticons/v1/4337/1.0

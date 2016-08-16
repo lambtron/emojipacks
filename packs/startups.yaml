@@ -15,7 +15,7 @@ emojis:
   - name: stripe
     src: http://i.imgur.com/91vs0q4.png
   - name: twilio
-    src: http://i.imgur.com/ExReHnB.png
+    src: http://i.imgur.com/dRkWzUM.png
   - name: pinterest
     src: http://i.imgur.com/DUuAij6.png
   - name: airbnb
@@ -42,3 +42,5 @@ emojis:
     src: http://i.imgur.com/vKnMfKp.png
   - name: survata
     src: http://i.imgur.com/VJ9GPZu.png
+  - name: callfire
+    src: http://i.imgur.com/4SAqcdI.jpg

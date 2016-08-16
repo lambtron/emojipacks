@@ -1,5 +1,7 @@
 # emojipacks
 
+[![Build Status](https://travis-ci.org/lambtron/emojipacks.svg?branch=master)](https://travis-ci.org/lambtron/emojipacks)
+
 > CLI to bulk upload emojis to your Slack!
 
 ## Install
@@ -87,6 +89,11 @@ emojis:
 - [Slackmojis](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis.yaml)
 - [parrotparty](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/parrotparty.yaml) ([Parrot](http://cultofthepartyparrot.com/) [Paint](http://cultofthepartyparrot.com/paint/))
 - [Finland](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/finland.yaml)
+- [pokemongo: items](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/pokemongo.yaml)
+- [Pokémon Go: Pokémon](https://raw.githubusercontent.com/Templarian/slack-emoji-pokemon/master/pokemon.yaml) ([Prefixed `pokemon-*`](https://raw.githubusercontent.com/Templarian/slack-emoji-pokemon/master/pokemon-prefix.yaml))
+- [nekoatsume](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/nekoatsume.yaml)
+- [octicons](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/octicons.yaml)
+- [pokemon](https://raw.githubusercontent.com/jaylynch/pokemoji/master/pokemon-by-name.yaml)
 
 ![](http://media1.giphy.com/media/68H7QjnqFOn2E/100.gif)
 
