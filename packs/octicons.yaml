@@ -1,16 +1,16 @@
 title: octicons
 emojis:
   - name: branch
-    src: http://i.imgur.com/2B16Phe.png
-  - name: bug
+    aliases:
+      - bug
     src: http://i.imgur.com/2B16Phe.png
   - name: commit
     src: https://i.imgur.com/UuAvkKE.png
   - name: compare
     src: https://i.imgur.com/fW9dOK8.png
   - name: fork
-    src: https://i.imgur.com/jzP6HET.png
-  - name: forked
+    aliases:
+      - forked
     src: https://i.imgur.com/jzP6HET.png
   - name: git
     src: https://i.imgur.com/5t3vu0G.png
@@ -21,22 +21,21 @@ emojis:
   - name: launch
     src: https://i.imgur.com/9uZJTNZ.png
   - name: merge
-    src: https://i.imgur.com/K4aI6sb.png
-  - name: merged
+    aliases:
+      - merged
     src: https://i.imgur.com/K4aI6sb.png
   - name: package
     src: http://i.imgur.com/fXl3uqe.png
   - name: pr
-    src: https://i.imgur.com/rhwNxfc.png
-  - name: pullrequest
-    src: https://i.imgur.com/rhwNxfc.png
-  - name: mergerequest
+    aliases:
+      - pullrequest
+      - mergerequest
     src: https://i.imgur.com/rhwNxfc.png
   - name: repository
     src: https://i.imgur.com/CD8EFDU.png
   - name: shipit
     src: https://i.imgur.com/jv3mw7d.png
   - name: tag
-    src: https://i.imgur.com/cBFKhdk.png
-  - name: version
+    aliases:
+      - version
     src: https://i.imgur.com/cBFKhdk.png
