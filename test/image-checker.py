@@ -11,7 +11,7 @@ import os
 import sys
 import tempfile
 import wget  # pip install wget
-import yaml  # pip install pyaml
+import yaml  # pip install pyyaml
 
 
 def load_yaml(filename):
