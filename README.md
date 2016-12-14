@@ -37,6 +37,15 @@ Password: *********
 Path or URL of Emoji yaml file: ./packs/futurama.yaml
 ```
 
+Or you can create a credentials file in your home directory: `~/.emojipacks.yaml`:
+
+```yaml
+subdomain: 20percentclub
+email: andyjiang@gmail.com
+```
+
+_Note that for security it will always ask for your password_
+
 Then, let it work its magic:
 
 ```bash
