@@ -142,16 +142,10 @@ emojis:
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/facepalm-1417752010@2x.png
   - name: failed
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/failed-1414026532@2x.png
-  - name: feelsbadman
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/feelsbadman-1417755795@2x.png
-  - name: feelsgoodman
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/feelsgoodman-1417755815@2x.png
   - name: finn
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/finn-1417755835@2x.png
   - name: fireworks
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/fireworks-1420575887@2x.gif
-  - name: firstworldproblems
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/firstworldproblems-1414025630@2x.png
   - name: fisheye
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/fisheye-1431522386@2x.png
   - name: fonzie
@@ -370,8 +364,6 @@ emojis:
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/thatthing-1417756953@2x.png
   - name: theyregreat
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/theyregreat-1417756964@2x.png
-  - name: toodamnhigh
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/toodamnhigh-1417756973@2x.png
   - name: tree
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/tree-1414022753@2x.png
   - name: troll
