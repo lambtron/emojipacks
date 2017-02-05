@@ -112,8 +112,6 @@ emojis:
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/dealwithit-1414024955@2x.gif
   - name: derp
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/derp-1417751963@2x.png
-  - name: disappear
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/disappear-1417754650@2x.gif
   - name: disapproval
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/disapproval-1414024448@2x.png
   - name: doge
@@ -244,10 +242,6 @@ emojis:
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/meh-1417755922@2x.png
   - name: menorah
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/menorah-1414022898@2x.png
-  - name: mindblown
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/mindblown-1414029295@2x.gif
-  - name: motherofgod
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/motherofgod-1417755937@2x.gif
   - name: ned
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/ned-1414028897@2x.png
   - name: nextgendev
