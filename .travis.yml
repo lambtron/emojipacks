@@ -19,4 +19,4 @@ install:
 
 script:
   - grunt
-  - python test/image-checker.py "packs/*.yaml"
+  - python test/image-checker.py --resize "packs/*.yaml"
