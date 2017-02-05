@@ -22,8 +22,6 @@ emojis:
     name: asana
   - src: http://emojis.slackmojis.com/emojis/images/1450464744/191/asana.png
     name: asana2
-  - src: http://emojis.slackmojis.com/emojis/images/1460283908/347/askfm.png
-    name: askfm
   - src: http://emojis.slackmojis.com/emojis/images/1467057057/599/aws.png
     name: aws
   - src: http://emojis.slackmojis.com/emojis/images/1467057067/600/aws_eb.png
@@ -58,12 +56,6 @@ emojis:
     name: facebook
   - src: http://emojis.slackmojis.com/emojis/images/1450319453/118/firefox.png
     name: firefox
-  - src: http://emojis.slackmojis.com/emojis/images/1458106637/314/flask.png
-    name: flask
-  - src: http://emojis.slackmojis.com/emojis/images/1450805181/256/gap.png
-    name: gap
-  - src: http://emojis.slackmojis.com/emojis/images/1460043575/341/git.png
-    name: git
   - src: http://emojis.slackmojis.com/emojis/images/1450822151/257/github.png
     name: github
   - src: http://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png
@@ -180,8 +172,6 @@ emojis:
     name: wordpress
   - src: http://emojis.slackmojis.com/emojis/images/1450319445/18/yo.png
     name: yo
-  - src: http://emojis.slackmojis.com/emojis/images/1464897233/502/zeplin.png
-    name: zeplin
   - src: http://emojis.slackmojis.com/emojis/images/1450319443/3/aliensguy.jpg
     name: aliensguy
   - src: http://emojis.slackmojis.com/emojis/images/1450319440/23/all_the_things.jpg
@@ -382,8 +372,6 @@ emojis:
     name: pokeball
   - src: http://emojis.slackmojis.com/emojis/images/1450736025/241/psyduck.png
     name: psyduck
-  - src: http://emojis.slackmojis.com/emojis/images/1450735566/237/slowpoke.jpg
-    name: slowpoke
   - src: http://emojis.slackmojis.com/emojis/images/1450735389/233/snorlax.png
     name: snorlax
   - src: http://emojis.slackmojis.com/emojis/images/1450735892/240/squirtle.png
@@ -646,8 +634,6 @@ emojis:
     name: coconut
   - src: http://emojis.slackmojis.com/emojis/images/1466000192/520/command.png
     name: command
-  - src: http://emojis.slackmojis.com/emojis/images/1450799464/255/communist.png
-    name: communist
   - src: http://emojis.slackmojis.com/emojis/images/1460753366/368/companion_cube.png
     name: companion_cube
   - src: http://emojis.slackmojis.com/emojis/images/1465511639/508/con-air.jpg
@@ -750,8 +736,6 @@ emojis:
     name: evil
   - src: http://emojis.slackmojis.com/emojis/images/1461883213/376/excellent.png
     name: excellent
-  - src: http://emojis.slackmojis.com/emojis/images/1456336445/300/excite_bike.png
-    name: excite_bike
   - src: http://emojis.slackmojis.com/emojis/images/1456336650/301/excite_biker.gif
     name: excite_biker
   - src: http://emojis.slackmojis.com/emojis/images/1450319443/19/excited.gif
@@ -770,8 +754,6 @@ emojis:
     name: facepalm4
   - src: http://emojis.slackmojis.com/emojis/images/1462193880/393/facepalm.png
     name: facepalm5
-  - src: http://emojis.slackmojis.com/emojis/images/1459899884/339/fail.jpg
-    name: fail
   - src: http://emojis.slackmojis.com/emojis/images/1455307267/297/farnsworth.png
     name: farnsworth
   - src: http://emojis.slackmojis.com/emojis/images/1469213672/677/fiestaparrot.gif
@@ -990,8 +972,6 @@ emojis:
     name: mystic2
   - src: http://emojis.slackmojis.com/emojis/images/1450475559/209/narwhal.png
     name: narwhal
-  - src: http://emojis.slackmojis.com/emojis/images/1461379139/374/nekoatsume.jpg
-    name: nekoatsume
   - src: http://emojis.slackmojis.com/emojis/images/1450319446/50/nemo.gif
     name: nemo
   - src: http://emojis.slackmojis.com/emojis/images/1467230093/614/nerfwar.gif
@@ -1146,8 +1126,6 @@ emojis:
     name: slowclap
   - src: http://emojis.slackmojis.com/emojis/images/1456966232/310/slow_clap.gif
     name: slow_clap
-  - src: http://emojis.slackmojis.com/emojis/images/1450735566/237/slowpoke.jpg
-    name: slowpoke
   - src: http://emojis.slackmojis.com/emojis/images/1468696620/664/smiths.jpg
     name: smiths
   - src: http://emojis.slackmojis.com/emojis/images/1466717977/568/smoke_it.gif
@@ -1274,8 +1252,6 @@ emojis:
     name: woohoo
   - src: http://emojis.slackmojis.com/emojis/images/1465592381/510/wookiemom.gif
     name: wookiemom
-  - src: http://emojis.slackmojis.com/emojis/images/1461187775/372/woot.jpg
-    name: woot
   - src: http://emojis.slackmojis.com/emojis/images/1458682046/331/word.png
     name: word
   - src: http://emojis.slackmojis.com/emojis/images/1466642830/552/wtf.gif
