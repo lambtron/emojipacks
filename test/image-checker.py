@@ -186,6 +186,6 @@ if __name__ == "__main__":
     print("Found {} total errors and {} total warnings".format(
         len(all_errors), len(all_warnings)))
 
-    # TODO: when data in better shape, exit with error code to fail builds
+    sys.exit(len(errors))
 
 # End of file
