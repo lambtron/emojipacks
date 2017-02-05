@@ -23,13 +23,44 @@ def load_yaml(filename):
     return data
 
 
-def check_yaml(yaml_filename):
+def name_from_path(path):
+    """Given 'packs/frontend.yaml' return 'frontend'"""
+    basename = os.path.basename(path)
+    return os.path.splitext(basename)[0]
+
+
+def create_dirs(dir):
+    """Create directory and all intermediate-level directories"""
+    if not os.path.isdir(dir):
+        os.makedirs(dir)
+
+
+def resize_image(im, yaml_filename, url):
+    """Given:
+        * an image,
+        * a yaml_filename ('packs/packname.yaml')
+        * and a URL ('https://example.com/emojiname.png')
+        thumbnail it to no more than 128x128, preserving aspect ratio,
+        and save to 'resized/packname/emojiname.png'
+        """
+    subdir = name_from_path(yaml_filename)
+    subdir = os.path.join("resized", subdir)
+    create_dirs(subdir)
+    im.thumbnail((128, 128), Image.BICUBIC)
+    outfile = os.path.basename(url)
+    outfile = os.path.join(subdir, outfile)
+    im.save(outfile)
+    return outfile
+
+
+def check_yaml(yaml_filename, resize=False):
     """
     Given emojipack YAML filename, check each image in the src field
     is an image of the correct size
     """
     errors = []
     warnings = []
+    resized = []
 
     out = "Checking {}".format(yaml_filename)
     sys.stdout.write(out)
@@ -62,10 +93,18 @@ def check_yaml(yaml_filename):
                     # Is it an image?
                     im = Image.open(f)
                     if im.width > 128 or im.height > 128:
-                        error = ("Error: image can't be larger than 128px in "
-                                 "width or height: {} {}".format(
+
+                        if resize:
+                            outfile = resize_image(im, yaml_filename, url)
+                            message = "Info: resized {} to {}".format(
+                                    url, outfile)
+                            resized.append(message)
+
+                        error = ("Error: image can't be larger than 128px "
+                                 "in width or height: {} {}".format(
                                     im.size, url))
                         errors.append(error)
+
                     elif im.width != im.height:
                         warning = ("Warning: square images work best: "
                                    "{} {}".format(im.size, url))
@@ -83,11 +122,17 @@ def check_yaml(yaml_filename):
     if len(errors):
         print("\n".join(errors))
     print()
+    print("Fixed {} errors in {}".format(len(resized), yaml_filename))
+    if len(resized):
+        print("\n".join(resized))
+        print("Please re-upload and update YAML")
+    print()
     print("Found {} warnings in {}".format(len(warnings), yaml_filename))
     if len(warnings):
         print("\n".join(warnings))
     print()
     return errors, warnings
+
 
 if __name__ == "__main__":
 
@@ -96,6 +141,9 @@ if __name__ == "__main__":
         formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument('inspec', nargs='?',
                         help="Input file spec")
+    parser.add_argument('-r', '--resize',
+                        action='store_true',
+                        help="Whether to resize large files")
     args = parser.parse_args()
 
     if args.inspec:
@@ -106,7 +154,7 @@ if __name__ == "__main__":
     all_errors = []
     all_warnings = []
     for filename in filenames:
-        errors, warnings = check_yaml(filename)
+        errors, warnings = check_yaml(filename, args.resize)
         all_errors += errors
         all_warnings += warnings
 
