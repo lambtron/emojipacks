@@ -8,10 +8,13 @@ from PIL import Image  # pip install pillow
 import argparse
 import glob
 import os
+import re
 import sys
 import tempfile
 import wget  # pip install wget
 import yaml  # pip install pyyaml
+
+DISALLOWED_CHARS_REGEX = re.compile('[^a-z0-9_-]')
 
 
 def load_yaml(filename):
@@ -19,8 +22,24 @@ def load_yaml(filename):
     Load YAML data from a file
     """
     with open(filename) as f:
-        data = yaml.safe_load(f)
+        # yaml.BaseLoader leaves everything as a string,
+        # so doesn't convert "no" to False
+        data = yaml.load(f, Loader=yaml.BaseLoader)
     return data
+
+
+def check_name(name):
+    """Check emoji name is valid.
+    Return error if invalid.
+    Return None if valid."""
+    # http://stackoverflow.com/a/92000/724176
+    if DISALLOWED_CHARS_REGEX.search(name):
+        # Name is invalid
+        return ("Error: custom emoji names can only contain lower case "
+                "letters, numbers, dashes and underscores: {}".format(name))
+    else:
+        # Name is valid
+        return None
 
 
 def name_from_path(path):
@@ -71,8 +90,14 @@ def check_yaml(yaml_filename, resize=False):
         "Chrome/35.0.1916.153 Safari/537.36 SE 2.X MetaSr 1.0")
 
     data = load_yaml(yaml_filename)
+
     urls_checked = set()
     for emoji in data["emojis"]:
+
+        error = check_name(emoji["name"])
+        if error:
+            errors.append(error)
+
         url = emoji["src"]
         if url not in urls_checked:
             urls_checked.add(url)
