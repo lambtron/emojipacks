@@ -186,6 +186,6 @@ if __name__ == "__main__":
     print("Found {} total errors and {} total warnings".format(
         len(all_errors), len(all_warnings)))
 
-    sys.exit(len(errors))
+    sys.exit(len(all_errors))
 
 # End of file
