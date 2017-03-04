@@ -112,8 +112,6 @@ emojis:
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/dealwithit-1414024955@2x.gif
   - name: derp
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/derp-1417751963@2x.png
-  - name: disappear
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/disappear-1417754650@2x.gif
   - name: disapproval
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/disapproval-1414024448@2x.png
   - name: doge
@@ -142,16 +140,10 @@ emojis:
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/facepalm-1417752010@2x.png
   - name: failed
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/failed-1414026532@2x.png
-  - name: feelsbadman
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/feelsbadman-1417755795@2x.png
-  - name: feelsgoodman
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/feelsgoodman-1417755815@2x.png
   - name: finn
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/finn-1417755835@2x.png
   - name: fireworks
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/fireworks-1420575887@2x.gif
-  - name: firstworldproblems
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/firstworldproblems-1414025630@2x.png
   - name: fisheye
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/fisheye-1431522386@2x.png
   - name: fonzie
@@ -250,10 +242,6 @@ emojis:
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/meh-1417755922@2x.png
   - name: menorah
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/menorah-1414022898@2x.png
-  - name: mindblown
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/mindblown-1414029295@2x.gif
-  - name: motherofgod
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/motherofgod-1417755937@2x.gif
   - name: ned
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/ned-1414028897@2x.png
   - name: nextgendev
@@ -341,7 +329,7 @@ emojis:
   - name: shamrock
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/shamrock-1414023710@2x.png
   - name: shrug
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/shrug-1414032234@2x.png
+    src: https://i.imgur.com/CH8AXi5.png
   - name: skyrim
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/skyrim-1417754336@2x.png
   - name: sourcetree
@@ -359,7 +347,7 @@ emojis:
   - name: sweetjesus
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/sweetjesus-1417754353@2x.png
   - name: tableflip
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/tableflip-1414031937@2x.png
+    src: https://i.imgur.com/0MODixB.png
   - name: taco
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/taco-1417756862@2x.png
   - name: taft
@@ -370,8 +358,6 @@ emojis:
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/thatthing-1417756953@2x.png
   - name: theyregreat
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/theyregreat-1417756964@2x.png
-  - name: toodamnhigh
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/toodamnhigh-1417756973@2x.png
   - name: tree
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/tree-1414022753@2x.png
   - name: troll
