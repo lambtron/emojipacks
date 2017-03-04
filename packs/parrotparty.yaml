@@ -76,3 +76,9 @@ emojis:
     src: http://cultofthepartyparrot.com/parrots/congapartyparrot.gif
   - name: moonwalkingparrot
     src: http://cultofthepartyparrot.com/parrots/moonwalkingparrot.gif
+  - name: coffeeparrot
+    src: http://cultofthepartyparrot.com/parrots/coffeeparrot.gif
+  - name: parrotwithmustache
+    src: http://cultofthepartyparrot.com/parrots/parrotmustache.gif
+  - name: christmasparrot
+    src: http://cultofthepartyparrot.com/parrots/christmasparrot.gif
