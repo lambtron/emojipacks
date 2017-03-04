@@ -1,7 +1,6 @@
-language: node_js
+language: python
 
-node_js:
-  - 0.10
+python: 2.7
 
 # whitelist
 # gh-pages is otherwise ignored by Travis CI
@@ -10,4 +9,14 @@ branches:
   only:
     - /.*/
 
-sudo: false # Use container-based infrastructure
+ # Use container-based infrastructure
+sudo: false
+
+install:
+  - npm install
+  - pip install -U pip
+  - pip install -r test/requirements.txt
+
+script:
+  - grunt
+  - python test/image-checker.py --resize "packs/*.yaml"
