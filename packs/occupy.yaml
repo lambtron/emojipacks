@@ -1,0 +1,18 @@
+title: occupy
+emojis:
+  - name: agree
+    src: https://emoji.slack-edge.com/T025CG2CW/agree/935084619f198ab6.png
+  - name: direct-response
+    src: https://emoji.slack-edge.com/T025CG2CW/direct-response/858540036fe19bee.png
+  - name: clarify
+    src: https://emoji.slack-edge.com/T025CG2CW/clarify/c76e018f78c45cd2.png
+  - name: point-of-order
+    src: https://emoji.slack-edge.com/T025CG2CW/point-of-order/3dd79349db39b1eb.png
+  - name: dont
+    src: https://emoji.slack-edge.com/T025CG2CW/dont/fbc7c79076611e4f.png
+  - name: block
+    src: https://emoji.slack-edge.com/T025CG2CW/block/20a4b80fceffe73f.png
+  - name: want-to-talk
+    src: https://emoji.slack-edge.com/T025CG2CW/want-to-talk/e3b0993fce806b9a.png
+  - name: oppose
+    src: https://emoji.slack-edge.com/T025CG2CW/oppose/d95d44a738a451c5.png
