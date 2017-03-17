@@ -56,6 +56,26 @@ Uploaded emojis
 
 Note that the emoji pack to upload can be a **path** to a yaml file on your machine or a **URL**, like [http://www.emojipacks.com/packs/food.yaml](http://www.emojipacks.com/packs/food.yaml).
 
+## Optionally Pass Command Line Parameters
+
+This will allow for easier batch uploading of multiple yaml files
+
+```bash
+$ emojipacks -s <subdomain> -e <email> -p <password> -y <yaml_file>
+```
+
+## Run Batch Upload script
+
+A file named batchUploadExample.sh is provided for your reference. Edit this file change the subdomain, email, and password parameters to your own and save it as batchUpload.sh or something similar.
+
+This script will aid in the process of batch uploading.
+
+It optionally takes an argument for the directory path that contains your yaml files. If this is not provided './packs' will be used by default.
+
+```bash
+$ ./batchUpload.sh [path_to_yaml_files]
+```
+
 ## Emoji Yaml File
 
 Also note that the yaml file must be indented properly and formatted as such:
@@ -141,4 +161,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
