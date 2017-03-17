@@ -66,9 +66,9 @@ $ emojipacks -s <subdomain> -e <email> -p <password> -y <yaml_file>
 
 ## Run Batch Upload script
 
-This script will aid in the process of batch uploading.
+A file named batchUploadExample.sh is provided for your reference. Edit this file change the subdomain, email, and password parameters to your own and save it as batchUpload.sh or something similar.
 
-To use edit the batchUpload.sh file and replace the parameters with your information.
+This script will aid in the process of batch uploading.
 
 It optionally takes an argument for the directory path that contains your yaml files. If this is not provided './packs' will be used by default.
 
