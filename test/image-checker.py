@@ -82,6 +82,17 @@ def resize_image(im, yaml_filename, url):
     return outfile
 
 
+def check_aliases(aliases, emoji_names, errors):
+    for alias in aliases:
+        error = check_name(alias)
+        if error:
+            errors.append(error)
+        if alias in emoji_names:
+            errors.append("Error: Alias {} is already defined elsewhere"
+                    .format(alias))
+        emoji_names.add(alias)
+
+
 def check_yaml(yaml_filename, resize=False):
     """
     Given emojipack YAML filename, check each image in the src field
@@ -96,16 +107,28 @@ def check_yaml(yaml_filename, resize=False):
 
     data = load_yaml(yaml_filename)
 
-    urls_checked = set()
+    urls_checked = dict()
+    emoji_names = set()
     for emoji in data["emojis"]:
 
         error = check_name(emoji["name"])
         if error:
             errors.append(error)
 
+        if emoji["name"] in emoji_names:
+            errors.append("Error: Emoji named {} already defined elsewhere."
+                    .format(emoji["name"]))
+        emoji_names.add(emoji["name"])
+
+        if "aliases" in emoji:
+            check_aliases(emoji["aliases"], emoji_names, errors)
+
         url = emoji["src"]
-        if url not in urls_checked:
-            urls_checked.add(url)
+        if url in urls_checked:
+            warnings.append("Warning: {} should be an alias for {}.".format(
+                emoji["name"], urls_checked[url]))
+        else:
+            urls_checked[url] = emoji["name"]
 
             sys.stdout.write('.')
 

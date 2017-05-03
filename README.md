@@ -95,6 +95,18 @@ emojis:
 - Image can't be larger than 128px in width or height
 - Image must be smaller than 64K in file size
 
+### Emoji Aliases
+It is possible to give multiple names to a single emoji using yaml such as:
+```yaml
+title: octicons
+emojis:
+  - name: pr
+    aliases:
+      - pullrequest
+      - mergerequest
+    src: https://i.imgur.com/rhwNxfc.png
+```
+
 
 ## Emoji packs
 
