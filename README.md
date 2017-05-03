@@ -140,6 +140,7 @@ emojis:
 - [hamsterdance](https://raw.githubusercontent.com/snipe/hamsterdance-emojipack/master/hamsterdance.yaml) ([snipe/emojipacks](https://github.com/snipe/hamsterdance-emojipack))
 - [avengers](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/avengers.yaml)
 - [Shiba Stickers](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/shiba.yaml) (from Messenger)
+- [gamedevmoji](https://raw.githubusercontent.com/niksudan/gamedevmoji/master/gamedevicons.yaml)
 
 ![](http://media1.giphy.com/media/68H7QjnqFOn2E/100.gif)
 
