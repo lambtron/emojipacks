@@ -10,11 +10,21 @@ import glob
 import os
 import re
 import sys
-import tempfile
-import wget  # pip install wget
 import yaml  # pip install pyyaml
+import io
+
+if sys.version_info >= (3, 0):
+    from urllib.error import URLError
+    from urllib.request import Request, urlopen
+else:
+    from urllib2 import URLError, Request, urlopen
 
 DISALLOWED_CHARS_REGEX = re.compile('[^a-z0-9_-]')
+HEADERS = {
+    "User-Agent":
+        "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/35.0.1916.153 Safari/537.36 SE 2.X MetaSr 1.0"
+}
 
 
 def load_yaml(filename):
@@ -84,11 +94,6 @@ def check_yaml(yaml_filename, resize=False):
     out = "Checking {}".format(yaml_filename)
     sys.stdout.write(out)
 
-    # monkey patch
-    wget.ulib.URLopener.version = (
-        "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/35.0.1916.153 Safari/537.36 SE 2.X MetaSr 1.0")
-
     data = load_yaml(yaml_filename)
 
     urls_checked = set()
@@ -103,43 +108,46 @@ def check_yaml(yaml_filename, resize=False):
             urls_checked.add(url)
 
             sys.stdout.write('.')
-            download = wget.download(url, tempfile.gettempdir(), bar=None)
 
-            # Square images work best. Image can't be larger than 128px in
-            # width or height, and must be smaller than 64K in file size.
+            try:
+                download = urlopen(Request(url=url, headers=HEADERS))
+                body = download.read()
+                download.close()
 
-            if os.path.getsize(download) > 65536:
-                error = ("Error: must be smaller than 64K in file size: "
-                         "{}").format(url)
-                errors.append(error)
+                # Square images work best. Image can't be larger than 128px in
+                # width or height, and must be smaller than 64K in file size.
+                if len(body) > 65536:
+                    error = ("Error: must be smaller than 64K in file size: "
+                             "{}").format(url)
+                    errors.append(error)
 
-            with open(download, "rb") as f:
-                try:
+                with io.BytesIO(body) as f:
                     # Is it an image?
                     im = Image.open(f)
                     if im.width > 128 or im.height > 128:
-
                         if resize:
                             outfile = resize_image(im, yaml_filename, url)
                             message = "Info: resized {} to {}".format(
-                                    url, outfile)
+                                url, outfile)
                             resized.append(message)
 
                         error = ("Error: image can't be larger than 128px "
                                  "in width or height: {} {}".format(
-                                    im.size, url))
+                                     im.size, url))
                         errors.append(error)
 
                     elif im.width != im.height:
                         warning = ("Warning: square images work best: "
                                    "{} {}".format(im.size, url))
                         warnings.append(warning)
-                except IOError:
-                    error = "Error: cannot open as image: {}".format(url)
-                    errors.append(error)
-                    f.close()
-
-            os.remove(download)
+            except URLError as e:
+                error = "Error: cannot fetch image: {} ({})".format(url,
+                                                                    e.reason)
+                errors.append(error)
+            except IOError as e:
+                error = "Error: cannot open as image: {}: {}".format(url,
+                                                                     e.strerror)
+                errors.append(error)
 
     print()
     print()
