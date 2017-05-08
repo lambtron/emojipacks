@@ -1,0 +1,119 @@
+title: weapons
+emojis:
+  - name: spear
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/spear.png
+  - name: flail
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/weapons_flail-128.png
+    aliases:
+      - morning-star
+  - name: battle-axe
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/battle-axe.png
+  - name: no-weapons
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/no-weapons.png
+    aliases:
+      - no-guns
+  - name: dynamite
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/dynamite-ba4a.png
+  - name: trebuchet
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/Trebuchet-_medieval_antique_old-128.png
+    aliases:
+      - siege-engine
+  - name: catapult
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/catapult_firing-128.png
+  - name: i-tried-it-at-home
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/i-tried-it-at-home-128.jpg
+    aliases:
+      - man-on-fire
+  - name: pistol-muzzle-loader
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/pistol-icon.png
+  - name: hammer-and-stake
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/hammer-stake-icon.png
+    aliases:
+      - kill-vampire
+  - name: m1911
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/m1911.jpg
+    aliases:
+      - pistol
+      - pistol-point-rt
+  - name: 1911
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/1911A1.png
+    aliases: 
+      - pistol-point-lt
+  - name: p08
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/p08.jpg
+    aliases:
+      - luger
+  - name: colt-revolver
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/gun-colt-icon.png
+    aliases:
+      - revolver
+  - name: cz-scorpion-evo
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/cz-scorpion-evo.png
+  - name: ak47
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/ak47.png
+    aliases:
+      - ak-47
+  - name: pt22
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/pt22.gif
+    aliases:
+      - taurus-pt22
+  - name: m16a1
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/m16a1.jpg
+    aliases:
+      - ar15
+  - name: derringer
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/derringer.jpg
+  - name: sw-44
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/sw44.jpg
+    aliases:
+      - smith-and-wesson
+  - name: cluster-grenades
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/cluster-grenades.png
+  - name: crossbow
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/crossbow-icon.png
+  - name: battle-hammer
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/battle-hammer.png
+    aliases:
+      - mjolnir
+  - name: katana
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/katana.png
+  - name: kitchen-knife
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/kitchen-knife.png
+  - name: mini-uzi
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/mini-uzi.png
+  - name: naginata
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/naginata.png
+  - name: shuriken
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/shuriken.png
+  - name: sniper-sight
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/sniper-sight.png
+  - name: uzi
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/uzi.gif
+  - name: aerial-bomb
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/aerial-bomb.png
+  - name: cannon
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/cannon.png
+  - name: death
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/death.png
+  - name: hatchet
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/hatchet.png
+  - name: meat-cleaver
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/meat-cleaver.png
+  - name: slingshot
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/slingshot.png
+  - name: stone-hatchet
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/stone-hatchet.png
+  - name: tomahawk
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/tomahawk.jpg
+  - name: at-at
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/at-at.png
+  - name: at-st
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/at-st.png
+  - name: bear-trap
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/bear-trap.png
+  - name: grenade
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/grenade.png
+  - name: landmine
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/landmine.jpg
+  - name: lethal-injection
+    src: https://github.com/bdobyns/emojipacks/raw/weapons/assets/lethal-injection.png
