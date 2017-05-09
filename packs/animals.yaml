@@ -4,3 +4,61 @@ emojis:
     src: http://i.imgur.com/6bKXKUP.gif
   - name: alpaca
     src: http://i.imgur.com/c6QxTbM.gif
+  - name: columbian-mammoth
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/columbian-mammoth.png
+  - name: dodo
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/dodo.png
+  - name: emu
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/emu.png
+  - name: platypus
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/platypus.png
+  - name: sabre-tooth-tiger
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/sabre-tooth-tiger.png
+  - name: wildebeest
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/wildebeest.png
+  - name: wooly-mammoth
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/wooly-mammoth.png
+  - name: zebra
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/zebra.png
+  - name: arctic-fox
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/arctic-fox.jpg
+  - name: desert-fox
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/desert-fox.gif
+  - name: festive-reindeer
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/festive-reindeer.png
+  - name: great-auk
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/great-auk.png
+  - name: great-owl
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/great-owl.png
+  - name: hawk
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/hawk.jpg
+  - name: moa
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/moa.png
+  - name: moose
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/moose.png
+  - name: reindeer-crash
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/reindeer-crash.png
+  - name: reindeer-harness
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/reindeer-harness.png
+  - name: beluga-whale
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/beluga-whale.jpg
+  - name: blue-whale
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/blue-whale.jpg
+  - name: grey-seal
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/grey-seal.png
+  - name: humpback-whale
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/humpback-whale.jpg
+  - name: killer-whale
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/killer-whale.jpg
+  - name: narwhal2
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/narwhal.jpg
+  - name: raccoon
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/raccoon.png
+  - name: robot-dog
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/robot-dog.png
+  - name: robot-scorpion
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/robot-scorpion.png
+  - name: robot-shark
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/robot-shark.png
+  - name: coyote
+    src: https://github.com/bdobyns/emojipacks/raw/animals/assets/coyote.jpg
