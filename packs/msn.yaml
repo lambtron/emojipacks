@@ -1,0 +1,156 @@
+title: msnemoji
+emojis:
+  - src: http://www.msgweb.nl/emoticons/brb.gif
+    name: msnberightback
+  - src: http://www.msgweb.nl/emoticons/cig.gif
+    name: msncigarette
+  - src: http://www.msgweb.nl/emoticons/high5.gif
+    name: msnhigh5
+  - src: http://www.msgweb.nl/emoticons/xbox.gif
+    name: msnxbox
+  - src: http://www.msgweb.nl/emoticons/turtle.gif
+    name: msnturtle
+  - src: http://www.msgweb.nl/emoticons/xfingers.gif
+    name: msncrossedfingers
+  - src: http://www.msgweb.nl/emoticons/asl.gif
+    name: msnagesexlocation
+  - src: http://www.msgweb.nl/emoticons/handcuffs.gif
+    name: msnhandcuffs
+  - src: http://www.msgweb.nl/emoticons/regular_smile.gif
+    name: msnsmile
+  - src: http://www.msgweb.nl/emoticons/teeth_smile.gif
+    name: msngrin
+  - src: http://www.msgweb.nl/emoticons/omg_smile.gif
+    name: msnsuprised
+  - src: http://www.msgweb.nl/emoticons/tongue_smile.gif
+    name: msntonguesmile
+  - src: http://www.msgweb.nl/emoticons/wink_smile.gif
+    name: msnwink
+  - src: http://www.msgweb.nl/emoticons/sad_smile.gif
+    name: msnsad
+  - src: http://www.msgweb.nl/emoticons/confused_smile.gif
+    name: msnconfused
+  - src: http://www.msgweb.nl/emoticons/what_smile.gif
+    name: msndisappointed
+  - src: http://www.msgweb.nl/emoticons/cry_smile.gif
+    name: msncrying
+  - src: http://www.msgweb.nl/emoticons/red_smile.gif
+    name: msnshy
+  - src: http://www.msgweb.nl/emoticons/shades_smile.gif
+    name: msncool
+  - src: http://www.msgweb.nl/emoticons/angry_smile.gif
+    name: msnangry
+  - src: http://www.msgweb.nl/emoticons/angel_smile.gif
+    name: msnangel
+  - src: http://www.msgweb.nl/emoticons/devil_smile.gif
+    name: msndevil
+  - src: http://www.msgweb.nl/emoticons/47_47.gif
+    name: msndonttell
+  - src: http://www.msgweb.nl/emoticons/48_48.gif
+    name: msnteeth
+  - src: http://www.msgweb.nl/emoticons/49_49.gif
+    name: msndull
+  - src: http://www.msgweb.nl/emoticons/50_50.gif
+    name: msnsarcastic
+  - src: http://www.msgweb.nl/emoticons/51_51.gif
+    name: msntellingsecrets
+  - src: http://www.msgweb.nl/emoticons/52_52.gif
+    name: msnsick
+  - src: http://www.msgweb.nl/emoticons/71_71.gif
+    name: msndontknow
+  - src: http://www.msgweb.nl/emoticons/72_72.gif
+    name: msnthinking
+  - src: http://www.msgweb.nl/emoticons/74_74.gif
+    name: msnparty
+  - src: http://www.msgweb.nl/emoticons/75_75.gif
+    name: msnrollingeyes
+  - src: http://www.msgweb.nl/emoticons/77_77.gif
+    name: msndrowsy
+  - src: http://www.msgweb.nl/emoticons/coffee.gif
+    name: msncoffee
+  - src: http://www.msgweb.nl/emoticons/thumbs_up.gif
+    name: msnthumbup
+  - src: http://www.msgweb.nl/emoticons/thumbs_down.gif
+    name: msnthumbdown
+  - src: http://www.msgweb.nl/emoticons/beer_mug.gif
+    name: msnbeer
+  - src: http://www.msgweb.nl/emoticons/martini.gif
+    name: msncocktail
+  - src: http://www.msgweb.nl/emoticons/girl.gif
+    name: msngirl
+  - src: http://www.msgweb.nl/emoticons/guy.gif
+    name: msnguy
+  - src: http://www.msgweb.nl/emoticons/guy_hug.gif
+    name: msnguyhug
+  - src: http://www.msgweb.nl/emoticons/girl_hug.gif
+    name: msngirlhug
+  - src: http://www.msgweb.nl/emoticons/bat.gif
+    name: msnbat
+  - src: http://www.msgweb.nl/emoticons/cake.gif
+    name: msncake
+  - src: http://www.msgweb.nl/emoticons/heart.gif
+    name: msnheart
+  - src: http://www.msgweb.nl/emoticons/broken_heart.gif
+    name: msnbrokenheart
+  - src: http://www.msgweb.nl/emoticons/kiss.gif
+    name: msnkiss
+  - src: http://www.msgweb.nl/emoticons/present.gif
+    name: msnpresent
+  - src: http://www.msgweb.nl/emoticons/rose.gif
+    name: msnrose
+  - src: http://www.msgweb.nl/emoticons/wilted_rose.gif
+    name: msnwiltedrose
+  - src: http://www.msgweb.nl/emoticons/camera.gif
+    name: msncamera
+  - src: http://www.msgweb.nl/emoticons/film.gif
+    name: msnfilm
+  - src: http://www.msgweb.nl/emoticons/cat.gif
+    name: msncat
+  - src: http://www.msgweb.nl/emoticons/dog.gif
+    name: msndog
+  - src: http://www.msgweb.nl/emoticons/phone.gif
+    name: msnphone
+  - src: http://www.msgweb.nl/emoticons/lightbulb.gif
+    name: msnlightbulb
+  - src: http://www.msgweb.nl/emoticons/note.gif
+    name: msnmusicnote
+  - src: http://www.msgweb.nl/emoticons/moon.gif
+    name: msnsleepingmoon
+  - src: http://www.msgweb.nl/emoticons/star.gif
+    name: msnstar
+  - src: http://www.msgweb.nl/emoticons/envelope.gif
+    name: msnenvelope
+  - src: http://www.msgweb.nl/emoticons/clock.gif
+    name: msnclock
+  - src: http://www.msgweb.nl/emoticons/messenger.gif
+    name: msnmsnmessengericon
+  - src: http://www.msgweb.nl/emoticons/53_53.gif
+    name: msnsnail
+  - src: http://www.msgweb.nl/emoticons/70_70.gif
+    name: msnblacksheep
+  - src: http://www.msgweb.nl/emoticons/55_55.gif
+    name: msnplate
+  - src: http://www.msgweb.nl/emoticons/56_56.gif
+    name: msn
+  - src: http://www.msgweb.nl/emoticons/57_57.gif
+    name: msnpizza
+  - src: http://www.msgweb.nl/emoticons/58_58.gif
+    name: msnsoccer
+  - src: http://www.msgweb.nl/emoticons/59_59.gif
+    name: msncar
+  - src: http://www.msgweb.nl/emoticons/60_60.gif
+    name: msnairplane
+  - src: http://www.msgweb.nl/emoticons/61_61.gif
+    name: msnumbrella
+  - src: http://www.msgweb.nl/emoticons/62_62.gif
+    name: msnıslandwithpalmtree
+  - src: http://www.msgweb.nl/emoticons/63_63.gif
+    name: msncomputer
+  - src: http://www.msgweb.nl/emoticons/64_64.gif
+    name: msnmobilephone
+  - src: http://www.msgweb.nl/emoticons/66_66.gif
+    name: msnstorm
+  - src: http://www.msgweb.nl/emoticons/73_73.gif
+    name: msnlightning
+  - src: http://www.msgweb.nl/emoticons/69_69.gif
+    name: msnmoney
