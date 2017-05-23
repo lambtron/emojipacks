@@ -141,6 +141,7 @@ emojis:
 - [avengers](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/avengers.yml)
 - [Shiba Stickers](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/shiba.yaml) (from Messenger)
 - [gamedevmoji](https://raw.githubusercontent.com/niksudan/gamedevmoji/master/gamedevicons.yaml)
+- [Steamoji](https://github.com/jordanbuchman/steamoji/blob/master/README.md)
 
 ![](http://media1.giphy.com/media/68H7QjnqFOn2E/100.gif)
 
