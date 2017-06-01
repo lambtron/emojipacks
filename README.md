@@ -133,6 +133,7 @@ emojis:
 - [Finland](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/finland.yaml)
 - [pokemongo: items](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/pokemongo.yaml)
 - [Pokémon Go: Pokémon](https://raw.githubusercontent.com/Templarian/slack-emoji-pokemon/master/pokemon.yaml) ([Prefixed `pokemon-*`](https://raw.githubusercontent.com/Templarian/slack-emoji-pokemon/master/pokemon-prefix.yaml))
+- [politipack](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/politipack.yaml)
 - [nekoatsume](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/nekoatsume.yaml)
 - [octicons](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/octicons.yaml)
 - [pokemon](https://raw.githubusercontent.com/jaylynch/pokemoji/master/pokemon-by-name.yaml)
