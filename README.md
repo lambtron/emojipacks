@@ -1,5 +1,4 @@
 # emojipacks
-
 [![Build Status](https://travis-ci.org/lambtron/emojipacks.svg?branch=master)](https://travis-ci.org/lambtron/emojipacks)
 
 > CLI to bulk upload emojis to your Slack!
@@ -142,6 +141,7 @@ emojis:
 - [avengers](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/avengers.yml)
 - [Shiba Stickers](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/shiba.yaml) (from Messenger)
 - [gamedevmoji](https://raw.githubusercontent.com/niksudan/gamedevmoji/master/gamedevicons.yaml)
+- [AWS simple icons](https://raw.githubusercontent.com/Surgo/aws_emojipacks/master/noprefix-emojipacks.yml)
 
 ![](http://media1.giphy.com/media/68H7QjnqFOn2E/100.gif)
 
