@@ -52,10 +52,18 @@ def main():
         'emojis': []
     }
 
+    approved = ['.jpg', '.png', '.gif', '.jpeg']
     for slackmoji in slackmojis:
+        name = str(slackmoji['name'])
+        src = str(slackmoji['image_url']).split('?')[0]
+        ext = os.path.splitext(src)[1]
+        if ext not in approved:
+            print '{} has an invalid extension! ({})'.format(src, name)
+            continue
+
         slackmoji_data = {
-            'name': str(slackmoji['name']),
-            'src': str(slackmoji['image_url'])
+            'name': name,
+            'src': src
         }
         data['emojis'].append(slackmoji_data)
 
