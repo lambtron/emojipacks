@@ -35,8 +35,8 @@ def main():
     output_file = 'emojis.json'
     output_file_yaml = 'new_slackmojis.yaml'
 
-    #remove_old_file(output_file)
-    #download_file(url, output_file)
+    remove_old_file(output_file)
+    download_file(url, output_file)
 
     with open(output_file) as slackmoji_file:
         slackmojis = json.load(slackmoji_file)
@@ -53,13 +53,18 @@ def main():
     }
 
     approved = ['.jpg', '.png', '.gif', '.jpeg']
+    name_counter = {}
     for slackmoji in slackmojis:
         name = str(slackmoji['name'])
+        name_counter[name] = name_counter[name] + 1 if name in name_counter else 1
+        if name_counter[name] > 1:
+            name = ''.join([name, str(name_counter[name])])
         src = str(slackmoji['image_url']).split('?')[0]
         ext = os.path.splitext(src)[1]
         if ext not in approved:
             print '{} has an invalid extension! ({})'.format(src, name)
             continue
+
 
         slackmoji_data = {
             'name': name,
