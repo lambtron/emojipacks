@@ -196,6 +196,8 @@ emojis:
     name: doge2
   - src: http://emojis.slackmojis.com/emojis/images/1457563042/312/doge.png
     name: doge
+    aliases:
+    - doge3
   - src: http://emojis.slackmojis.com/emojis/images/1463602545/441/door_stop.png
     name: door_stop
   - src: http://emojis.slackmojis.com/emojis/images/1463602516/440/epic_win.png
@@ -692,8 +694,6 @@ emojis:
     name: disco_dance
   - src: http://emojis.slackmojis.com/emojis/images/1458327098/325/dna.png
     name: dna
-  - src: http://emojis.slackmojis.com/emojis/images/1457563042/312/doge.png
-    name: doge3
   - src: http://emojis.slackmojis.com/emojis/images/1450319448/68/domo.png
     name: domo
   - src: http://emojis.slackmojis.com/emojis/images/1454373223/284/donald_trump.png
@@ -1178,8 +1178,6 @@ emojis:
     name: terminator
   - src: http://emojis.slackmojis.com/emojis/images/1450663468/218/terrycrews.png
     name: terrycrews
-  - src: http://emojis.slackmojis.com/emojis/images/1459365617/335/tesla.jpg
-    name: tesla
   - src: http://emojis.slackmojis.com/emojis/images/1450319444/29/thankyou.gif
     name: thankyou
   - src: http://emojis.slackmojis.com/emojis/images/1466719485/583/thank_you.gif

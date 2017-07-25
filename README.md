@@ -1,5 +1,4 @@
 # emojipacks
-
 [![Build Status](https://travis-ci.org/lambtron/emojipacks.svg?branch=master)](https://travis-ci.org/lambtron/emojipacks)
 
 > CLI to bulk upload emojis to your Slack!
@@ -95,6 +94,18 @@ emojis:
 - Image can't be larger than 128px in width or height
 - Image must be smaller than 64K in file size
 
+### Emoji Aliases
+It is possible to give multiple names to a single emoji using yaml such as:
+```yaml
+title: octicons
+emojis:
+  - name: pr
+    aliases:
+      - pullrequest
+      - mergerequest
+    src: https://i.imgur.com/rhwNxfc.png
+```
+
 
 ## Emoji packs
 
@@ -121,12 +132,16 @@ emojis:
 - [Finland](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/finland.yaml)
 - [pokemongo: items](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/pokemongo.yaml)
 - [Pokémon Go: Pokémon](https://raw.githubusercontent.com/Templarian/slack-emoji-pokemon/master/pokemon.yaml) ([Prefixed `pokemon-*`](https://raw.githubusercontent.com/Templarian/slack-emoji-pokemon/master/pokemon-prefix.yaml))
+- [politipack](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/politipack.yaml)
 - [nekoatsume](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/nekoatsume.yaml)
 - [octicons](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/octicons.yaml)
 - [pokemon](https://raw.githubusercontent.com/jaylynch/pokemoji/master/pokemon-by-name.yaml)
 - [devicon](https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/devicon.yaml) ([Devicon](http://devicon.fr/))
 - [hamsterdance](https://raw.githubusercontent.com/snipe/hamsterdance-emojipack/master/hamsterdance.yaml) ([snipe/emojipacks](https://github.com/snipe/hamsterdance-emojipack))
-- [avengers](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/avengers.yaml)
+- [avengers](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/avengers.yml)
+- [Shiba Stickers](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/shiba.yaml) (from Messenger)
+- [gamedevmoji](https://raw.githubusercontent.com/niksudan/gamedevmoji/master/gamedevicons.yaml)
+- [AWS simple icons](https://raw.githubusercontent.com/Surgo/aws_emojipacks/master/noprefix-emojipacks.yml)
 
 ![](http://media1.giphy.com/media/68H7QjnqFOn2E/100.gif)
 

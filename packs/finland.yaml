@@ -2,6 +2,12 @@ title: finland
 emojis:
   - name: a-trusted-friend
     src: https://hugovk.github.io/finland-emoji/128px/a_trusted_friend.png
+  - name: alandislands
+    src: https://hugovk.github.io/finland-emoji/128px/alandislands.png
+  - name: association
+    src: https://hugovk.github.io/finland-emoji/128px/association.png
+  - name: auroraborealis
+    src: https://hugovk.github.io/finland-emoji/128px/auroraborealis.png
   - name: baby-in-a-box
     src: https://hugovk.github.io/finland-emoji/128px/baby_in_a_box.png
   - name: bear
@@ -10,8 +16,12 @@ emojis:
     src: https://hugovk.github.io/finland-emoji/128px/black_gold.png
   - name: christmasparty
     src: https://hugovk.github.io/finland-emoji/128px/christmasparty.png
+  - name: crosscountryskiing
+    src: https://hugovk.github.io/finland-emoji/128px/crosscountryskiing.png
   - name: cupofcoffee
     src: https://hugovk.github.io/finland-emoji/128px/cupofcoffee.png
+  - name: education
+    src: https://hugovk.github.io/finland-emoji/128px/education.png
   - name: fashionista-finns
     src: https://hugovk.github.io/finland-emoji/128px/fashionista_finns.png
   - name: finnishlove
@@ -30,6 +40,8 @@ emojis:
     src: https://hugovk.github.io/finland-emoji/128px/happiness.png
   - name: headbanger
     src: https://hugovk.github.io/finland-emoji/128px/headbanger.png
+  - name: icebreaker
+    src: https://hugovk.github.io/finland-emoji/128px/icebreaker.png
   - name: iceman
     src: https://hugovk.github.io/finland-emoji/128px/iceman.png
   - name: joulutorttu
@@ -42,8 +54,12 @@ emojis:
     src: https://hugovk.github.io/finland-emoji/128px/kalsarikannit_m.png
   - name: karjalanpiirakka
     src: https://hugovk.github.io/finland-emoji/128px/karjalanpiirakka.png
+  - name: kicksled
+    src: https://hugovk.github.io/finland-emoji/128px/kicksled.png
   - name: kokko
     src: https://hugovk.github.io/finland-emoji/128px/kokko.png
+  - name: lavatanssit
+    src: https://hugovk.github.io/finland-emoji/128px/lavatanssit.png
   - name: losthopes-f
     src: https://hugovk.github.io/finland-emoji/128px/losthopes_f.png
   - name: losthopes-m
@@ -54,6 +70,8 @@ emojis:
     src: https://hugovk.github.io/finland-emoji/128px/meanwhileinfinland.png
   - name: moominmamma
     src: https://hugovk.github.io/finland-emoji/128px/moominmamma.png
+  - name: nordicfamily
+    src: https://hugovk.github.io/finland-emoji/128px/nordicfamily.png
   - name: out-of-office
     src: https://hugovk.github.io/finland-emoji/128px/out_of_office.png
   - name: peacemaker
@@ -62,10 +80,14 @@ emojis:
     src: https://hugovk.github.io/finland-emoji/128px/perkele.png
   - name: pesapallo
     src: https://hugovk.github.io/finland-emoji/128px/pesapallo.png
+  - name: polarbear
+    src: https://hugovk.github.io/finland-emoji/128px/polarbear.png
   - name: pusa-hispida-saimensis
     src: https://hugovk.github.io/finland-emoji/128px/pusa_hispida_saimensis.png
   - name: reindeer
     src: https://hugovk.github.io/finland-emoji/128px/reindeer.png
+  - name: sami
+    src: https://hugovk.github.io/finland-emoji/128px/sami.png
   - name: sauna-f
     src: https://hugovk.github.io/finland-emoji/128px/sauna_f.png
   - name: sauna-m
@@ -80,6 +102,8 @@ emojis:
     src: https://hugovk.github.io/finland-emoji/128px/suomimainittu.png
   - name: superfood
     src: https://hugovk.github.io/finland-emoji/128px/superfood.png
+  - name: swan
+    src: https://hugovk.github.io/finland-emoji/128px/swan.png
   - name: the-cap
     src: https://hugovk.github.io/finland-emoji/128px/the_cap.png
   - name: the-conductor
@@ -90,6 +114,8 @@ emojis:
     src: https://hugovk.github.io/finland-emoji/128px/the_voice.png
   - name: theoriginalsanta
     src: https://hugovk.github.io/finland-emoji/128px/theoriginalsanta.png
+  - name: tomoffinland
+    src: https://hugovk.github.io/finland-emoji/128px/tomoffinland.png
   - name: torillatavataan
     src: https://hugovk.github.io/finland-emoji/128px/torillatavataan.png
   - name: unbreakable
