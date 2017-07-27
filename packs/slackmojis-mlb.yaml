@@ -1,58 +1,58 @@
 title: slackmoji-mlb
 emojis:
-  - name: astros
+  - name: mlb-astros
     src: http://emojis.slackmojis.com/emojis/images/1486698558/1716/astros.jpg
-  - name: athletics
+  - name: mlb-athletics
     src: http://emojis.slackmojis.com/emojis/images/1486698559/1717/athletics.jpg
-  - name: bluejays
+  - name: mlb-bluejays
     src: http://emojis.slackmojis.com/emojis/images/1488914770/1825/bluejays.png
-  - name: brewers
+  - name: mlb-brewers
     src: http://emojis.slackmojis.com/emojis/images/1486698560/1718/brewers.jpg
-  - name: cardinals2
+  - name: mlb-cardinals
     src: http://emojis.slackmojis.com/emojis/images/1486698560/1719/cardinals.jpg
-  - name: cubs
+  - name: mlb-cubs
     src: http://emojis.slackmojis.com/emojis/images/1486698561/1720/cubs.jpg
-  - name: diamondbacks
+  - name: mlb-diamondbacks
     src: http://emojis.slackmojis.com/emojis/images/1486698561/1721/diamondbacks.jpg
-  - name: dodgers
+  - name: mlb-dodgers
     src: http://emojis.slackmojis.com/emojis/images/1486698561/1722/dodgers.jpg
-  - name: expos
+  - name: mlb-expos
     src: http://emojis.slackmojis.com/emojis/images/1486698561/1723/expos.jpg
-  - name: giants
+  - name: mlb-giants
     src: http://emojis.slackmojis.com/emojis/images/1486698562/1724/giants.jpg
-  - name: indians
+  - name: mlb-indians
     src: http://emojis.slackmojis.com/emojis/images/1486698562/1725/indians.jpg
-  - name: mariners
+  - name: mlb-mariners
     src: http://emojis.slackmojis.com/emojis/images/1486698562/1726/mariners.jpg
-  - name: marlins
+  - name: mlb-marlins
     src: http://emojis.slackmojis.com/emojis/images/1486698562/1727/marlins.jpg
-  - name: mets
+  - name: mlb-mets
     src: http://emojis.slackmojis.com/emojis/images/1486698563/1728/mets.jpg
-  - name: nats
+  - name: mlb-nats
     src: http://emojis.slackmojis.com/emojis/images/1486698563/1729/nats.jpg
-  - name: orioles
+  - name: mlb-orioles
     src: http://emojis.slackmojis.com/emojis/images/1486698563/1730/orioles.jpg
-  - name: padres
+  - name: mlb-padres
     src: http://emojis.slackmojis.com/emojis/images/1486698563/1731/padres.jpg
-  - name: phillies
+  - name: mlb-phillies
     src: http://emojis.slackmojis.com/emojis/images/1486698564/1732/phillies.jpg
-  - name: pirates
+  - name: mlb-pirates
     src: http://emojis.slackmojis.com/emojis/images/1486698564/1733/pirates.jpg
-  - name: rangers
+  - name: mlb-rangers
     src: http://emojis.slackmojis.com/emojis/images/1486698564/1734/rangers.jpg
-  - name: rays
+  - name: mlb-rays
     src: http://emojis.slackmojis.com/emojis/images/1486698564/1735/rays.jpg
-  - name: reds
+  - name: mlb-reds
     src: http://emojis.slackmojis.com/emojis/images/1486698565/1737/reds.jpg
-  - name: red_sox
+  - name: mlb-red_sox
     src: http://emojis.slackmojis.com/emojis/images/1486698565/1736/red_sox.jpg
-  - name: rockies
+  - name: mlb-rockies
     src: http://emojis.slackmojis.com/emojis/images/1486698565/1738/rockies.jpg
-  - name: royals
+  - name: mlb-royals
     src: http://emojis.slackmojis.com/emojis/images/1486698565/1739/royals.jpg
-  - name: tigers
+  - name: mlb-tigers
     src: http://emojis.slackmojis.com/emojis/images/1486698566/1740/tigers.jpg
-  - name: white_sox
+  - name: mlb-white_sox
     src: http://emojis.slackmojis.com/emojis/images/1486698566/1741/white_sox.jpg
-  - name: yankess
+  - name: mlb-yankess
     src: http://emojis.slackmojis.com/emojis/images/1486698566/1742/yankess.jpg

@@ -99,6 +99,13 @@ def main():
         if name == 'no2':
             # there are two 'no' and one 'no2' emojis already
             name = 'no2-1'
+        sports = ['mlb', 'nba', 'nfl', 'nhl']
+        if category in sports:
+            # The NFL logo should not be :nfl-nfl:
+            if name == 'nfl':
+                pass
+            else:
+                name = '{}-{}'.format(category, name)
 
         name_counter[name] = name_counter[name] + 1 if name in name_counter else 1
         if name_counter[name] > 1:

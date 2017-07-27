@@ -1,62 +1,62 @@
 title: slackmoji-nhl
 emojis:
-  - name: avalanche
+  - name: nhl-avalanche
     src: http://emojis.slackmojis.com/emojis/images/1490321858/1919/avalanche.png
-  - name: blackhawks
+  - name: nhl-blackhawks
     src: http://emojis.slackmojis.com/emojis/images/1490321879/1920/blackhawks.png
-  - name: blue_jackets
+  - name: nhl-blue_jackets
     src: http://emojis.slackmojis.com/emojis/images/1490321897/1921/blue_jackets.png
-  - name: blues
+  - name: nhl-blues
     src: http://emojis.slackmojis.com/emojis/images/1490321913/1922/blues.png
-  - name: bruins
+  - name: nhl-bruins
     src: http://emojis.slackmojis.com/emojis/images/1490321931/1923/bruins.png
-  - name: canadiens
+  - name: nhl-canadiens
     src: http://emojis.slackmojis.com/emojis/images/1490321965/1924/canadiens.png
-  - name: canucks
+  - name: nhl-canucks
     src: http://emojis.slackmojis.com/emojis/images/1490321988/1925/canucks.png
-  - name: capitals
+  - name: nhl-capitals
     src: http://emojis.slackmojis.com/emojis/images/1490322014/1926/capitals.png
-  - name: coyotes
+  - name: nhl-coyotes
     src: http://emojis.slackmojis.com/emojis/images/1490322044/1927/coyotes.png
-  - name: devils
+  - name: nhl-devils
     src: http://emojis.slackmojis.com/emojis/images/1490322066/1928/devils.png
-  - name: ducks
+  - name: nhl-ducks
     src: http://emojis.slackmojis.com/emojis/images/1490322109/1929/ducks.png
-  - name: flames
+  - name: nhl-flames
     src: http://emojis.slackmojis.com/emojis/images/1490322134/1930/flames.png
-  - name: flyers
+  - name: nhl-flyers
     src: http://emojis.slackmojis.com/emojis/images/1490322170/1931/flyers.png
-  - name: hurricanes
+  - name: nhl-hurricanes
     src: http://emojis.slackmojis.com/emojis/images/1490322233/1932/hurricanes.png
-  - name: islanders
+  - name: nhl-islanders
     src: http://emojis.slackmojis.com/emojis/images/1490322273/1933/islanders.png
-  - name: jets2
+  - name: nhl-jets
     src: http://emojis.slackmojis.com/emojis/images/1490322292/1934/jets.png
-  - name: kings2
+  - name: nhl-kings
     src: http://emojis.slackmojis.com/emojis/images/1490322315/1935/kings.png
-  - name: lightning
+  - name: nhl-lightning
     src: http://emojis.slackmojis.com/emojis/images/1490322335/1936/lightning.png
-  - name: maple_leafs
+  - name: nhl-maple_leafs
     src: http://emojis.slackmojis.com/emojis/images/1490322357/1937/maple_leafs.png
-  - name: oilers
+  - name: nhl-oilers
     src: http://emojis.slackmojis.com/emojis/images/1490322378/1938/oilers.png
-  - name: panthers
+  - name: nhl-panthers
     src: http://emojis.slackmojis.com/emojis/images/1490322398/1939/panthers.png
-  - name: penguins
+  - name: nhl-penguins
     src: http://emojis.slackmojis.com/emojis/images/1490322432/1940/penguins.png
-  - name: predators
+  - name: nhl-predators
     src: http://emojis.slackmojis.com/emojis/images/1490322453/1941/predators.png
-  - name: rangers2
+  - name: nhl-rangers
     src: http://emojis.slackmojis.com/emojis/images/1490322474/1942/rangers.png
-  - name: red_wings
+  - name: nhl-red_wings
     src: http://emojis.slackmojis.com/emojis/images/1490322497/1943/red_wings.png
-  - name: sabres
+  - name: nhl-sabres
     src: http://emojis.slackmojis.com/emojis/images/1490322515/1944/sabres.png
-  - name: senators
+  - name: nhl-senators
     src: http://emojis.slackmojis.com/emojis/images/1490322536/1945/senators.png
-  - name: sharks
+  - name: nhl-sharks
     src: http://emojis.slackmojis.com/emojis/images/1490322554/1946/sharks.png
-  - name: stars
+  - name: nhl-stars
     src: http://emojis.slackmojis.com/emojis/images/1490322571/1947/stars.png
-  - name: wild
+  - name: nhl-wild
     src: http://emojis.slackmojis.com/emojis/images/1490322589/1948/wild.png

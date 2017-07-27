@@ -202,7 +202,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1462093642/388/beanbag.png
   - name: beard
     src: http://emojis.slackmojis.com/emojis/images/1489594851/1878/beard.png
-  - name: bears2
+  - name: bears
     src: http://emojis.slackmojis.com/emojis/images/1499373367/2581/bears.png
   - name: beauty
     src: http://emojis.slackmojis.com/emojis/images/1483822090/1555/beauty.gif
@@ -938,9 +938,9 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1460146074/346/flag_on_the_play.jpg
   - name: flag-wls
     src: http://emojis.slackmojis.com/emojis/images/1472058182/1080/flag-wls.png
-  - name: flames2
+  - name: flames
     src: http://emojis.slackmojis.com/emojis/images/1450319442/12/flames.gif
-  - name: flames3
+  - name: flames2
     src: http://emojis.slackmojis.com/emojis/images/1450319442/15/flames.gif
   - name: flappy_bird
     src: http://emojis.slackmojis.com/emojis/images/1481348711/1475/flappy_bird.png
@@ -1516,7 +1516,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1481153193/1430/lunch.gif
   - name: magic
     src: http://emojis.slackmojis.com/emojis/images/1465999778/513/magic.gif
-  - name: magic3
+  - name: magic2
     src: http://emojis.slackmojis.com/emojis/images/1470510365/742/magic.png
   - name: magical
     src: http://emojis.slackmojis.com/emojis/images/1483822575/1585/magical.gif
