@@ -1,3 +1,4 @@
 requests
 PyYAML
 pillow
+python-box

@@ -143,7 +143,7 @@ emojis:
 
 ### Emoji packs from [slackmojis.com](http://www.slackmojis.com)
 
-- [Uncategorized](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-.yaml)
+- [Uncategorized](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-uncategorized.yaml)
 - [Facebook Reaction](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-facebook-reaction.yaml)
 - [Logo](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-logo.yaml)
 - [Meme](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-meme.yaml)

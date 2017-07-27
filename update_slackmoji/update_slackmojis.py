@@ -1,22 +1,23 @@
+from __future__ import print_function
 import io
-import json
 import os
-from pprint import pprint
-import sys
 
+from box import Box, BoxList
 from PIL import Image
 import requests
 import yaml
 
-# From https://stackoverflow.com/questions/25108581/python-yaml-dump-bad-indentation
+
+# https://stackoverflow.com/questions/25108581/python-yaml-dump-bad-indentation
 class MyDumper(yaml.Dumper):
 
     def increase_indent(self, flow=False, indentless=False):
         return super(MyDumper, self).increase_indent(flow, False)
 
+
 def remove_file(f):
     try:
-        print 'removing file', f
+        print('removing file', f)
         os.remove(f)
     except OSError:
         pass
@@ -45,9 +46,8 @@ def get_categories(slackmojis):
     categories.add('uncategorized')
     for slackmoji in slackmojis:
         if 'category' in slackmoji:
-            category = str(slackmoji['category']['name']).lower().replace(' ', '-')
+            category = str(slackmoji.category.name).lower().replace(' ', '-')
             categories.add(category)
-    #pprint(categories)
     return categories
 
 
@@ -65,14 +65,13 @@ def main():
     slackmoji_pack_dir = 'slackmoji-packs'
     create_dirs(slackmoji_pack_dir)
 
-    with open(output_file) as slackmoji_file:
-        slackmojis = json.load(slackmoji_file)
+    slackmojis = BoxList.from_json(filename=output_file)
 
     categories = get_categories(slackmojis)
 
     data = {}
     for category in categories:
-        data[category] = { 'emojis': [] }
+        data[category] = {'emojis': []}
         output_file_yaml = os.path.join(slackmoji_pack_dir,
                                         'slackmojis-{}.yaml'.format(category))
         remove_file(output_file_yaml)
@@ -82,12 +81,12 @@ def main():
             }
         write_yaml_file(data_header, output_file_yaml)
 
-    name_counter = {}
+    name_count = Box()
     for slackmoji in slackmojis:
         name = str(slackmoji['name'])
         category = 'uncategorized'
         if 'category' in slackmoji:
-            category = str(slackmoji['category']['name']).lower().replace(' ', '-')
+            category = str(slackmoji.category.name).lower().replace(' ', '-')
 
         output_file_yaml = os.path.join(slackmoji_pack_dir,
                                         'slackmojis-{}.yaml'.format(category))
@@ -107,9 +106,9 @@ def main():
             else:
                 name = '{}-{}'.format(category, name)
 
-        name_counter[name] = name_counter[name] + 1 if name in name_counter else 1
-        if name_counter[name] > 1:
-            name = ''.join([name, str(name_counter[name])])
+        name_count.name = name_count.name + 1 if name in name_count else 1
+        if name_count.name > 1:
+            name = ''.join([name, str(name_count.name)])
         src = str(slackmoji['image_url']).split('?')[0]
         ext = os.path.splitext(src)[1]
 
@@ -126,7 +125,7 @@ def main():
             # Is it an image?
             im = Image.open(f)
             if im.width > 128 or im.height > 128:
-                print ':{}: is {}\t{}'.format(name, im.size, src)
+                print(':{}: is {}\t{}'.format(name, im.size, src))
                 continue
 
         slackmoji_data = {
@@ -136,7 +135,6 @@ def main():
 
         data[category]['emojis'].append(slackmoji_data)
 
-    #pprint(data)
     for category in categories:
         output_file_yaml = os.path.join(slackmoji_pack_dir,
                                         'slackmojis-{}.yaml'.format(category))
