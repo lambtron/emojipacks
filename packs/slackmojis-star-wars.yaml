@@ -13,9 +13,9 @@ emojis:
   - name: bobba_fett
     src: http://emojis.slackmojis.com/emojis/images/1450319459/140/bobba_fett.gif
   - name: c3po
-    src: http://emojis.slackmojis.com/emojis/images/1450473998/208/c3po.png
-  - name: c3po2
     src: http://emojis.slackmojis.com/emojis/images/1450319458/133/c3po.png
+  - name: c3po2
+    src: http://emojis.slackmojis.com/emojis/images/1450473998/208/c3po.png
   - name: captain_phasma
     src: http://emojis.slackmojis.com/emojis/images/1453827656/279/captain_phasma.png
   - name: chewbacca
@@ -53,9 +53,9 @@ emojis:
   - name: poe
     src: http://emojis.slackmojis.com/emojis/images/1453827427/267/poe.png
   - name: r2d2
-    src: http://emojis.slackmojis.com/emojis/images/1453827632/278/r2d2.png
-  - name: r2d22
     src: http://emojis.slackmojis.com/emojis/images/1450319458/132/r2d2.png
+  - name: r2d22
+    src: http://emojis.slackmojis.com/emojis/images/1453827632/278/r2d2.png
   - name: rebel
     src: http://emojis.slackmojis.com/emojis/images/1450319450/113/rebel.png
   - name: starwars
@@ -72,5 +72,5 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1493910372/2183/vader.png
   - name: x-wing
     src: http://emojis.slackmojis.com/emojis/images/1450319458/135/x-wing.png
-  - name: yoda2
+  - name: yoda
     src: http://emojis.slackmojis.com/emojis/images/1450319458/137/yoda.png

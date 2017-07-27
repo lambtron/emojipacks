@@ -36,9 +36,9 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1463602545/441/door_stop.png
   - name: epic_win
     src: http://emojis.slackmojis.com/emojis/images/1463602516/440/epic_win.png
-  - name: facepalm2
+  - name: facepalm
     src: http://emojis.slackmojis.com/emojis/images/1450473045/204/facepalm.gif
-  - name: facepalm5
+  - name: facepalm2
     src: http://emojis.slackmojis.com/emojis/images/1450319441/51/facepalm.png
   - name: feels
     src: http://emojis.slackmojis.com/emojis/images/1454927900/294/feels.png
@@ -50,7 +50,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1458326965/319/grumpycat.png
   - name: homerdisppear
     src: http://emojis.slackmojis.com/emojis/images/1450475643/211/homer-disappear.gif
-  - name: hypnotoad2
+  - name: hypnotoad
     src: http://emojis.slackmojis.com/emojis/images/1450319455/129/hypnotoad.gif
   - name: imposibru
     src: http://emojis.slackmojis.com/emojis/images/1458327032/323/imposibru.png
@@ -68,7 +68,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1478712578/1342/mercury1.png
   - name: mercury2
     src: http://emojis.slackmojis.com/emojis/images/1478712603/1343/mercury2.png
-  - name: mindblown3
+  - name: mindblown2
     src: http://emojis.slackmojis.com/emojis/images/1450319447/26/mindblown.gif
   - name: no2
     src: http://emojis.slackmojis.com/emojis/images/1463601925/423/no.jpg
@@ -78,7 +78,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1463602283/435/not_sure.jpg
   - name: numb
     src: http://emojis.slackmojis.com/emojis/images/1463601984/425/numb.png
-  - name: nyancat
+  - name: nyancat2
     src: http://emojis.slackmojis.com/emojis/images/1450319443/64/nyancat.gif
   - name: nyancat_big
     src: http://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif
@@ -103,9 +103,9 @@ emojis:
   - name: take_my_money
     src: http://emojis.slackmojis.com/emojis/images/1450319446/65/take_my_money.png
   - name: the_more_you_know
-    src: http://emojis.slackmojis.com/emojis/images/1450319446/62/the_more_you_know.png
-  - name: the_more_you_know2
     src: http://emojis.slackmojis.com/emojis/images/1450319447/52/the_more_you_know.gif
+  - name: the_more_you_know2
+    src: http://emojis.slackmojis.com/emojis/images/1450319446/62/the_more_you_know.png
   - name: trap
     src: http://emojis.slackmojis.com/emojis/images/1463601767/421/trap.png
   - name: troll

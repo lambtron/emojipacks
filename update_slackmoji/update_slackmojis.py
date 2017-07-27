@@ -74,7 +74,7 @@ def main():
     for category in categories:
         data[category] = { 'emojis': [] }
         output_file_yaml = os.path.join(slackmoji_pack_dir,
-                                        '{}.yaml'.format(category))
+                                        'slackmojis-{}.yaml'.format(category))
         remove_file(output_file_yaml)
 
         data_header = {
@@ -90,7 +90,7 @@ def main():
             category = str(slackmoji['category']['name']).lower().replace(' ', '-')
 
         output_file_yaml = os.path.join(slackmoji_pack_dir,
-                                        '{}.yaml'.format(category))
+                                        'slackmojis-{}.yaml'.format(category))
 
         # Special cases - a.k.a stupid cases
         if name == 'yes2':
@@ -132,7 +132,7 @@ def main():
     #pprint(data)
     for category in categories:
         output_file_yaml = os.path.join(slackmoji_pack_dir,
-                                        '{}.yaml'.format(category))
+                                        'slackmojis-{}.yaml'.format(category))
         write_yaml_file(data[category], output_file_yaml)
 
 

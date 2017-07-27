@@ -25,9 +25,9 @@ emojis:
   - name: kerbal_space_program
     src: http://emojis.slackmojis.com/emojis/images/1450319454/128/kerbal_space_program.jpg
   - name: kirby
-    src: http://emojis.slackmojis.com/emojis/images/1450448467/162/kirby.gif
-  - name: kirby2
     src: http://emojis.slackmojis.com/emojis/images/1450716258/223/kirby.gif
+  - name: kirby2
+    src: http://emojis.slackmojis.com/emojis/images/1450448467/162/kirby.gif
   - name: knuckles
     src: http://emojis.slackmojis.com/emojis/images/1450451879/172/knuckles.gif
   - name: knuckles_waiting
@@ -41,13 +41,13 @@ emojis:
   - name: link-triforce
     src: http://emojis.slackmojis.com/emojis/images/1463675873/453/link-triforce.png
   - name: mario
-    src: http://emojis.slackmojis.com/emojis/images/1450731329/226/mario.gif
+    src: http://emojis.slackmojis.com/emojis/images/1450452676/173/mario.png
   - name: mario2
-    src: http://emojis.slackmojis.com/emojis/images/1450319445/43/mario.gif
+    src: http://emojis.slackmojis.com/emojis/images/1450731329/226/mario.gif
   - name: mario3
     src: http://emojis.slackmojis.com/emojis/images/1450319446/47/mario.gif
   - name: mario4
-    src: http://emojis.slackmojis.com/emojis/images/1450452676/173/mario.png
+    src: http://emojis.slackmojis.com/emojis/images/1450319445/43/mario.gif
   - name: mario-block
     src: http://emojis.slackmojis.com/emojis/images/1450452687/174/mario-block.png
   - name: mario_luigi_dance

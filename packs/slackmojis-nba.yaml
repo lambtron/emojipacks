@@ -4,7 +4,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1464145836/465/76ers.png
   - name: bucks
     src: http://emojis.slackmojis.com/emojis/images/1464145871/466/bucks.png
-  - name: bulls
+  - name: bulls2
     src: http://emojis.slackmojis.com/emojis/images/1464145910/467/bulls.png
   - name: cavaliers
     src: http://emojis.slackmojis.com/emojis/images/1464145928/468/cavaliers.png
@@ -28,7 +28,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1464146113/477/knicks.png
   - name: lakers
     src: http://emojis.slackmojis.com/emojis/images/1464146132/478/lakers.png
-  - name: magic3
+  - name: magic2
     src: http://emojis.slackmojis.com/emojis/images/1464146151/479/magic.png
   - name: mavericks
     src: http://emojis.slackmojis.com/emojis/images/1464146169/480/mavericks.png
@@ -46,7 +46,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1464146288/486/raptors.png
   - name: rockets
     src: http://emojis.slackmojis.com/emojis/images/1464146305/487/rockets.png
-  - name: spurs
+  - name: spurs2
     src: http://emojis.slackmojis.com/emojis/images/1464146323/488/spurs.png
   - name: suns
     src: http://emojis.slackmojis.com/emojis/images/1464146340/489/suns.png

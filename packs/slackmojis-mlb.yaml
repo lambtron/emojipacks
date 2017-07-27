@@ -8,7 +8,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1488914770/1825/bluejays.png
   - name: brewers
     src: http://emojis.slackmojis.com/emojis/images/1486698560/1718/brewers.jpg
-  - name: cardinals
+  - name: cardinals2
     src: http://emojis.slackmojis.com/emojis/images/1486698560/1719/cardinals.jpg
   - name: cubs
     src: http://emojis.slackmojis.com/emojis/images/1486698561/1720/cubs.jpg
@@ -18,7 +18,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1486698561/1722/dodgers.jpg
   - name: expos
     src: http://emojis.slackmojis.com/emojis/images/1486698561/1723/expos.jpg
-  - name: giants2
+  - name: giants
     src: http://emojis.slackmojis.com/emojis/images/1486698562/1724/giants.jpg
   - name: indians
     src: http://emojis.slackmojis.com/emojis/images/1486698562/1725/indians.jpg
@@ -38,7 +38,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1486698564/1732/phillies.jpg
   - name: pirates
     src: http://emojis.slackmojis.com/emojis/images/1486698564/1733/pirates.jpg
-  - name: rangers2
+  - name: rangers
     src: http://emojis.slackmojis.com/emojis/images/1486698564/1734/rangers.jpg
   - name: rays
     src: http://emojis.slackmojis.com/emojis/images/1486698564/1735/rays.jpg

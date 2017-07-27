@@ -20,4 +20,3 @@ install:
 script:
   - grunt
   - python test/image-checker.py --resize "packs/*.yaml"
-  - python test/image-checker.py --resize "packs/slackmoji-packs/*.yaml"
