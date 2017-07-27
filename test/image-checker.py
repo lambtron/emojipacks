@@ -174,8 +174,8 @@ def check_yaml(yaml_filename, resize=False):
 
     print()
     print("Found {} warnings in {}".format(len(warnings), yaml_filename))
-    #if len(warnings):
-    #    print("\n".join(warnings))
+    if len(warnings):
+        print("\n".join(warnings))
     print()
     print("Found {} errors in {}".format(len(errors), yaml_filename))
     if len(errors):
@@ -186,6 +186,7 @@ def check_yaml(yaml_filename, resize=False):
         print("\n".join(resized))
         print("Please re-upload and update YAML")
     print()
+    print("######################################################################")
     return errors, warnings
 
 

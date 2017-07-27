@@ -55,8 +55,8 @@ def main():
     url = "http://slackmojis.com/emojis.json"
     output_file = 'emojis.json'
 
-    #remove_file(output_file)
-    #download_file(url, output_file)
+    remove_file(output_file)
+    download_file(url, output_file)
 
     # for downloaded emoji
     slackmoji_dl_dir = 'downloaded'
@@ -69,9 +69,6 @@ def main():
         slackmojis = json.load(slackmoji_file)
 
     categories = get_categories(slackmojis)
-
-    #sys.exit()
-    ######################################
 
     data = {}
     for category in categories:
