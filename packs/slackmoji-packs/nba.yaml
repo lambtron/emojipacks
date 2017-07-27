@@ -1,0 +1,62 @@
+title: slackmoji-nba
+emojis:
+  - name: 76ers
+    src: http://emojis.slackmojis.com/emojis/images/1464145836/465/76ers.png
+  - name: bucks
+    src: http://emojis.slackmojis.com/emojis/images/1464145871/466/bucks.png
+  - name: bulls
+    src: http://emojis.slackmojis.com/emojis/images/1464145910/467/bulls.png
+  - name: cavaliers
+    src: http://emojis.slackmojis.com/emojis/images/1464145928/468/cavaliers.png
+  - name: celtics
+    src: http://emojis.slackmojis.com/emojis/images/1464145943/469/celtics.png
+  - name: clippers
+    src: http://emojis.slackmojis.com/emojis/images/1464145963/470/clippers.png
+  - name: grizzlies
+    src: http://emojis.slackmojis.com/emojis/images/1464145979/471/grizzlies.png
+  - name: hawks
+    src: http://emojis.slackmojis.com/emojis/images/1464146002/472/hawks.png
+  - name: heat
+    src: http://emojis.slackmojis.com/emojis/images/1464146040/473/heat.png
+  - name: hornets
+    src: http://emojis.slackmojis.com/emojis/images/1464146057/474/hornets.png
+  - name: jazz
+    src: http://emojis.slackmojis.com/emojis/images/1464146076/475/jazz.png
+  - name: kings
+    src: http://emojis.slackmojis.com/emojis/images/1464146094/476/kings.png
+  - name: knicks
+    src: http://emojis.slackmojis.com/emojis/images/1464146113/477/knicks.png
+  - name: lakers
+    src: http://emojis.slackmojis.com/emojis/images/1464146132/478/lakers.png
+  - name: magic3
+    src: http://emojis.slackmojis.com/emojis/images/1464146151/479/magic.png
+  - name: mavericks
+    src: http://emojis.slackmojis.com/emojis/images/1464146169/480/mavericks.png
+  - name: nets
+    src: http://emojis.slackmojis.com/emojis/images/1464146190/481/nets.png
+  - name: nuggets
+    src: http://emojis.slackmojis.com/emojis/images/1464146207/482/nuggets.png
+  - name: pacers
+    src: http://emojis.slackmojis.com/emojis/images/1464146223/483/pacers.png
+  - name: pelicans
+    src: http://emojis.slackmojis.com/emojis/images/1464146241/484/pelicans.png
+  - name: pistons
+    src: http://emojis.slackmojis.com/emojis/images/1464146256/485/pistons.png
+  - name: raptors
+    src: http://emojis.slackmojis.com/emojis/images/1464146288/486/raptors.png
+  - name: rockets
+    src: http://emojis.slackmojis.com/emojis/images/1464146305/487/rockets.png
+  - name: spurs
+    src: http://emojis.slackmojis.com/emojis/images/1464146323/488/spurs.png
+  - name: suns
+    src: http://emojis.slackmojis.com/emojis/images/1464146340/489/suns.png
+  - name: thunder
+    src: http://emojis.slackmojis.com/emojis/images/1464146357/490/thunder.png
+  - name: timberwolves
+    src: http://emojis.slackmojis.com/emojis/images/1464146376/491/timberwolves.png
+  - name: trailblazers
+    src: http://emojis.slackmojis.com/emojis/images/1464146395/492/trailblazers.png
+  - name: warriors
+    src: http://emojis.slackmojis.com/emojis/images/1464146409/493/warriors.png
+  - name: wizards
+    src: http://emojis.slackmojis.com/emojis/images/1464146426/494/wizards.png

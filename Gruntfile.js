@@ -8,7 +8,7 @@ module.exports = function (grunt) {
 
     yaml_validator: {
       defaults: {
-        src: [ 'packs/*.yaml' ]
+        src: [ 'packs/*.yaml', 'packs/slackmoji-packs/*.yaml' ]
       }
     }
 

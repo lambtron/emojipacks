@@ -1,0 +1,76 @@
+title: slackmoji-star-wars
+emojis:
+  - name: bb8
+    src: http://emojis.slackmojis.com/emojis/images/1450319450/111/bb8.png
+  - name: bb82
+    src: http://emojis.slackmojis.com/emojis/images/1493910142/2172/bb8.png
+  - name: bb83
+    src: http://emojis.slackmojis.com/emojis/images/1450473982/206/bb8.png
+  - name: bb8flame
+    src: http://emojis.slackmojis.com/emojis/images/1485535407/1679/bb8flame.png
+  - name: boba-fett
+    src: http://emojis.slackmojis.com/emojis/images/1475772903/1215/boba-fett.png
+  - name: bobba_fett
+    src: http://emojis.slackmojis.com/emojis/images/1450319459/140/bobba_fett.gif
+  - name: c3po
+    src: http://emojis.slackmojis.com/emojis/images/1450473998/208/c3po.png
+  - name: c3po2
+    src: http://emojis.slackmojis.com/emojis/images/1450319458/133/c3po.png
+  - name: captain_phasma
+    src: http://emojis.slackmojis.com/emojis/images/1453827656/279/captain_phasma.png
+  - name: chewbacca
+    src: http://emojis.slackmojis.com/emojis/images/1493910196/2174/chewbacca.png
+  - name: chewie
+    src: http://emojis.slackmojis.com/emojis/images/1450459444/185/chewie.png
+  - name: darkside
+    src: http://emojis.slackmojis.com/emojis/images/1492188928/2031/darkside.png
+  - name: darth_maul
+    src: http://emojis.slackmojis.com/emojis/images/1478224666/1324/darth_maul.gif
+  - name: darth_vader
+    src: http://emojis.slackmojis.com/emojis/images/1450319458/131/darth_vader.png
+  - name: death_star
+    src: http://emojis.slackmojis.com/emojis/images/1450319459/134/death_star.png
+  - name: death-star
+    src: http://emojis.slackmojis.com/emojis/images/1493910217/2175/death-star.png
+  - name: empire
+    src: http://emojis.slackmojis.com/emojis/images/1450319450/114/empire.png
+  - name: han-solo
+    src: http://emojis.slackmojis.com/emojis/images/1493910239/2176/han-solo.png
+  - name: kylo_ren
+    src: http://emojis.slackmojis.com/emojis/images/1453827617/277/kylo_ren.png
+  - name: landspeeder
+    src: http://emojis.slackmojis.com/emojis/images/1450319458/136/landspeeder.png
+  - name: leia
+    src: http://emojis.slackmojis.com/emojis/images/1493910282/2178/leia.png
+  - name: lightsaber
+    src: http://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png
+  - name: luke
+    src: http://emojis.slackmojis.com/emojis/images/1493910297/2179/luke.png
+  - name: palpatine
+    src: http://emojis.slackmojis.com/emojis/images/1482947201/1531/palpatine.png
+  - name: phasma
+    src: http://emojis.slackmojis.com/emojis/images/1458398253/328/phasma.png
+  - name: poe
+    src: http://emojis.slackmojis.com/emojis/images/1453827427/267/poe.png
+  - name: r2d2
+    src: http://emojis.slackmojis.com/emojis/images/1453827632/278/r2d2.png
+  - name: r2d22
+    src: http://emojis.slackmojis.com/emojis/images/1450319458/132/r2d2.png
+  - name: rebel
+    src: http://emojis.slackmojis.com/emojis/images/1450319450/113/rebel.png
+  - name: starwars
+    src: http://emojis.slackmojis.com/emojis/images/1450319448/112/starwars.png
+  - name: stormtrooper
+    src: http://emojis.slackmojis.com/emojis/images/1450473969/205/stormtrooper.png
+  - name: tie_fighter
+    src: http://emojis.slackmojis.com/emojis/images/1450729505/225/tie_fighter.gif
+  - name: tie-fighter
+    src: http://emojis.slackmojis.com/emojis/images/1493910355/2182/tie-fighter.png
+  - name: tie-fighter2
+    src: http://emojis.slackmojis.com/emojis/images/1450319458/138/tie-fighter.png
+  - name: vader
+    src: http://emojis.slackmojis.com/emojis/images/1493910372/2183/vader.png
+  - name: x-wing
+    src: http://emojis.slackmojis.com/emojis/images/1450319458/135/x-wing.png
+  - name: yoda2
+    src: http://emojis.slackmojis.com/emojis/images/1450319458/137/yoda.png
