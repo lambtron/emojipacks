@@ -1,0 +1,14 @@
+title: slackmoji-facebook-reaction
+emojis:
+  - name: angry3
+    src: http://emojis.slackmojis.com/emojis/images/1464134981/459/fb-angry.gif
+  - name: heart
+    src: http://emojis.slackmojis.com/emojis/images/1464135070/463/fb-heart.gif
+  - name: laugh
+    src: http://emojis.slackmojis.com/emojis/images/1464135056/462/fb-laugh.gif
+  - name: like
+    src: http://emojis.slackmojis.com/emojis/images/1464135097/464/fb-like.gif
+  - name: sad2
+    src: http://emojis.slackmojis.com/emojis/images/1464135001/460/fb-sad.gif
+  - name: wow
+    src: http://emojis.slackmojis.com/emojis/images/1464135017/461/fb-wow.gif

@@ -155,8 +155,8 @@ def check_yaml(yaml_filename, resize=False):
                             resized.append(message)
 
                         error = ("Error: image can't be larger than 128px "
-                                 "in width or height: {} {}".format(
-                                     im.size, url))
+                                 "in width or height: {} :{}: {}".format(
+                                     im.size, emoji["name"], url))
                         errors.append(error)
 
                     elif im.width != im.height:
@@ -173,6 +173,9 @@ def check_yaml(yaml_filename, resize=False):
                 errors.append(error)
 
     print()
+    print("Found {} warnings in {}".format(len(warnings), yaml_filename))
+    if len(warnings):
+        print("\n".join(warnings))
     print()
     print("Found {} errors in {}".format(len(errors), yaml_filename))
     if len(errors):
@@ -183,10 +186,7 @@ def check_yaml(yaml_filename, resize=False):
         print("\n".join(resized))
         print("Please re-upload and update YAML")
     print()
-    print("Found {} warnings in {}".format(len(warnings), yaml_filename))
-    if len(warnings):
-        print("\n".join(warnings))
-    print()
+    print("######################################################################")
     return errors, warnings
 
 
