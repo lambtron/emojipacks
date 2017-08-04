@@ -7,6 +7,8 @@ from PIL import Image
 import requests
 import yaml
 
+SLACKMOJI_DL_DIR = 'downloaded'
+
 
 # https://stackoverflow.com/questions/25108581/python-yaml-dump-bad-indentation
 class MyDumper(yaml.Dumper):
@@ -51,6 +53,27 @@ def get_categories(slackmojis):
     return categories
 
 
+def valid_image(name, src):
+    ext = os.path.splitext(src)[1]
+    # the downloaded filename is different from if you download it manually
+    # because of the possible duplicates
+    dl_file = os.path.join(SLACKMOJI_DL_DIR, ''.join([name, ext]))
+    if os.path.isfile(dl_file):
+        with open(dl_file) as f:
+            body = f.read()
+    else:
+        response = download_file(src, dl_file)
+        body = response.content
+
+    with io.BytesIO(body) as f:
+        # Is it an image?
+        im = Image.open(f)
+        if im.width > 128 or im.height > 128:
+            print(':{}: is {}\t{}'.format(name, im.size, src))
+            return False
+    return True
+
+
 def main():
     url = "http://slackmojis.com/emojis.json"
     output_file = 'emojis.json'
@@ -59,8 +82,7 @@ def main():
     download_file(url, output_file)
 
     # for downloaded emoji
-    slackmoji_dl_dir = 'downloaded'
-    create_dirs(slackmoji_dl_dir)
+    create_dirs(SLACKMOJI_DL_DIR)
 
     slackmoji_pack_dir = 'slackmoji-packs'
     create_dirs(slackmoji_pack_dir)
@@ -105,28 +127,18 @@ def main():
                 pass
             else:
                 name = '{}-{}'.format(category, name)
+        if 'facebook' in category:
+            name = 'fb-{}'.format(name)
+        if 'scrabble' in category:
+            name = 'scrabble-{}'.format(name)
 
-        name_count.name = name_count.name + 1 if name in name_count else 1
-        if name_count.name > 1:
-            name = ''.join([name, str(name_count.name)])
+        name_count[name] = name_count[name] + 1 if name in name_count else 1
+        if name_count[name] > 1:
+            name = ''.join([name, str(name_count[name])])
         src = str(slackmoji['image_url']).split('?')[0]
-        ext = os.path.splitext(src)[1]
 
-        # the downloaded filename is different from if you download it manually
-        # because of the possible duplicates
-        dl_file = os.path.join(slackmoji_dl_dir, ''.join([name, ext]))
-        if os.path.isfile(dl_file):
-            with open(dl_file) as f:
-                body = f.read()
-        else:
-            response = download_file(src, dl_file)
-            body = response.content
-        with io.BytesIO(body) as f:
-            # Is it an image?
-            im = Image.open(f)
-            if im.width > 128 or im.height > 128:
-                print(':{}: is {}\t{}'.format(name, im.size, src))
-                continue
+        if not valid_image(name, src):
+            continue
 
         slackmoji_data = {
             'name': name,

@@ -11,9 +11,9 @@ emojis:
   - name: amazon
     src: http://emojis.slackmojis.com/emojis/images/1450319445/42/amazon.png
   - name: android
-    src: http://emojis.slackmojis.com/emojis/images/1450319443/30/android.jpg
-  - name: android2
     src: http://emojis.slackmojis.com/emojis/images/1493026598/2124/android.png
+  - name: android2
+    src: http://emojis.slackmojis.com/emojis/images/1450319443/30/android.jpg
   - name: android3
     src: http://emojis.slackmojis.com/emojis/images/1470351823/738/android.png
   - name: angular
@@ -41,9 +41,9 @@ emojis:
   - name: arduino
     src: http://emojis.slackmojis.com/emojis/images/1475202999/1194/arduino.png
   - name: asana
-    src: http://emojis.slackmojis.com/emojis/images/1450464744/191/asana.png
-  - name: asana2
     src: http://emojis.slackmojis.com/emojis/images/1467305681/623/asana.png
+  - name: asana2
+    src: http://emojis.slackmojis.com/emojis/images/1450464744/191/asana.png
   - name: askfm
     src: http://emojis.slackmojis.com/emojis/images/1501021339/347/askfm.png
   - name: asos
@@ -52,7 +52,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1481862725/1489/atom.png
   - name: aurelia
     src: http://emojis.slackmojis.com/emojis/images/1483567310/1547/aurelia.png
-  - name: aws
+  - name: aws2
     src: http://emojis.slackmojis.com/emojis/images/1467057057/599/aws.png
   - name: aws_eb
     src: http://emojis.slackmojis.com/emojis/images/1467057067/600/aws_eb.png
@@ -241,9 +241,9 @@ emojis:
   - name: instacart
     src: http://emojis.slackmojis.com/emojis/images/1453827454/268/instacart.png
   - name: instagram
-    src: http://emojis.slackmojis.com/emojis/images/1450319445/40/instagram.png
-  - name: instagram2
     src: http://emojis.slackmojis.com/emojis/images/1467306728/632/instagram.png
+  - name: instagram2
+    src: http://emojis.slackmojis.com/emojis/images/1450319445/40/instagram.png
   - name: intellij_idea
     src: http://emojis.slackmojis.com/emojis/images/1489318089/1851/intellij_idea.png
   - name: internet_explorer
@@ -286,7 +286,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1464195835/495/mcdonalds.png
   - name: mediatemple
     src: http://emojis.slackmojis.com/emojis/images/1482348445/1511/mediatemple.png
-  - name: meetup2
+  - name: meetup
     src: http://emojis.slackmojis.com/emojis/images/1493745909/2161/meetup.png
   - name: messages
     src: http://emojis.slackmojis.com/emojis/images/1476027956/1232/messages.png
@@ -344,7 +344,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1450319454/130/php.png
   - name: phpstorm
     src: http://emojis.slackmojis.com/emojis/images/1492537816/2048/phpstorm.png
-  - name: piedpiper2
+  - name: piedpiper
     src: http://emojis.slackmojis.com/emojis/images/1472752787/1130/piedpiper.png
   - name: pinterest
     src: http://emojis.slackmojis.com/emojis/images/1450319444/36/pinterest.png
@@ -380,7 +380,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1471626236/1056/promptworks.png
   - name: pushbullet
     src: http://emojis.slackmojis.com/emojis/images/1467306915/635/pushbullet.png
-  - name: python2
+  - name: python
     src: http://emojis.slackmojis.com/emojis/images/1450319444/32/python.png
   - name: rackspace
     src: http://emojis.slackmojis.com/emojis/images/1482346927/1506/rackspace.png
@@ -430,7 +430,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1491499714/2001/shopify.png
   - name: sketch
     src: http://emojis.slackmojis.com/emojis/images/1476028067/1237/sketch.png
-  - name: skype2
+  - name: skype
     src: http://emojis.slackmojis.com/emojis/images/1450448377/159/skype.png
   - name: slack
     src: http://emojis.slackmojis.com/emojis/images/1493686527/2160/slack.png
@@ -450,7 +450,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1467306978/636/squareup.png
   - name: stackoverflow
     src: http://emojis.slackmojis.com/emojis/images/1462799966/405/stackoverflow.png
-  - name: starbucks2
+  - name: starbucks
     src: http://emojis.slackmojis.com/emojis/images/1450319454/66/starbucks.png
   - name: steam
     src: http://emojis.slackmojis.com/emojis/images/1476028091/1238/steam.png
@@ -505,11 +505,11 @@ emojis:
   - name: twitch
     src: http://emojis.slackmojis.com/emojis/images/1487135037/1758/twitch.png
   - name: twitter
-    src: http://emojis.slackmojis.com/emojis/images/1450733056/231/twitter.png
+    src: http://emojis.slackmojis.com/emojis/images/1450319443/35/twitter.png
   - name: twitter2
     src: http://emojis.slackmojis.com/emojis/images/1487135069/1759/twitter.png
   - name: twitter3
-    src: http://emojis.slackmojis.com/emojis/images/1450319443/35/twitter.png
+    src: http://emojis.slackmojis.com/emojis/images/1450733056/231/twitter.png
   - name: typeform
     src: http://emojis.slackmojis.com/emojis/images/1467307018/637/typeform.png
   - name: typescript
@@ -529,9 +529,9 @@ emojis:
   - name: venmo
     src: http://emojis.slackmojis.com/emojis/images/1492108736/2025/venmo.png
   - name: vim
-    src: http://emojis.slackmojis.com/emojis/images/1470299685/700/vim.png
-  - name: vim2
     src: http://emojis.slackmojis.com/emojis/images/1476969086/1264/vim.png
+  - name: vim2
+    src: http://emojis.slackmojis.com/emojis/images/1470299685/700/vim.png
   - name: virtualbox
     src: http://emojis.slackmojis.com/emojis/images/1482430763/1519/virtualbox.png
   - name: vlc
@@ -552,7 +552,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1487711673/1779/webstorm.png
   - name: wikipedia
     src: http://emojis.slackmojis.com/emojis/images/1478819387/1354/wikipedia.png
-  - name: windows2
+  - name: windows
     src: http://emojis.slackmojis.com/emojis/images/1452690821/261/windows.png
   - name: wordpress
     src: http://emojis.slackmojis.com/emojis/images/1467305795/624/wordpress.png

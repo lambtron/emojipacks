@@ -1,4 +1,5 @@
-requests
+flake8
 PyYAML
 pillow
 python-box
+requests
