@@ -2,9 +2,9 @@ title: slackmoji-turntable.fm
 emojis:
   - name: glowstick
     src: http://emojis.slackmojis.com/emojis/images/1471987883/1059/glowstick.gif
-  - name: heart2
+  - name: heart
     src: http://emojis.slackmojis.com/emojis/images/1471987884/1060/heart.gif
-  - name: laugh2
+  - name: laugh
     src: http://emojis.slackmojis.com/emojis/images/1471987884/1061/laugh.gif
   - name: peace
     src: http://emojis.slackmojis.com/emojis/images/1471987885/1062/peace.gif
@@ -12,7 +12,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1471987887/1063/poop.gif
   - name: rock
     src: http://emojis.slackmojis.com/emojis/images/1471987889/1064/rock.gif
-  - name: sad3
+  - name: sad2
     src: http://emojis.slackmojis.com/emojis/images/1471987890/1065/sad.gif
   - name: smh
     src: http://emojis.slackmojis.com/emojis/images/1471987890/1066/smh.gif

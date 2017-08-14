@@ -161,7 +161,8 @@ def check_yaml(yaml_filename, resize=False):
 
                     elif im.width != im.height:
                         warning = ("Warning: square images work best: "
-                                   "{} {}".format(im.size, url))
+                                   "{} :{}: {}".format(
+                                     im.size, emoji["name"], url))
                         warnings.append(warning)
             except URLError as e:
                 error = "Error: cannot fetch image: {} ({})".format(url,

@@ -4,7 +4,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1471045831/760/abe.gif
   - name: angel
     src: http://emojis.slackmojis.com/emojis/images/1471045831/761/angel.gif
-  - name: angry
+  - name: angry2
     src: http://emojis.slackmojis.com/emojis/images/1471045832/762/angry.gif
   - name: bandit2
     src: http://emojis.slackmojis.com/emojis/images/1471045832/763/bandit.gif
@@ -30,7 +30,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1471045834/773/bow.gif
   - name: bowled
     src: http://emojis.slackmojis.com/emojis/images/1471045835/774/bowled.gif
-  - name: brb
+  - name: brb2
     src: http://emojis.slackmojis.com/emojis/images/1471045835/775/brb.gif
   - name: brokenheart
     src: http://emojis.slackmojis.com/emojis/images/1471045835/776/brokenheart.gif
@@ -58,9 +58,9 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1471045838/787/champagne.gif
   - name: chappal
     src: http://emojis.slackmojis.com/emojis/images/1471045838/788/chappal.gif
-  - name: cheese2
+  - name: cheese
     src: http://emojis.slackmojis.com/emojis/images/1471045838/789/cheese.gif
-  - name: clapping2
+  - name: clapping
     src: http://emojis.slackmojis.com/emojis/images/1471045839/790/clapping.gif
   - name: coffee2
     src: http://emojis.slackmojis.com/emojis/images/1471045839/791/coffee.gif
@@ -70,7 +70,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif
   - name: confidential
     src: http://emojis.slackmojis.com/emojis/images/1471045840/794/confidential.gif
-  - name: cool
+  - name: cool2
     src: http://emojis.slackmojis.com/emojis/images/1471045840/795/cool.gif
   - name: coutinho10
     src: http://emojis.slackmojis.com/emojis/images/1471045840/796/coutinho10.gif
@@ -110,7 +110,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1471045845/813/envy.gif
   - name: evilgrin
     src: http://emojis.slackmojis.com/emojis/images/1471045845/814/evilgrin.gif
-  - name: facepalm3
+  - name: facepalm2
     src: http://emojis.slackmojis.com/emojis/images/1471045845/815/facepalm.gif
   - name: fallinlove
     src: http://emojis.slackmojis.com/emojis/images/1471045845/816/fallinlove.gif
@@ -118,7 +118,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1471045846/817/feetontable.gif
   - name: festiveparty
     src: http://emojis.slackmojis.com/emojis/images/1471045846/818/festiveparty.gif
-  - name: fingerscrossed
+  - name: fingerscrossed2
     src: http://emojis.slackmojis.com/emojis/images/1471045846/819/fingerscrossed.gif
   - name: fireworks
     src: http://emojis.slackmojis.com/emojis/images/1471045846/820/fireworks.gif
@@ -140,7 +140,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1471045848/828/golmaal.gif
   - name: goodluck
     src: http://emojis.slackmojis.com/emojis/images/1471045849/829/goodluck.gif
-  - name: gottarun
+  - name: gottarun2
     src: http://emojis.slackmojis.com/emojis/images/1471045849/830/gottarun.gif
   - name: gran
     src: http://emojis.slackmojis.com/emojis/images/1471045849/831/gran.gif
@@ -156,7 +156,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1471045851/836/headbang.gif
   - name: headphones
     src: http://emojis.slackmojis.com/emojis/images/1471045851/837/headphones.gif
-  - name: heart3
+  - name: heart2
     src: http://emojis.slackmojis.com/emojis/images/1471045851/838/heart.gif
   - name: heidy
     src: http://emojis.slackmojis.com/emojis/images/1471045851/839/heidy.gif
@@ -176,9 +176,9 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1471045853/846/holidayspirit.gif
   - name: hug
     src: http://emojis.slackmojis.com/emojis/images/1471045853/847/hug.gif
-  - name: hungover
+  - name: hungover2
     src: http://emojis.slackmojis.com/emojis/images/1471045853/848/hungover.gif
-  - name: idea2
+  - name: idea
     src: http://emojis.slackmojis.com/emojis/images/1471045854/849/idea.gif
   - name: inlove
     src: http://emojis.slackmojis.com/emojis/images/1471045854/850/inlove.gif
@@ -200,7 +200,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1471045856/858/laddu.gif
   - name: ladyvam
     src: http://emojis.slackmojis.com/emojis/images/1471045856/859/ladyvam.gif
-  - name: lalala2
+  - name: lalala
     src: http://emojis.slackmojis.com/emojis/images/1471045856/860/lalala.gif
   - name: letsmeet
     src: http://emojis.slackmojis.com/emojis/images/1471045857/861/letsmeet.gif
@@ -218,7 +218,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1471045858/867/lipssealed.gif
   - name: listening
     src: http://emojis.slackmojis.com/emojis/images/1471045858/868/listening.gif
-  - name: love
+  - name: love2
     src: http://emojis.slackmojis.com/emojis/images/1471045858/869/love.gif
   - name: mail
     src: http://emojis.slackmojis.com/emojis/images/1471045859/870/mail.gif
@@ -244,13 +244,13 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1471045861/880/nahi.gif
   - name: naturescall
     src: http://emojis.slackmojis.com/emojis/images/1471045861/881/naturescall.gif
-  - name: nazar
+  - name: nazar2
     src: http://emojis.slackmojis.com/emojis/images/1471045862/882/nazar.gif
   - name: nerd
     src: http://emojis.slackmojis.com/emojis/images/1471045862/883/nerd.gif
   - name: ninja3
     src: http://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif
-  - name: 'no'
+  - name: no2
     src: http://emojis.slackmojis.com/emojis/images/1471045863/885/no.gif
   - name: nod
     src: http://emojis.slackmojis.com/emojis/images/1471045863/886/nod.gif
@@ -258,7 +258,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1471045863/887/oliver.gif
   - name: oye
     src: http://emojis.slackmojis.com/emojis/images/1471045864/888/oye.gif
-  - name: party
+  - name: party2
     src: http://emojis.slackmojis.com/emojis/images/1471045864/889/party.gif
   - name: penguin
     src: http://emojis.slackmojis.com/emojis/images/1471045864/890/penguin.gif
@@ -282,7 +282,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1471045867/899/priidu.gif
   - name: promise
     src: http://emojis.slackmojis.com/emojis/images/1471045867/900/promise.gif
-  - name: puking2
+  - name: puking
     src: http://emojis.slackmojis.com/emojis/images/1471045868/901/puking.gif
   - name: pullshot
     src: http://emojis.slackmojis.com/emojis/images/1471045868/902/pullshot.gif
@@ -322,7 +322,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1471045872/919/skip.gif
   - name: skull
     src: http://emojis.slackmojis.com/emojis/images/1471045873/920/skull.gif
-  - name: skype
+  - name: skype2
     src: http://emojis.slackmojis.com/emojis/images/1471045873/921/skype.gif
   - name: slap
     src: http://emojis.slackmojis.com/emojis/images/1471045873/922/slap.gif
@@ -344,7 +344,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1471045875/930/speechless.gif
   - name: star
     src: http://emojis.slackmojis.com/emojis/images/1471045876/931/star.gif
-  - name: stop3
+  - name: stop2
     src: http://emojis.slackmojis.com/emojis/images/1471045876/932/stop.gif
   - name: sturridge15
     src: http://emojis.slackmojis.com/emojis/images/1471045876/933/sturridge15.gif
@@ -378,7 +378,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1471045880/947/tongueout.gif
   - name: tubelight
     src: http://emojis.slackmojis.com/emojis/images/1471045880/948/tubelight.gif
-  - name: tumbleweed
+  - name: tumbleweed3
     src: http://emojis.slackmojis.com/emojis/images/1471045881/949/tumbleweed.gif
   - name: turkey
     src: http://emojis.slackmojis.com/emojis/images/1471045881/950/turkey.gif
@@ -414,15 +414,15 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1471045885/965/wondering.gif
   - name: worried
     src: http://emojis.slackmojis.com/emojis/images/1471045885/966/worried.gif
-  - name: wtf
+  - name: wtf2
     src: http://emojis.slackmojis.com/emojis/images/1471045885/967/wtf.gif
   - name: xmastree
     src: http://emojis.slackmojis.com/emojis/images/1471045885/968/xmastree.gif
   - name: yawning
     src: http://emojis.slackmojis.com/emojis/images/1471045886/969/yawning.gif
-  - name: 'yes'
+  - name: yes2
     src: http://emojis.slackmojis.com/emojis/images/1471045886/970/yes.gif
-  - name: yoga
+  - name: yoga2
     src: http://emojis.slackmojis.com/emojis/images/1471045886/971/yoga.gif
   - name: yotm
     src: http://emojis.slackmojis.com/emojis/images/1471045798/759/yotm.gif

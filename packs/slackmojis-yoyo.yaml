@@ -1,6 +1,6 @@
 title: slackmoji-yoyo
 emojis:
-  - name: angry2
+  - name: angry
     src: http://emojis.slackmojis.com/emojis/images/1492722318/2062/angry.gif
   - name: attitude
     src: http://emojis.slackmojis.com/emojis/images/1492722347/2063/attitude.gif
@@ -14,11 +14,11 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1492722349/2067/cough.gif
   - name: entranced
     src: http://emojis.slackmojis.com/emojis/images/1492722349/2068/entranced.gif
-  - name: excited3
+  - name: excited2
     src: http://emojis.slackmojis.com/emojis/images/1492722350/2069/excited.gif
   - name: eyebrows
     src: http://emojis.slackmojis.com/emojis/images/1492722350/2070/eyebrows.gif
-  - name: good_job
+  - name: good_job2
     src: http://emojis.slackmojis.com/emojis/images/1492722351/2071/good_job.gif
   - name: haha
     src: http://emojis.slackmojis.com/emojis/images/1492722351/2072/haha.gif
@@ -36,7 +36,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1492722353/2078/looking.gif
   - name: lookout
     src: http://emojis.slackmojis.com/emojis/images/1492722354/2079/lookout.gif
-  - name: love2
+  - name: love
     src: http://emojis.slackmojis.com/emojis/images/1492722354/2080/love.gif
   - name: money_bath
     src: http://emojis.slackmojis.com/emojis/images/1492722355/2081/money_bath.gif
@@ -44,7 +44,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1492722355/2082/nudge.gif
   - name: pointing
     src: http://emojis.slackmojis.com/emojis/images/1492722360/2083/pointing.gif
-  - name: puking
+  - name: puking2
     src: http://emojis.slackmojis.com/emojis/images/1492722364/2084/puking.gif
   - name: quivering
     src: http://emojis.slackmojis.com/emojis/images/1492722365/2085/quivering.gif
