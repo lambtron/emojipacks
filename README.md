@@ -33,6 +33,7 @@ It'll ask you a few questions:
 Slack subdomain: 20percentclub
 Email address login: andyjiang@gmail.com
 Password: *********
+2FA Code: 123456  #  if 2FA is enabled
 Path or URL of Emoji yaml file: ./packs/futurama.yaml
 ```
 
@@ -169,7 +170,6 @@ Want to contribute? [Suggest an emoji pack](https://20p.typeform.com/to/xOFDyq)!
 
 This script will essentially log into your Slack and then submit a `POST` request on the emoji upload form page. If you are seeing errors, make sure that:
 - **you have Slack privileges to add custom emojis**: otherwise, the script won't be able to get to the emoji upload form
-- **you disabled two-factor authentication**: again, having two-factor enabled will prevent the script from getting to the necessary emoji upload form
 - **your credentials are correct**: if you have done all of the following correctly try running the command **emojipacks -d**
 
 *Still having issues? Create an issue [here](https://github.com/lambtron/emojipacks/issues/new).*
