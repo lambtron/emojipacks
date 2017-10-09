@@ -158,3 +158,7 @@ emojis:
     src: http://cultofthepartyparrot.com/parrots/tacoparrot.gif
   - name: ryangoslingparrot
     src: http://cultofthepartyparrot.com/parrots/ryangoslingparrot.gif
+  - name: luckyparrot
+    src: http://cultofthepartyparrot.com/parrots/luckyparrot.gif
+  - name: rotatingparrot
+    src: http://cultofthepartyparrot.com/parrots/rotatingparrot.gif
