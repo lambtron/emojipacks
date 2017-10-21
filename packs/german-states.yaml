@@ -1,0 +1,68 @@
+title: bundeslaender
+emojis:
+  - name: de-bw
+    aliases:
+      - baden-wuerttemberg
+      - bawue
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Coat_of_arms_of_Baden-W%C3%BCrttemberg_%28lesser%29.svg/64px-Coat_of_arms_of_Baden-W%C3%BCrttemberg_%28lesser%29.svg.png
+  - name: de-by
+    aliases:
+      - bayern
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bayern_Wappen.svg/64px-Bayern_Wappen.svg.png
+  - name: de-be
+    aliases:
+      - berlin
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Coat_of_arms_of_Berlin.svg/64px-Coat_of_arms_of_Berlin.svg.png
+  - name: de-bb
+    aliases:
+      - brandenburg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Brandenburg_Wappen.svg/64px-Brandenburg_Wappen.svg.png
+  - name: de-hb
+    aliases:
+      - bremen
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bremen_Wappen%28Mittel%29.svg/64px-Bremen_Wappen%28Mittel%29.svg.png
+  - name: de-hh
+    aliases:
+      - hamburg
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Coat_of_arms_of_Hamburg.svg/64px-Coat_of_arms_of_Hamburg.svg.png
+  - name: de-he
+    aliases:
+      - hessen
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Coat_of_arms_of_Hesse.svg/64px-Coat_of_arms_of_Hesse.svg.png
+  - name: de-mv
+    aliases:
+      - mecklenburg-vorpommern
+      - meck-pomm
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Coat_of_arms_of_Mecklenburg-Western_Pomerania_%28great%29.svg/64px-Coat_of_arms_of_Mecklenburg-Western_Pomerania_%28great%29.svg.png
+  - name: de-ni
+    aliases:
+      - niedersachsen
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Coat_of_arms_of_Lower_Saxony.svg/64px-Coat_of_arms_of_Lower_Saxony.svg.png
+  - name: de-nw
+      - nordrhein-westfalen
+      - nrw
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Coat_of_arms_of_North_Rhine-Westfalia.svg/64px-Coat_of_arms_of_North_Rhine-Westfalia.svg.png
+  - name: de-rp
+    aliases:
+      - rheinland-pfalz
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Coat_of_arms_of_Rhineland-Palatinate.svg/64px-Coat_of_arms_of_Rhineland-Palatinate.svg.png
+  - name: de-sl
+    aliases:
+      - saarland
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Wappen_des_Saarlands.svg/64px-Wappen_des_Saarlands.svg.png
+  - name: de-sn
+    aliases:
+      - sachsen
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Coat_of_arms_of_Saxony.svg/64px-Coat_of_arms_of_Saxony.svg.png
+  - name: de-st
+    aliases:
+      - sachsen-anhalt
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Wappen_Sachsen-Anhalt.svg/64px-Wappen_Sachsen-Anhalt.svg.png
+  - name: de-sh
+    aliases:
+      - schleswig-holstein
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/DEU_Schleswig-Holstein_COA.svg/64px-DEU_Schleswig-Holstein_COA.svg.png
+  - name: de-th
+    aliases:
+      - thueringen
+    src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Coat_of_arms_of_Thuringia.svg/64px-Coat_of_arms_of_Thuringia.svg.png
