@@ -89,7 +89,7 @@ def check_aliases(aliases, emoji_names, errors):
             errors.append(error)
         if alias in emoji_names:
             errors.append("Error: Alias {} is already defined elsewhere"
-                    .format(alias))
+                          .format(alias))
         emoji_names.add(alias)
 
 
@@ -117,7 +117,7 @@ def check_yaml(yaml_filename, resize=False):
 
         if emoji["name"] in emoji_names:
             errors.append("Error: Emoji named {} already defined elsewhere."
-                    .format(emoji["name"]))
+                          .format(emoji["name"]))
         emoji_names.add(emoji["name"])
 
         if "aliases" in emoji:
@@ -169,25 +169,25 @@ def check_yaml(yaml_filename, resize=False):
                                                                     e.reason)
                 errors.append(error)
             except IOError as e:
-                error = "Error: cannot open as image: {}: {}".format(url,
-                                                                     e.strerror)
+                error = "Error: cannot open as image: {}: {}".format(
+                    url, e.strerror)
                 errors.append(error)
 
     print()
-    print("Found {} warnings in {}".format(len(warnings), yaml_filename))
     if len(warnings):
+        print("Found {} warnings in {}".format(len(warnings), yaml_filename))
         print("\n".join(warnings))
     print()
-    print("Found {} errors in {}".format(len(errors), yaml_filename))
     if len(errors):
+        print("Found {} errors in {}".format(len(errors), yaml_filename))
         print("\n".join(errors))
     print()
-    print("Fixed {} errors in {}".format(len(resized), yaml_filename))
     if len(resized):
+        print("Fixed {} errors in {}".format(len(resized), yaml_filename))
         print("\n".join(resized))
         print("Please re-upload and update YAML")
     print()
-    print("######################################################################")
+    print("#" * 70)
     return errors, warnings
 
 
