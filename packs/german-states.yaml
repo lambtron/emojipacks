@@ -39,6 +39,7 @@ emojis:
       - niedersachsen
     src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Coat_of_arms_of_Lower_Saxony.svg/64px-Coat_of_arms_of_Lower_Saxony.svg.png
   - name: de-nw
+    aliases:
       - nordrhein-westfalen
       - nrw
     src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Coat_of_arms_of_North_Rhine-Westfalia.svg/64px-Coat_of_arms_of_North_Rhine-Westfalia.svg.png
