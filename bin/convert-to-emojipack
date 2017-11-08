@@ -1,0 +1,86 @@
+#!/usr/bin/env node
+
+const program = require('commander'),
+  { resolve } = require('path')
+  co = require('co'),
+  fs = require('fs');
+
+/**
+ * Usage.
+ */
+
+program
+  .version(require('../package').version)
+  .option('-d, --debug', 'Run in debug mode')
+  .option('-j, --json [value]', 'source JSON file to parse into YAML')
+  .option('-y, --pack [value]', 'resulting YAML emoji pack path and name')
+  .parse(process.argv);
+
+co(function *() {
+  const emojisJson = require(resolve(process.cwd(), program.json)),
+    stream = fs.createWriteStream(resolve(process.cwd(), program.pack)),
+    compiledEmojis = {},
+    pendingAliases = {};
+
+  if (emojisJson.ok === false) {
+    console.log('Error getting Emoji JSON');
+
+    return;
+  }
+
+  Object.keys(emojisJson.emoji).forEach((name) => {
+    const src = emojisJson.emoji[name];
+
+    // Detect alias
+    if (src.indexOf('alias:') === 0) {
+      const aliasFor = src.split(':')[1];
+
+      console.log(`processing alias ${name}`);
+
+      if (pendingAliases[aliasFor] === undefined) {
+        pendingAliases[aliasFor] = [];
+      }
+
+      pendingAliases[aliasFor].push(name);
+
+      return;
+    }
+
+    console.log(`processing emoji ${name}`);
+    compiledEmojis[name] = { name, src };
+  });
+
+  console.log('Merging aliases back in with the original set');
+  Object.keys(pendingAliases).forEach((name) => {
+
+    if (compiledEmojis[name] === undefined) {
+      compiledEmojis[name] = { name };
+    }
+
+    compiledEmojis[name].aliases = pendingAliases[name];
+  });
+
+  stream.once('open', () => {
+    stream.write('title: custom-uploads\n');
+    stream.write('emojis:\n');
+
+    Object.keys(compiledEmojis).forEach((name) => {
+      var emoji = compiledEmojis[name];
+
+      stream.write(`  - name: ${emoji.name}\n`);
+
+      // Write the aliases array if any exist
+      if (emoji.aliases && emoji.aliases.length > 0) {
+        stream.write('    aliases:\n');
+        emoji.aliases.forEach((alias) => {
+          stream.write(`      - ${alias}\n`);
+        });
+      }
+
+      // Write the source if it exists (useful for aliases for standard emojis)
+      if (emoji.src) {
+        stream.write(`    src: ${emoji.src}\n`);
+      }
+    });
+  });
+});
