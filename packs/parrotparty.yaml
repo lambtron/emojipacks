@@ -176,3 +176,13 @@ emojis:
     src: http://cultofthepartyparrot.com/parrots/hd/pumpkinparrot.gif
   - name: angelparrot
     src: http://cultofthepartyparrot.com/parrots/hd/angelparrot.gif
+  - name: bluntparrot
+    src: http://cultofthepartyparrot.com/parrots/hd/bluntparrot.gif
+  - name: sintparrot
+    src: http://cultofthepartyparrot.com/parrots/hd/sintparrot.gif
+  - name: party-wizard
+    src: http://cultofthepartyparrot.com/guests/hd/party-wizard.gif
+  - name: partyowl
+    src: http://cultofthepartyparrot.com/guests/partyowl.gif
+  - name: parrotpoop
+    src: http://cultofthepartyparrot.com/guests/hd/parrotpoop.gif
