@@ -1,0 +1,416 @@
+title: slack-emoji-for-techies
+emojis:
+  - name: adele
+    src: http://anything.codes/slack-emoji-for-techies/emoji/adele.jpg
+  - name: adwords
+    src: http://anything.codes/slack-emoji-for-techies/emoji/adwords.png
+  - name: airhorn
+    src: http://anything.codes/slack-emoji-for-techies/emoji/airhorn.png
+  - name: alert
+    src: http://anything.codes/slack-emoji-for-techies/emoji/alert.gif
+  - name: allthethings
+    src: http://anything.codes/slack-emoji-for-techies/emoji/allthethings.png
+  - name: amazon
+    src: http://anything.codes/slack-emoji-for-techies/emoji/amazon.png
+  - name: android
+    src: http://anything.codes/slack-emoji-for-techies/emoji/android.png
+  - name: angryeyes
+    src: http://anything.codes/slack-emoji-for-techies/emoji/angryeyes.png
+  - name: angularjs
+    src: http://anything.codes/slack-emoji-for-techies/emoji/angularjs.png
+  - name: apple-logo
+    src: http://anything.codes/slack-emoji-for-techies/emoji/apple-logo.png
+  - name: apple-logo-classic
+    src: http://anything.codes/slack-emoji-for-techies/emoji/apple-logo-classic.png
+  - name: atat
+    src: http://anything.codes/slack-emoji-for-techies/emoji/atat.gif
+  - name: awesome
+    src: http://anything.codes/slack-emoji-for-techies/emoji/awesome.png
+  - name: awesomecat
+    src: http://anything.codes/slack-emoji-for-techies/emoji/awesomecat.png
+  - name: awesomedog
+    src: http://anything.codes/slack-emoji-for-techies/emoji/awesomedog.png
+  - name: awthanks
+    src: http://anything.codes/slack-emoji-for-techies/emoji/awthanks.png
+  - name: aww
+    src: http://anything.codes/slack-emoji-for-techies/emoji/aww.png
+  - name: awwyas
+    src: http://anything.codes/slack-emoji-for-techies/emoji/awwyas.png
+  - name: awyeah
+    src: http://anything.codes/slack-emoji-for-techies/emoji/awyeah.gif
+  - name: bacon
+    src: http://anything.codes/slack-emoji-for-techies/emoji/bacon.jpg
+  - name: batman-disco
+    src: http://anything.codes/slack-emoji-for-techies/emoji/batman-disco.gif
+  - name: bb8
+    src: http://anything.codes/slack-emoji-for-techies/emoji/bb8.png
+  - name: bbq
+    src: http://anything.codes/slack-emoji-for-techies/emoji/bbq.png
+  - name: bee-animated
+    src: http://anything.codes/slack-emoji-for-techies/emoji/bee-animated.gif
+  - name: behance
+    src: http://anything.codes/slack-emoji-for-techies/emoji/behance.png
+  - name: beyonce
+    src: http://anything.codes/slack-emoji-for-techies/emoji/beyonce.gif
+  - name: beyoncedance
+    src: http://anything.codes/slack-emoji-for-techies/emoji/beyoncedance.gif
+  - name: bicepleft
+    src: http://anything.codes/slack-emoji-for-techies/emoji/bicepleft.png
+  - name: bicepright
+    src: http://anything.codes/slack-emoji-for-techies/emoji/bicepright.png
+  - name: bigredbutton
+    src: http://anything.codes/slack-emoji-for-techies/emoji/bigredbutton.png
+  - name: bmo
+    src: http://anything.codes/slack-emoji-for-techies/emoji/bmo.gif
+  - name: boom-animated
+    src: http://anything.codes/slack-emoji-for-techies/emoji/boom-animated.gif
+  - name: boston
+    src: http://anything.codes/slack-emoji-for-techies/emoji/boston.png
+  - name: brb
+    src: http://anything.codes/slack-emoji-for-techies/emoji/brb.png
+  - name: businesscat
+    src: http://anything.codes/slack-emoji-for-techies/emoji/businesscat.gif
+  - name: canada
+    src: http://anything.codes/slack-emoji-for-techies/emoji/canada.png
+  - name: challengeaccepted
+    src: http://anything.codes/slack-emoji-for-techies/emoji/challengeaccepted.png
+  - name: chrome
+    src: http://anything.codes/slack-emoji-for-techies/emoji/chrome.png
+  - name: click
+    src: http://anything.codes/slack-emoji-for-techies/emoji/click.png
+  - name: corgis
+    src: http://anything.codes/slack-emoji-for-techies/emoji/corgis.png
+  - name: css3
+    src: http://anything.codes/slack-emoji-for-techies/emoji/css3.png
+  - name: cupcake
+    src: http://anything.codes/slack-emoji-for-techies/emoji/cupcake.jpg
+  - name: d3
+    src: http://anything.codes/slack-emoji-for-techies/emoji/d3.png
+  - name: dancerbaby
+    src: http://anything.codes/slack-emoji-for-techies/emoji/dancerbaby.gif
+  - name: dancerbanana
+    src: http://anything.codes/slack-emoji-for-techies/emoji/dancerbanana.gif
+  - name: dancercactus
+    src: http://anything.codes/slack-emoji-for-techies/emoji/dancercactus.gif
+  - name: dancercarlton
+    src: http://anything.codes/slack-emoji-for-techies/emoji/dancercarlton.gif
+  - name: dancercorgi
+    src: http://anything.codes/slack-emoji-for-techies/emoji/dancercorgi.gif
+  - name: dancergunterpenguin
+    src: http://anything.codes/slack-emoji-for-techies/emoji/dancergunterpenguin.gif
+  - name: dancerhammertime
+    src: http://anything.codes/slack-emoji-for-techies/emoji/dancerhammertime.gif
+  - name: dancerman
+    src: http://anything.codes/slack-emoji-for-techies/emoji/dancerman.gif
+  - name: dancermegaman
+    src: http://anything.codes/slack-emoji-for-techies/emoji/dancermegaman.gif
+  - name: dancerpickle
+    src: http://anything.codes/slack-emoji-for-techies/emoji/dancerpickle.gif
+  - name: dancerpusheen
+    src: http://anything.codes/slack-emoji-for-techies/emoji/dancerpusheen.gif
+  - name: dancerrainbow
+    src: http://anything.codes/slack-emoji-for-techies/emoji/dancerrainbow.gif
+  - name: dancerrainbowcat
+    src: http://anything.codes/slack-emoji-for-techies/emoji/dancerrainbowcat.gif
+  - name: dancershark
+    src: http://anything.codes/slack-emoji-for-techies/emoji/dancershark.gif
+  - name: dancerspiderman
+    src: http://anything.codes/slack-emoji-for-techies/emoji/dancerspiderman.gif
+  - name: dancerwookie
+    src: http://anything.codes/slack-emoji-for-techies/emoji/dancerwookie.gif
+  - name: delay
+    src: http://anything.codes/slack-emoji-for-techies/emoji/delay.png
+  - name: devbootcamp
+    src: http://anything.codes/slack-emoji-for-techies/emoji/devbootcamp.png
+  - name: doge
+    src: http://anything.codes/slack-emoji-for-techies/emoji/doge.png
+  - name: einstein
+    src: http://anything.codes/slack-emoji-for-techies/emoji/einstein.png
+  - name: excellent
+    src: http://anything.codes/slack-emoji-for-techies/emoji/excellent.gif
+  - name: eyeroll
+    src: http://anything.codes/slack-emoji-for-techies/emoji/eyeroll.gif
+  - name: facebook
+    src: http://anything.codes/slack-emoji-for-techies/emoji/facebook.png
+  - name: facepalm
+    src: http://anything.codes/slack-emoji-for-techies/emoji/facepalm.png
+  - name: fingerscrossed
+    src: http://anything.codes/slack-emoji-for-techies/emoji/fingerscrossed.png
+  - name: fingerscrossed-skin-tone-2
+    src: http://anything.codes/slack-emoji-for-techies/emoji/fingerscrossed-skin-tone-2.png
+  - name: fingerscrossed-skin-tone-3
+    src: http://anything.codes/slack-emoji-for-techies/emoji/fingerscrossed-skin-tone-3.png
+  - name: fingerscrossed-skin-tone-4
+    src: http://anything.codes/slack-emoji-for-techies/emoji/fingerscrossed-skin-tone-4.png
+  - name: fingerscrossed-skin-tone-5
+    src: http://anything.codes/slack-emoji-for-techies/emoji/fingerscrossed-skin-tone-5.png
+  - name: fingerscrossed-skin-tone-6
+    src: http://anything.codes/slack-emoji-for-techies/emoji/fingerscrossed-skin-tone-6.png
+  - name: flip
+    src: http://anything.codes/slack-emoji-for-techies/emoji/flip.gif
+  - name: fonzie
+    src: http://anything.codes/slack-emoji-for-techies/emoji/fonzie.png
+  - name: fry
+    src: http://anything.codes/slack-emoji-for-techies/emoji/fry.png
+  - name: gdi
+    src: http://anything.codes/slack-emoji-for-techies/emoji/gdi.gif
+  - name: generalassembly
+    src: http://anything.codes/slack-emoji-for-techies/emoji/generalassembly.jpg
+  - name: ghostbusters
+    src: http://anything.codes/slack-emoji-for-techies/emoji/ghostbusters.png
+  - name: github
+    src: http://anything.codes/slack-emoji-for-techies/emoji/github.png
+  - name: github-octocat
+    src: http://anything.codes/slack-emoji-for-techies/emoji/github-octocat.png
+  - name: github-octogirl
+    src: http://anything.codes/slack-emoji-for-techies/emoji/github-octogirl.png
+  - name: goldfish
+    src: http://anything.codes/slack-emoji-for-techies/emoji/goldfish.jpg
+  - name: google
+    src: http://anything.codes/slack-emoji-for-techies/emoji/google.png
+  - name: greenbeer
+    src: http://anything.codes/slack-emoji-for-techies/emoji/greenbeer.png
+  - name: grumpycat
+    src: http://anything.codes/slack-emoji-for-techies/emoji/grumpycat.png
+  - name: hadouken
+    src: http://anything.codes/slack-emoji-for-techies/emoji/hadouken.gif
+  - name: hairflip
+    src: http://anything.codes/slack-emoji-for-techies/emoji/hairflip.gif
+  - name: harrypotter
+    src: http://anything.codes/slack-emoji-for-techies/emoji/harrypotter.png
+  - name: hubspot
+    src: http://anything.codes/slack-emoji-for-techies/emoji/hubspot.gif
+  - name: hypnotoad
+    src: http://anything.codes/slack-emoji-for-techies/emoji/hypnotoad.gif
+  - name: igloo
+    src: http://anything.codes/slack-emoji-for-techies/emoji/igloo.gif
+  - name: indeed
+    src: http://anything.codes/slack-emoji-for-techies/emoji/indeed.png
+  - name: internetexplorer
+    src: http://anything.codes/slack-emoji-for-techies/emoji/internetexplorer.png
+  - name: invision
+    src: http://anything.codes/slack-emoji-for-techies/emoji/invision.png
+  - name: jake
+    src: http://anything.codes/slack-emoji-for-techies/emoji/jake.png
+  - name: java
+    src: http://anything.codes/slack-emoji-for-techies/emoji/java.png
+  - name: javascript
+    src: http://anything.codes/slack-emoji-for-techies/emoji/javascript.jpg
+  - name: jira
+    src: http://anything.codes/slack-emoji-for-techies/emoji/jira.png
+  - name: keytarbear
+    src: http://anything.codes/slack-emoji-for-techies/emoji/keytarbear.png
+  - name: ladder
+    src: http://anything.codes/slack-emoji-for-techies/emoji/ladder.png
+  - name: ladyboss
+    src: http://anything.codes/slack-emoji-for-techies/emoji/ladyboss.png
+  - name: launchacademy
+    src: http://anything.codes/slack-emoji-for-techies/emoji/launchacademy.png
+  - name: lightningbolt
+    src: http://anything.codes/slack-emoji-for-techies/emoji/lightningbolt.png
+  - name: like
+    src: http://anything.codes/slack-emoji-for-techies/emoji/like.png
+  - name: linkedin
+    src: http://anything.codes/slack-emoji-for-techies/emoji/linkedin.png
+  - name: lol
+    src: http://anything.codes/slack-emoji-for-techies/emoji/lol.png
+  - name: lolwut
+    src: http://anything.codes/slack-emoji-for-techies/emoji/lolwut.png
+  - name: luigi
+    src: http://anything.codes/slack-emoji-for-techies/emoji/luigi.png
+  - name: mac-finder
+    src: http://anything.codes/slack-emoji-for-techies/emoji/mac-finder.gif
+  - name: mac-pinwheel
+    src: http://anything.codes/slack-emoji-for-techies/emoji/mac-pinwheel.gif
+  - name: mario
+    src: http://anything.codes/slack-emoji-for-techies/emoji/mario.png
+  - name: massachusetts
+    src: http://anything.codes/slack-emoji-for-techies/emoji/massachusetts.png
+  - name: mbta
+    src: http://anything.codes/slack-emoji-for-techies/emoji/mbta.png
+  - name: microsoft
+    src: http://anything.codes/slack-emoji-for-techies/emoji/microsoft.png
+  - name: mindblown
+    src: http://anything.codes/slack-emoji-for-techies/emoji/mindblown.gif
+  - name: moustache
+    src: http://anything.codes/slack-emoji-for-techies/emoji/moustache.png
+  - name: muffin
+    src: http://anything.codes/slack-emoji-for-techies/emoji/muffin.png
+  - name: narwhal
+    src: http://anything.codes/slack-emoji-for-techies/emoji/narwhal.jpg
+  - name: nexus
+    src: http://anything.codes/slack-emoji-for-techies/emoji/nexus.png
+  - name: nice
+    src: http://anything.codes/slack-emoji-for-techies/emoji/nice.png
+  - name: no
+    src: http://anything.codes/slack-emoji-for-techies/emoji/no.jpg
+  - name: nodejs
+    src: http://anything.codes/slack-emoji-for-techies/emoji/nodejs.png
+  - name: nyancat
+    src: http://anything.codes/slack-emoji-for-techies/emoji/nyancat.gif
+  - name: ohyeah
+    src: http://anything.codes/slack-emoji-for-techies/emoji/ohyeah.jpg
+  - name: omg
+    src: http://anything.codes/slack-emoji-for-techies/emoji/omg.png
+  - name: orly
+    src: http://anything.codes/slack-emoji-for-techies/emoji/orly.png
+  - name: panicbutton
+    src: http://anything.codes/slack-emoji-for-techies/emoji/panicbutton.png
+  - name: partyparrot
+    src: http://anything.codes/slack-emoji-for-techies/emoji/partyparrot.gif
+  - name: partyparrotconga
+    src: http://anything.codes/slack-emoji-for-techies/emoji/partyparrotconga.gif
+  - name: partyparrotdealwithit
+    src: http://anything.codes/slack-emoji-for-techies/emoji/partyparrotdealwithit.gif
+  - name: partyparrotfast
+    src: http://anything.codes/slack-emoji-for-techies/emoji/partyparrotfast.gif
+  - name: partyparrotreverse
+    src: http://anything.codes/slack-emoji-for-techies/emoji/partyparrotreverse.gif
+  - name: partyparrotreverseconga
+    src: http://anything.codes/slack-emoji-for-techies/emoji/partyparrotreverseconga.gif
+  - name: partyparrotslow
+    src: http://anything.codes/slack-emoji-for-techies/emoji/partyparrotslow.gif
+  - name: philosoraptor
+    src: http://anything.codes/slack-emoji-for-techies/emoji/philosoraptor.png
+  - name: playstation
+    src: http://anything.codes/slack-emoji-for-techies/emoji/playstation.png
+  - name: poke
+    src: http://anything.codes/slack-emoji-for-techies/emoji/poke.gif
+  - name: pokeball
+    src: http://anything.codes/slack-emoji-for-techies/emoji/pokeball.png
+  - name: pusheen
+    src: http://anything.codes/slack-emoji-for-techies/emoji/pusheen.png
+  - name: pusheen-burger
+    src: http://anything.codes/slack-emoji-for-techies/emoji/pusheen-burger.jpg
+  - name: pusheen-cake
+    src: http://anything.codes/slack-emoji-for-techies/emoji/pusheen-cake.png
+  - name: pusheen-donut
+    src: http://anything.codes/slack-emoji-for-techies/emoji/pusheen-donut.png
+  - name: pusheen-eating
+    src: http://anything.codes/slack-emoji-for-techies/emoji/pusheen-eating.gif
+  - name: pusheen-graduate
+    src: http://anything.codes/slack-emoji-for-techies/emoji/pusheen-graduate.png
+  - name: pusheen-nutella
+    src: http://anything.codes/slack-emoji-for-techies/emoji/pusheen-nutella.png
+  - name: pusheen-viking
+    src: http://anything.codes/slack-emoji-for-techies/emoji/pusheen-viking.png
+  - name: python
+    src: http://anything.codes/slack-emoji-for-techies/emoji/python.png
+  - name: r
+    src: http://anything.codes/slack-emoji-for-techies/emoji/r.png
+  - name: r2d2
+    src: http://anything.codes/slack-emoji-for-techies/emoji/r2d2.gif
+  - name: rails
+    src: http://anything.codes/slack-emoji-for-techies/emoji/rails.png
+  - name: rainbow-flag
+    src: http://anything.codes/slack-emoji-for-techies/emoji/rainbow-flag.jpg
+  - name: rainbow-sheep
+    src: http://anything.codes/slack-emoji-for-techies/emoji/rainbow-sheep.gif
+  - name: rainbow-sparkles
+    src: http://anything.codes/slack-emoji-for-techies/emoji/rainbow-sparkles.gif
+  - name: reactjs
+    src: http://anything.codes/slack-emoji-for-techies/emoji/reactjs.png
+  - name: really-makes-you-think
+    src: http://anything.codes/slack-emoji-for-techies/emoji/really-makes-you-think.gif
+  - name: redsox
+    src: http://anything.codes/slack-emoji-for-techies/emoji/redsox.png
+  - name: responsive
+    src: http://anything.codes/slack-emoji-for-techies/emoji/responsive.png
+  - name: rockcat
+    src: http://anything.codes/slack-emoji-for-techies/emoji/rockcat.gif
+  - name: rosie
+    src: http://anything.codes/slack-emoji-for-techies/emoji/rosie.png
+  - name: ruby
+    src: http://anything.codes/slack-emoji-for-techies/emoji/ruby.gif
+  - name: sadpanda
+    src: http://anything.codes/slack-emoji-for-techies/emoji/sadpanda.png
+  - name: salesforce
+    src: http://anything.codes/slack-emoji-for-techies/emoji/salesforce.png
+  - name: science
+    src: http://anything.codes/slack-emoji-for-techies/emoji/science.gif
+  - name: shark
+    src: http://anything.codes/slack-emoji-for-techies/emoji/shark.png
+  - name: shrug
+    src: http://anything.codes/slack-emoji-for-techies/emoji/shrug.png
+  - name: sketch
+    src: http://anything.codes/slack-emoji-for-techies/emoji/sketch.png
+  - name: slinky
+    src: http://anything.codes/slack-emoji-for-techies/emoji/slinky.gif
+  - name: sloth
+    src: http://anything.codes/slack-emoji-for-techies/emoji/sloth.gif
+  - name: spongebob
+    src: http://anything.codes/slack-emoji-for-techies/emoji/spongebob.png
+  - name: spongebobthumbsup
+    src: http://anything.codes/slack-emoji-for-techies/emoji/spongebobthumbsup.png
+  - name: startupinstitute
+    src: http://anything.codes/slack-emoji-for-techies/emoji/startupinstitute.png
+  - name: steam
+    src: http://anything.codes/slack-emoji-for-techies/emoji/steam.png
+  - name: stop
+    src: http://anything.codes/slack-emoji-for-techies/emoji/stop.png
+  - name: sublimetext
+    src: http://anything.codes/slack-emoji-for-techies/emoji/sublimetext.png
+  - name: tallyhappy
+    src: http://anything.codes/slack-emoji-for-techies/emoji/tallyhappy.png
+  - name: tallymeh
+    src: http://anything.codes/slack-emoji-for-techies/emoji/tallymeh.png
+  - name: tallysad
+    src: http://anything.codes/slack-emoji-for-techies/emoji/tallysad.png
+  - name: tech-ladies
+    src: http://anything.codes/slack-emoji-for-techies/emoji/tech-ladies.jpg
+  - name: thinking
+    src: http://anything.codes/slack-emoji-for-techies/emoji/thinking.gif
+  - name: this
+    src: http://anything.codes/slack-emoji-for-techies/emoji/this.png
+  - name: this2
+    src: http://anything.codes/slack-emoji-for-techies/emoji/this2.png
+  - name: this3
+    src: http://anything.codes/slack-emoji-for-techies/emoji/this3.png
+  - name: thuglife
+    src: http://anything.codes/slack-emoji-for-techies/emoji/thuglife.png
+  - name: toast
+    src: http://anything.codes/slack-emoji-for-techies/emoji/toast.png
+  - name: tux
+    src: http://anything.codes/slack-emoji-for-techies/emoji/tux.png
+  - name: twinpeaks
+    src: http://anything.codes/slack-emoji-for-techies/emoji/twinpeaks.jpg
+  - name: twitter
+    src: http://anything.codes/slack-emoji-for-techies/emoji/twitter.png
+  - name: ubuntu
+    src: http://anything.codes/slack-emoji-for-techies/emoji/ubuntu.gif
+  - name: unacceptable
+    src: http://anything.codes/slack-emoji-for-techies/emoji/unacceptable.png
+  - name: unity
+    src: http://anything.codes/slack-emoji-for-techies/emoji/unity.jpeg
+  - name: vscode
+    src: http://anything.codes/slack-emoji-for-techies/emoji/vscode.png
+  - name: what
+    src: http://anything.codes/slack-emoji-for-techies/emoji/what.png
+  - name: wifi
+    src: http://anything.codes/slack-emoji-for-techies/emoji/wifi.png
+  - name: windows
+    src: http://anything.codes/slack-emoji-for-techies/emoji/windows.png
+  - name: wireframe
+    src: http://anything.codes/slack-emoji-for-techies/emoji/wireframe.png
+  - name: wonderwoman
+    src: http://anything.codes/slack-emoji-for-techies/emoji/wonderwoman.png
+  - name: wonderwoman2
+    src: http://anything.codes/slack-emoji-for-techies/emoji/wonderwoman2.jpg
+  - name: xbox
+    src: http://anything.codes/slack-emoji-for-techies/emoji/xbox.png
+  - name: xcode
+    src: http://anything.codes/slack-emoji-for-techies/emoji/xcode.png
+  - name: yas
+    src: http://anything.codes/slack-emoji-for-techies/emoji/yas.png
+  - name: yas-girl
+    src: http://anything.codes/slack-emoji-for-techies/emoji/yas-girl.png
+  - name: yay
+    src: http://anything.codes/slack-emoji-for-techies/emoji/yay.gif
+  - name: yes
+    src: http://anything.codes/slack-emoji-for-techies/emoji/yes.jpg
+  - name: yo
+    src: http://anything.codes/slack-emoji-for-techies/emoji/yo.gif
+  - name: yodawg
+    src: http://anything.codes/slack-emoji-for-techies/emoji/yodawg.png
+  - name: yoga
+    src: http://anything.codes/slack-emoji-for-techies/emoji/yoga.gif
