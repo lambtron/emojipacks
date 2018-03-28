@@ -141,6 +141,7 @@ emojis:
 - [Shiba Stickers](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/shiba.yaml) (from Messenger)
 - [gamedevmoji](https://raw.githubusercontent.com/niksudan/gamedevmoji/master/gamedevicons.yaml)
 - [AWS simple icons](https://raw.githubusercontent.com/Surgo/aws_emojipacks/master/noprefix-emojipacks.yml)
+- [Glitch Food](https://raw.githubusercontent.com/Surgo/aws_emojipacks/master/glitch-food.yaml) (h/t [bertrandom/slack-custom-food-emoji](https://github.com/bertrandom/slack-custom-food-emoji))
 
 ### Emoji packs from [slackmojis.com](http://www.slackmojis.com)
 
