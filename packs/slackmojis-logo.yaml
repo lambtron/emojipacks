@@ -138,7 +138,7 @@ emojis:
     src: http://emojis.slackmojis.com/emojis/images/1489317997/1850/eclipse.png
   - name: edge
     src: http://emojis.slackmojis.com/emojis/images/1470349432/721/edge.png
-  - name: elasticserch
+  - name: elasticsearch
     src: http://emojis.slackmojis.com/emojis/images/1476268305/1248/elasticserch.png
   - name: elixir
     src: http://emojis.slackmojis.com/emojis/images/1486667989/1714/elixir.png
