@@ -1,0 +1,73 @@
+title: frontend
+emojis:
+  - name: angular
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/angular.png
+  - name: babel
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/babel.png
+  - name: backbone
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/backbone.png
+  - name: bootstrap
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/bootstrap.png
+  - name: bower
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/bower.png
+  - name: browserify
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/browserify.png
+  - name: chrome
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/chrome.png
+  - name: css3
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/css3.png
+  - name: cssnano
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/cssnano.png
+  - name: electron
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/electron.png
+  - name: ember
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/ember.png
+  - name: firebase
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/firebase.png
+  - name: firefox
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/firefox.png
+  - name: frontendhappyhour
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/frontendhappyhour.png
+  - name: git
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/git.png
+  - name: grunt
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/grunt.png
+  - name: gulp
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/gulp.png
+  - name: handlebars
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/handlebars.png
+  - name: html5
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/html5.png
+  - name: ie
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/ie.png
+  - name: javascript
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/javascript.jpg
+  - name: jquery
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/jquery.gif
+  - name: less
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/less.png
+  - name: nodejs
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/nodejs.png
+  - name: npm
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/npm.png
+  - name: opera
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/opera.png
+  - name: polymer
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/polymer.png
+  - name: postcss
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/postcss.jpg
+  - name: react
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/react.png
+  - name: requirejs
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/requirejs.png
+  - name: safari
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/safari.png
+  - name: sass
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/sass.png
+  - name: vim
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/vim.png
+  - name: vue
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/vue.png
+  - name: yeoman
+    src: https://raw.githubusercontent.com/FrontEndHappyHour/frontend-slack-emojis/master/emojis/yeoman.png
+    

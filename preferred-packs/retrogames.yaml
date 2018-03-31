@@ -1,0 +1,90 @@
+title: slackmoji-retro-game
+emojis:
+  - name: 1up
+    src: http://emojis.slackmojis.com/emojis/images/1450319442/13/1up.png
+  - name: coin
+    src: http://emojis.slackmojis.com/emojis/images/1490884029/1971/coin.gif
+  - name: digdug
+    src: http://emojis.slackmojis.com/emojis/images/1481158611/1433/digdug.gif
+  - name: doom_acid_barrel
+    src: http://emojis.slackmojis.com/emojis/images/1460579148/355/doom_acid_barrel.gif
+  - name: doom_flame_barrel
+    src: http://emojis.slackmojis.com/emojis/images/1460579206/358/doom_flame_barrel.gif
+  - name: doom_gib
+    src: http://emojis.slackmojis.com/emojis/images/1460579162/356/doom_gib.gif
+  - name: doom_look
+    src: http://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif
+  - name: doom_lost_soul
+    src: http://emojis.slackmojis.com/emojis/images/1460579188/357/doom_lost_soul.gif
+  - name: doom_mad
+    src: http://emojis.slackmojis.com/emojis/images/1460579119/353/doom_mad.gif
+  - name: goomba
+    src: http://emojis.slackmojis.com/emojis/images/1450319445/45/goomba.gif
+  - name: hadouken
+    src: http://emojis.slackmojis.com/emojis/images/1450319443/25/hadouken.jpeg
+  - name: kerbal_space_program
+    src: http://emojis.slackmojis.com/emojis/images/1450319454/128/kerbal_space_program.jpg
+  - name: kirby
+    src: http://emojis.slackmojis.com/emojis/images/1450716258/223/kirby.gif
+  - name: kirby2
+    src: http://emojis.slackmojis.com/emojis/images/1450448467/162/kirby.gif
+  - name: knuckles
+    src: http://emojis.slackmojis.com/emojis/images/1450451879/172/knuckles.gif
+  - name: knuckles_waiting
+    src: http://emojis.slackmojis.com/emojis/images/1460496183/350/knuckles_waiting.gif
+  - name: koopakart
+    src: http://emojis.slackmojis.com/emojis/images/1463675476/450/koopakart.gif
+  - name: link-run
+    src: http://emojis.slackmojis.com/emojis/images/1463675556/452/link-run.gif
+  - name: link-spin
+    src: http://emojis.slackmojis.com/emojis/images/1463675522/451/link-spin.gif
+  - name: link-triforce
+    src: http://emojis.slackmojis.com/emojis/images/1463675873/453/link-triforce.png
+  - name: mario
+    src: http://emojis.slackmojis.com/emojis/images/1450731329/226/mario.gif
+  - name: mario2
+    src: http://emojis.slackmojis.com/emojis/images/1450319445/43/mario.gif
+  - name: mario3
+    src: http://emojis.slackmojis.com/emojis/images/1450319446/47/mario.gif
+  - name: mario4
+    src: http://emojis.slackmojis.com/emojis/images/1450452676/173/mario.png
+  - name: mario-block
+    src: http://emojis.slackmojis.com/emojis/images/1450452687/174/mario-block.png
+  - name: mario_luigi_dance
+    src: http://emojis.slackmojis.com/emojis/images/1490885301/1973/mario_luigi_dance.gif
+  - name: mario_mushroom
+    src: http://emojis.slackmojis.com/emojis/images/1467602838/641/mario_mushroom.jpg
+  - name: mega
+    src: http://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif
+  - name: metroid
+    src: http://emojis.slackmojis.com/emojis/images/1454429593/285/metroid.gif
+  - name: n64
+    src: http://emojis.slackmojis.com/emojis/images/1450319446/48/n64.gif
+  - name: powerup
+    src: http://emojis.slackmojis.com/emojis/images/1450731407/227/powerup.gif
+  - name: question_block
+    src: http://emojis.slackmojis.com/emojis/images/1450319445/46/question.gif
+  - name: sickblue-mario
+    src: http://emojis.slackmojis.com/emojis/images/1487860475/1782/sickblue-mario.gif
+  - name: sickred-mario
+    src: http://emojis.slackmojis.com/emojis/images/1487860751/1784/sickred-mario.gif
+  - name: sickyellow-mario
+    src: http://emojis.slackmojis.com/emojis/images/1487860517/1783/sickyellow-mario.gif
+  - name: sonic
+    src: http://emojis.slackmojis.com/emojis/images/1450372448/149/sonic.gif
+  - name: sonic-dance
+    src: http://emojis.slackmojis.com/emojis/images/1450452707/176/sonic-dance.gif
+  - name: sonic_sleeping
+    src: http://emojis.slackmojis.com/emojis/images/1460495922/349/sonic_sleeping.gif
+  - name: sonic-wait
+    src: http://emojis.slackmojis.com/emojis/images/1450452697/175/sonic-wait.gif
+  - name: sonic_waiting
+    src: http://emojis.slackmojis.com/emojis/images/1460495732/348/sonic_waiting.gif
+  - name: star2
+    src: http://emojis.slackmojis.com/emojis/images/1490884209/1972/star.gif
+  - name: tails
+    src: http://emojis.slackmojis.com/emojis/images/1450452720/177/tails.gif
+  - name: yeti
+    src: http://emojis.slackmojis.com/emojis/images/1462478640/400/yeti.jpg
+  - name: yoshi
+    src: http://emojis.slackmojis.com/emojis/images/1450319459/144/yoshi.gif
