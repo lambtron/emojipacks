@@ -17,6 +17,8 @@ program
   .option('-e, --email [value]', 'Admin email address')
   .option('-p, --password [value]', 'Password for admin email')
   .option('-y, --pack [value]', 'YAML emoji pack')
+  .option('--member_avatars', 'Will create emoji from your team users avatars. This option will ask for a token if not specified with -t')
+  .option('-t, --token [value]', 'Slack Public API token')
   .parse(process.argv);
 
 /**
@@ -24,7 +26,7 @@ program
  */
 
 co(function *() {
-  var user = yield Prompt.start(program.subdomain, program.email, program.password, program.pack);
+  var user = yield Prompt.start(program.subdomain, program.email, program.password, program.pack, program.member_avatars, program.token);
   var pack = yield Pack.get(user.pack);
   pack = clean(pack);
   user.emojis = pack.emojis;
