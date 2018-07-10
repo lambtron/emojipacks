@@ -3,8 +3,10 @@
 var program = require('commander');
 var Prompt = require('../lib/prompt');
 var Slack = require('../lib/slack');
+var SlackPublicAPI = require('../lib/slack_public_api');
 var Pack = require('../lib/pack');
 var co = require('co');
+
 
 /**
  * Usage.
@@ -26,12 +28,29 @@ program
  */
 
 co(function *() {
-  var user = yield Prompt.start(program.subdomain, program.email, program.password, program.pack, program.member_avatars, program.token);
-  var pack = yield Pack.get(user.pack);
-  pack = clean(pack);
-  user.emojis = pack.emojis;
-  var slack = new Slack(user, program.debug);
-  yield slack.import();
+  const userArgs = yield Prompt.start(program.subdomain, program.email, program.password, program.pack, program.member_avatars, program.token);
+  const token = userArgs.token;
+  var user = userArgs.load;
+
+  if (program.member_avatars !== true) {
+    var pack = yield Pack.get(user.pack);
+    var slack;
+
+    pack = clean(pack);
+    user.emojis = pack.emojis;
+    slack = new Slack(user, program.debug);
+    console.log("Uploading pack: ", user.pack);
+    yield slack.import();
+  } else {
+    console.log("Flag members\nToken: ", token)
+    const slackPublicAPI = new SlackPublicAPI(token);
+    console.log("# 2\n")
+    const emojipack = slackPublicAPI.getUsernamesWithAvatar();
+
+    console.log("Creating emojis: ", emojipack);
+    // slack.importFromJson(emojipack); // TODO to implement
+  }
+  
   process.exit();
 });
 
