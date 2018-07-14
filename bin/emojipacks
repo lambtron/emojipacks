@@ -42,13 +42,15 @@ co(function *() {
     console.log("Uploading pack: ", user.pack);
     yield slack.import();
   } else {
-    console.log("Flag members\nToken: ", token)
+    var slack;
     const slackPublicAPI = new SlackPublicAPI(token);
-    console.log("# 2\n")
     const emojipack = yield slackPublicAPI.getUsernamesWithAvatar();
 
-    console.log("Creating emojis: ", emojipack);
-    // slack.importFromJson(emojipack); // TODO to implement
+    memberEmojisDisclaimer()
+    user.emojis = emojipack
+    slack = new Slack(user, program.debug);
+
+    yield slack.import();
   }
   
   process.exit();
@@ -67,4 +69,14 @@ function clean(object) {
     }
   }
   return object;
+}
+
+/**
+ * Standardize the emoji file.
+ */
+
+function memberEmojisDisclaimer() {
+  console.log(`\n\nThis script doesn\'t override any existing emojis. \n\
+If you want to update your membermojis you have to remove manually the old ones and re-run the script. \n\
+Link: ${program.subdomain}.slack.com/customize/emoji \n\n`);
 }
