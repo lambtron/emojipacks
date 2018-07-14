@@ -76,7 +76,7 @@ function clean(object) {
  */
 
 function memberEmojisDisclaimer() {
-  console.log(`\n\nThis script doesn\'t override any existing emojis. \n\
-If you want to update your membermojis you have to remove manually the old ones and re-run the script. \n\
+  console.log(`\n\nThis script doesn\'t override any existing emojis\n\
+If you want to update your membermojis you have to remove manually the old ones and re-run the script\n\
 Link: ${program.subdomain}.slack.com/customize/emoji \n\n`);
 }
