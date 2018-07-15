@@ -19,7 +19,7 @@ program
   .option('-e, --email [value]', 'Admin email address')
   .option('-p, --password [value]', 'Password for admin email')
   .option('-y, --pack [value]', 'YAML emoji pack')
-  .option('--member_avatars', 'Will create emoji from your team users avatars. This option will ask for a token if not specified with -t')
+  .option('--membermojis', 'Will create emoji from your team users avatars. This option will ask for a token if not specified with -t')
   .option('-t, --token [value]', 'Slack Public API token')
   .parse(process.argv);
 
@@ -28,30 +28,26 @@ program
  */
 
 co(function *() {
-  const userArgs = yield Prompt.start(program.subdomain, program.email, program.password, program.pack, program.member_avatars, program.token);
+  const userArgs = yield Prompt.start(program.subdomain, program.email, program.password, program.pack, program.membermojis, program.token);
   const token = userArgs.token;
   var user = userArgs.load;
+  var slack;
 
-  if (program.member_avatars !== true) {
+  if (program.membermojis !== true) {
     var pack = yield Pack.get(user.pack);
-    var slack;
 
     pack = clean(pack);
     user.emojis = pack.emojis;
     slack = new Slack(user, program.debug);
-    console.log("Uploading pack: ", user.pack);
-    yield slack.import();
   } else {
-    var slack;
     const slackPublicAPI = new SlackPublicAPI(token);
     const emojipack = yield slackPublicAPI.getUsernamesWithAvatar();
 
     memberEmojisDisclaimer()
     user.emojis = emojipack
     slack = new Slack(user, program.debug);
-
-    yield slack.import();
   }
+  yield slack.import();
   
   process.exit();
 });

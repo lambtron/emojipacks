@@ -180,7 +180,7 @@ The membermojis option will create an emoji for all the users of your slack ! Th
 ### Usage:
 
 ```bash
-emojipacks --member_avatars -s <subdomain> -e <email> -p <password> -t <slack_api_token>
+emojipacks --membermojis -s <subdomain> -e <email> -p <password> -t <slack_api_token>
 ```
 
 You can find a `<slack_api_token>` for your workspace here: https://api.slack.com/custom-integrations/legacy-tokens
