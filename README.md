@@ -187,6 +187,8 @@ You can find a `<slack_api_token>` for your workspace here: https://api.slack.co
 
 And Voilà !
 
+---
+
 ## Troubleshooting
 
 This script will essentially log into your Slack and then submit a `POST` request on the emoji upload form page. If you are seeing errors, make sure that:
