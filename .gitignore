@@ -1,6 +1,7 @@
 # Logs
 logs
 *.log
+debug/
 
 # Runtime data
 pids
@@ -31,3 +32,6 @@ resized/
 
 # Ignore actual batchUpload.sh
 batchUpload.sh
+
+# OSX Garbage
+.DS_Store
