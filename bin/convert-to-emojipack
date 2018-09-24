@@ -67,13 +67,13 @@ co(function *() {
     Object.keys(compiledEmojis).forEach((name) => {
       var emoji = compiledEmojis[name];
 
-      stream.write(`  - name: ${emoji.name}\n`);
+      stream.write(`  - name: "${emoji.name}"\n`);
 
       // Write the aliases array if any exist
       if (emoji.aliases && emoji.aliases.length > 0) {
         stream.write('    aliases:\n');
         emoji.aliases.forEach((alias) => {
-          stream.write(`      - ${alias}\n`);
+          stream.write(`      - "${alias}"\n`);
         });
       }
 
