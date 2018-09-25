@@ -3,8 +3,10 @@
 var program = require('commander');
 var Prompt = require('../lib/prompt');
 var Slack = require('../lib/slack');
+var SlackPublicAPI = require('../lib/slack_public_api');
 var Pack = require('../lib/pack');
 var co = require('co');
+
 
 /**
  * Usage.
@@ -17,6 +19,8 @@ program
   .option('-e, --email [value]', 'Admin email address')
   .option('-p, --password [value]', 'Password for admin email')
   .option('-y, --pack [value]', 'YAML emoji pack')
+  .option('--membermojis', 'Will create emoji from your team users avatars. This option will ask for a token if not specified with -t')
+  .option('-t, --token [value]', 'Slack Public API token')
   .parse(process.argv);
 
 /**
@@ -24,12 +28,27 @@ program
  */
 
 co(function *() {
-  var user = yield Prompt.start(program.subdomain, program.email, program.password, program.pack);
-  var pack = yield Pack.get(user.pack);
-  pack = clean(pack);
-  user.emojis = pack.emojis;
-  var slack = new Slack(user, program.debug);
+  const userArgs = yield Prompt.start(program.subdomain, program.email, program.password, program.pack, program.membermojis, program.token);
+  const token = userArgs.token;
+  var user = userArgs.load;
+  var slack;
+
+  if (program.membermojis !== true) {
+    var pack = yield Pack.get(user.pack);
+
+    pack = clean(pack);
+    user.emojis = pack.emojis;
+    slack = new Slack(user, program.debug);
+  } else {
+    const slackPublicAPI = new SlackPublicAPI(token);
+    const emojipack = yield slackPublicAPI.getUsernamesWithAvatar();
+
+    memberEmojisDisclaimer()
+    user.emojis = emojipack
+    slack = new Slack(user, program.debug);
+  }
   yield slack.import();
+  
   process.exit();
 });
 
@@ -46,4 +65,14 @@ function clean(object) {
     }
   }
   return object;
+}
+
+/**
+ * Standardize the emoji file.
+ */
+
+function memberEmojisDisclaimer() {
+  console.log(`\n\nThis script doesn\'t override any existing emojis\n\
+If you want to update your membermojis you have to remove manually the old ones and re-run the script\n\
+Link: ${program.subdomain}.slack.com/customize/emoji \n\n`);
 }

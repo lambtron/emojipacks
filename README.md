@@ -166,6 +166,29 @@ emojis:
 
 Want to contribute? [Suggest an emoji pack](https://20p.typeform.com/to/xOFDyq)!
 
+
+
+# Bonus
+
+ ## Membermojis
+
+Have you ever wanted to react with emojis of your friends and coworkers?
+Well here is ***Membermojis*** !
+
+The membermojis option will create an emoji for all the users of your slack ! The emojis will simply be their profile picture.
+
+### Usage:
+
+```bash
+emojipacks --membermojis -s <subdomain> -e <email> -p <password> -t <slack_api_token>
+```
+
+You can find a `<slack_api_token>` for your workspace here: https://api.slack.com/custom-integrations/legacy-tokens
+
+And Voilà !
+
+---
+
 ## Troubleshooting
 
 This script will essentially log into your Slack and then submit a `POST` request on the emoji upload form page. If you are seeing errors, make sure that:
