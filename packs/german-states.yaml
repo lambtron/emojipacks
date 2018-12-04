@@ -21,10 +21,6 @@ emojis:
     aliases:
       - bremen
     src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bremen_Wappen%28Mittel%29.svg/64px-Bremen_Wappen%28Mittel%29.svg.png
-  - name: de-hh
-    aliases:
-      - hamburg
-    src: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Coat_of_arms_of_Hamburg.svg/64px-Coat_of_arms_of_Hamburg.svg.png
   - name: de-he
     aliases:
       - hessen

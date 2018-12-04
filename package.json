@@ -3,6 +3,7 @@
   "description": "CLI to upload emojis to Slack",
   "version": "0.2.1",
   "author": "Andy Jiang",
+  "license": "MIT",
   "main": "./bin/emojipacks",
   "keywords": [
     "emojis",
