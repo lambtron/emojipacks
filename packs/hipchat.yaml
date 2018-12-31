@@ -1,0 +1,408 @@
+title: hipchat
+emojis:
+  - name: allthethings
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/allthethings-1414024836@2x.png
+  - name: android
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/android-1414024011@2x.png
+  - name: areyoukiddingme
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/areyoukiddingme-1414024355@2x.png
+  - name: arrington
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/arrington-1414023805@2x.png
+  - name: arya
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/arya-1414028821@2x.png
+  - name: ashton
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/ashton-1414025136@2x.png
+  - name: atlassian
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/atlassian-1414025304@2x.png
+  - name: awesome
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/awesome-1417754492@2x.png
+  - name: awthanks
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/awthanks-1414025485@2x.png
+  - name: aww
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/aww-1417754503@2x.png
+  - name: awwyiss
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/awwyiss-1417754513@2x.png
+  - name: awyeah
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/awyeah-1417750835@2x.png
+  - name: badass
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/badass-1417750950@2x.png
+  - name: badjokeeel
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/badjokeeel-1417751014@2x.png
+  - name: badpokerface
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/badpokerface-1414089953@2x.png
+  - name: badtime
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/badtime-1417754523@2x.png
+  - name: bamboo
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/bamboo-1431522312@2x.png
+  - name: basket
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/basket-1414023854@2x.png
+  - name: beer
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/beer-1414022661@2x.png
+  - name: bicepleft
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/bicepleft-1417754567@2x.png
+  - name: bicepright
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/bicepright-1417754576@2x.png
+  - name: bitbucket
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/bitbucket-1431522339@2x.png
+  - name: boom
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/boom-1414103101@2x.gif
+  - name: borat
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/borat-1417754598@2x.png
+  - name: branch
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/branch-1414026601@2x.png
+  - name: bumble
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/bumble-1417751030@2x.png
+  - name: bunny
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/bunny-1414023876@2x.png
+  - name: cadbury
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/cadbury-1414023926@2x.png
+  - name: cake
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/cake-1414024030@2x.png
+  - name: candycorn
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/candycorn-1414024689@2x.png
+  - name: carl
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/carl-1417754606@2x.png
+  - name: caruso
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/caruso-1417751051@2x.png
+  - name: catchemall
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/catchemall-1417754614@2x.png
+  - name: ceilingcat
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/ceilingcat-1414025417@2x.png
+  - name: celeryman
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/celeryman-1418247558@2x.gif
+  - name: cereal
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/cereal-1414023343@2x.png
+  - name: cerealspit
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/cerealspit-1414026180@2x.png
+  - name: challengeaccepted
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/challengeaccepted-1417751095@2x.png
+  - name: chef
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/chef-1417754621@2x.png
+  - name: chewie
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/chewie-1417751139@2x.png
+  - name: chocobunny
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/chocobunny-1414023949@2x.png
+  - name: chompy
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/chompy-1414025208@2x.gif
+  - name: chucknorris
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/chucknorris-1417751159@2x.png
+  - name: clarence
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/clarence-1417751942@2x.png
+  - name: coffee
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/coffee-1414375635@2x.png
+  - name: confluence
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/confluence-1431522360@2x.png
+  - name: content
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/content-1414023392@2x.png
+  - name: continue
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/continue-1414026510@2x.png
+  - name: cookie
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/cookie-1417754631@2x.png
+  - name: cornelius
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/cornelius-1414022924@2x.png
+  - name: corpsethumb
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/corpsethumb-1417754640@2x.png
+  - name: crucible
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/crucible-1431522372@2x.png
+  - name: daenerys
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/daenerys-1414028947@2x.png
+  - name: dance
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/dance-1414025267@2x.gif
+  - name: dealwithit
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/dealwithit-1414024955@2x.gif
+  - name: derp
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/derp-1417751963@2x.png
+  - name: disapproval
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/disapproval-1414024448@2x.png
+  - name: doge
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/doge-1414029048@2x.png
+  - name: doh
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/doh-1417755734@2x.png
+  - name: donotwant
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/donotwant-1417755746@2x.png
+  - name: dosequis
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/dosequis-1414024105@2x.png
+  - name: downvote
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/downvote-1417755753@2x.png
+  - name: drevil
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/drevil-1414025327@2x.png
+  - name: drool
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/drool-1417755763@2x.png
+  - name: ducreux
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/ducreux-1414023991@2x.png
+  - name: dumb
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/dumb-1417751988@2x.png
+  - name: evilburns
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/evilburns-1417755772@2x.png
+  - name: excellent
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/excellent-1417755785@2x.png
+  - name: facepalm
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/facepalm-1417752010@2x.png
+  - name: failed
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/failed-1414026532@2x.png
+  - name: finn
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/finn-1417755835@2x.png
+  - name: fireworks
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/fireworks-1420575887@2x.gif
+  - name: fisheye
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/fisheye-1431522386@2x.png
+  - name: fonzie
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/fonzie-1417752102@2x.png
+  - name: foreveralone
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/foreveralone-1414023140@2x.png
+  - name: forscale
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/forscale-1428536097@2x.png
+  - name: freddie
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/freddie-1417752152@2x.png
+  - name: fry
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/fry-1414025241@2x.png
+  - name: ftfy
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/ftfy-1417755844@2x.png
+  - name: fu
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/fu-1414023026@2x.png
+  - name: fuckyeah
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/fuckyeah-1414023828@2x.png
+  - name: fwp
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/fwp-1414025600@2x.png
+  - name: gangnamstyle
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/gangnamstyle-1417752182@2x.gif
+  - name: gates
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/gates-1417752311@2x.png
+  - name: ghost
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/ghost-1414024665@2x.png
+  - name: giggity
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/giggity-1417755851@2x.png
+  - name: goldstar
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/goldstar-1417755861@2x.png
+  - name: goodnews
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/goodnews-1417752451@2x.png
+  - name: greenbeer
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/greenbeer-1414023735@2x.png
+  - name: grumpycat
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/grumpycat-1414026366@2x.png
+  - name: gtfo
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/gtfo-1414026923@2x.png
+  - name: haha
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/haha-1417755876@2x.png
+  - name: haveaseat
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/haveaseat-1417752572@2x.png
+  - name: heart
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/heart-1417752586@2x.png
+  - name: heygirl
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/heygirl-1413684451@2x.png
+  - name: hipchat
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/hipchat-1431522405@2x.png
+  - name: hipster
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/hipster-1414025113@2x.png
+  - name: hodor
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/hodor-1414028801@2x.png
+  - name: huehue
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/huehue-1417755882@2x.png
+  - name: hugefan
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/hugefan-1417755893@2x.png
+  - name: huh
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/huh-1414026942@2x.png
+  - name: ilied
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/ilied-1417752608@2x.png
+  - name: indeed
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/indeed-1417752694@2x.png
+  - name: iseewhatyoudidthere
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/iseewhatyoudidthere-1414026019@2x.png
+  - name: itsatrap
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/itsatrap-1417752711@2x.png
+  - name: jackie
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/jackie-1417752827@2x.png
+  - name: jaime
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/jaime-1414028872@2x.png
+  - name: jake
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/jake-1417807978@2x.png
+  - name: jira
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/jira-1431522426@2x.png
+  - name: jobs
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/jobs-1417752336@2x.png
+  - name: joffrey
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/joffrey-1417760026@2x.png
+  - name: jonsnow
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/jonsnow-1414028921@2x.png
+  - name: kennypowers
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/kennypowers-1417752920@2x.png
+  - name: krang
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/krang-1417752938@2x.png
+  - name: kwanzaa
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/kwanzaa-1414022870@2x.png
+  - name: lincoln
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/lincoln-1417752959@2x.png
+  - name: lol
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/lol-1414023491@2x.png
+  - name: lolwut
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/lolwut-1417753079@2x.png
+  - name: megusta
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/megusta-1414023519@2x.png
+  - name: meh
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/meh-1417755922@2x.png
+  - name: menorah
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/menorah-1414022898@2x.png
+  - name: ned
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/ned-1414028897@2x.png
+  - name: nextgendev
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/nextgendev-1414028778@2x.png
+  - name: nice
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/nice-1417756761@2x.png
+  - name: ninja
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/ninja-1414025554@2x.png
+  - name: noidea
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/noidea-1417756770@2x.png
+  - name: notbad
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/notbad-1417754112@2x.png
+  - name: nothingtodohere
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/nothingtodohere-1414025069@2x.png
+  - name: notit
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/notit-1417756777@2x.png
+  - name: notsureif
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/notsureif-1417754143@2x.png
+  - name: notsureifgusta
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/notsureifgusta-1414025677@2x.png
+  - name: obama
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/obama-1414026271@2x.png
+  - name: ohcrap
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/ohcrap-1414023779@2x.png
+  - name: ohgodwhy
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/ohgodwhy-1414025393@2x.png
+  - name: ohmy
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/ohmy-1417756786@2x.png
+  - name: okay
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/okay-1414023544@2x.png
+  - name: omg
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/omg-1414023574@2x.png
+  - name: orly
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/orly-1414025090@2x.png
+  - name: paddlin
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/paddlin-1417756794@2x.png
+  - name: pbr
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/pbr-1414024081@2x.png
+  - name: philosoraptor
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/philosoraptor-1417754200@2x.png
+  - name: pingpong
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/pingpong-1414025441@2x.png
+  - name: pirate
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/pirate-1413932391@2x.png
+  - name: pokerface
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/pokerface-1414090721@2x.png
+  - name: poo
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/poo-1413932426@2x.png
+  - name: present
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/present-1417754218@2x.png
+  - name: pride
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/pride-1435338809@2x.png
+  - name: pumpkin
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/pumpkin-1414024641@2x.png
+  - name: rageguy
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/rageguy-1414022976@2x.png
+  - name: rainicorn
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/rainicorn-1417807924@2x.png
+  - name: rebeccablack
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/rebeccablack-1414024054@2x.png
+  - name: reddit
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/reddit-1417754241@2x.png
+  - name: rockon
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/rockon-1417756812@2x.gif
+  - name: romney
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/romney-1417754260@2x.png
+  - name: rudolph
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/rudolph-1414022810@2x.png
+  - name: sadpanda
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/sadpanda-1417754292@2x.png
+  - name: sadtroll
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/sadtroll-1414023623@2x.png
+  - name: salute
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/salute-1417756826@2x.png
+  - name: samuel
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/samuel-1417754316@2x.png
+  - name: santa
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/santa-1414022839@2x.png
+  - name: sap
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/sap-1417756835@2x.png
+  - name: scumbag
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/scumbag-1413684123@2x.png
+  - name: seomoz
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/seomoz-1414023675@2x.png
+  - name: shamrock
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/shamrock-1414023710@2x.png
+  - name: shrug
+    src: https://i.imgur.com/CH8AXi5.png
+  - name: skyrim
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/skyrim-1417754336@2x.png
+  - name: sourcetree
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/sourcetree-1431522444@2x.png
+  - name: standup
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/standup-1417756844@2x.gif
+  - name: stare
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/stare-1414024815@2x.png
+  - name: stash
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/stash-1431522460@2x.png
+  - name: success
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/success-1414025948@2x.png
+  - name: successful
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/successful-1414026553@2x.png
+  - name: sweetjesus
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/sweetjesus-1417754353@2x.png
+  - name: tableflip
+    src: https://i.imgur.com/0MODixB.png
+  - name: taco
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/taco-1417756862@2x.png
+  - name: taft
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/taft-1417754373@2x.png
+  - name: tea
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/tea-1414025463@2x.png
+  - name: thatthing
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/thatthing-1417756953@2x.png
+  - name: theyregreat
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/theyregreat-1417756964@2x.png
+  - name: tree
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/tree-1414022753@2x.png
+  - name: troll
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/troll-1414023002@2x.png
+  - name: truestory
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/truestory-1413920318@2x.png
+  - name: trump
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/trump-1414026327@2x.png
+  - name: turkey
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/turkey-1414028694@2x.png
+  - name: twss
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/twss-1417754388@2x.png
+  - name: tyrion
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/tyrion-1414028850@2x.png
+  - name: tywin
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/tywin-1414028997@2x.png
+  - name: unacceptable
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/unacceptable-1417756981@2x.png
+  - name: unknown
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/unknown-1414026584@2x.png
+  - name: upvote
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/upvote-1417756989@2x.png
+  - name: vote
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/vote-1415153517@2x.png
+  - name: waiting
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/waiting-1417756997@2x.gif
+  - name: washington
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/washington-1414023164@2x.png
+  - name: wat
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/wat-1414024905@2x.png
+  - name: whoa
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/whoa-1417757013@2x.png
+  - name: whynotboth
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/whynotboth-1414029073@2x.gif
+  - name: wtf
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/wtf-1417754405@2x.png
+  - name: yey
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/yey-1414023049@2x.png
+  - name: yodawg
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/yodawg-1417754419@2x.png
+  - name: youdontsay
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/youdontsay-1417757028@2x.png
+  - name: yougotitdude
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/yougotitdude-1414026430@2x.gif
+  - name: yuno
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/yuno-1417754433@2x.png
+  - name: zoidberg
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/zoidberg-1417754444@2x.png
