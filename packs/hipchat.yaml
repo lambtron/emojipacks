@@ -1,3 +1,4 @@
+---
 title: hipchat
 emojis:
   - name: allthethings
@@ -13,7 +14,7 @@ emojis:
   - name: ashton
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/ashton-1414025136@2x.png
   - name: atlassian
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/atlassian-1414025304@2x.png
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/atlassian-1505837881@2x.png
   - name: awesome
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/awesome-1417754492@2x.png
   - name: awthanks
@@ -33,7 +34,11 @@ emojis:
   - name: badtime
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/badtime-1417754523@2x.png
   - name: bamboo
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/bamboo-1431522312@2x.png
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/bamboo-1505837966@2x.png
+  - name: ban
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/ban-1466106001@2x.jpg
+  - name: banks
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/banks-1461790674@2x.gif
   - name: basket
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/basket-1414023854@2x.png
   - name: beer
@@ -43,7 +48,7 @@ emojis:
   - name: bicepright
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/bicepright-1417754576@2x.png
   - name: bitbucket
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/bitbucket-1431522339@2x.png
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/bitbucket-1505837984@2x.png
   - name: boom
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/boom-1414103101@2x.gif
   - name: borat
@@ -58,6 +63,8 @@ emojis:
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/cadbury-1414023926@2x.png
   - name: cake
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/cake-1414024030@2x.png
+  - name: cancer
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/cancer-1473442882@2x.png
   - name: candycorn
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/candycorn-1414024689@2x.png
   - name: carl
@@ -91,7 +98,7 @@ emojis:
   - name: coffee
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/coffee-1414375635@2x.png
   - name: confluence
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/confluence-1431522360@2x.png
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/confluence-1505838002@2x.png
   - name: content
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/content-1414023392@2x.png
   - name: continue
@@ -103,7 +110,7 @@ emojis:
   - name: corpsethumb
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/corpsethumb-1417754640@2x.png
   - name: crucible
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/crucible-1431522372@2x.png
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/crucible-1505838025@2x.png
   - name: daenerys
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/daenerys-1414028947@2x.png
   - name: dance
@@ -112,6 +119,8 @@ emojis:
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/dealwithit-1414024955@2x.gif
   - name: derp
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/derp-1417751963@2x.png
+  - name: disappear
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/disappear-1417754650@2x.gif
   - name: disapproval
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/disapproval-1414024448@2x.png
   - name: doge
@@ -132,6 +141,8 @@ emojis:
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/ducreux-1414023991@2x.png
   - name: dumb
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/dumb-1417751988@2x.png
+  - name: dwaboutit
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/dwaboutit-1448505588@2x.png
   - name: evilburns
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/evilburns-1417755772@2x.png
   - name: excellent
@@ -140,12 +151,16 @@ emojis:
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/facepalm-1417752010@2x.png
   - name: failed
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/failed-1414026532@2x.png
+  - name: feelsbadman
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/feelsbadman-1475680700@2x.png
+  - name: feelsgoodman
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/feelsgoodman-1475680733@2x.png
   - name: finn
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/finn-1417755835@2x.png
   - name: fireworks
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/fireworks-1420575887@2x.gif
   - name: fisheye
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/fisheye-1431522386@2x.png
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/fisheye-1505838042@2x.png
   - name: fonzie
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/fonzie-1417752102@2x.png
   - name: foreveralone
@@ -181,7 +196,7 @@ emojis:
   - name: grumpycat
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/grumpycat-1414026366@2x.png
   - name: gtfo
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/gtfo-1414026923@2x.png
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/gtfo-1506108014@2x.png
   - name: haha
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/haha-1417755876@2x.png
   - name: haveaseat
@@ -191,7 +206,7 @@ emojis:
   - name: heygirl
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/heygirl-1413684451@2x.png
   - name: hipchat
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/hipchat-1431522405@2x.png
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/hipchat-1505836539@2x.png
   - name: hipster
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/hipster-1414025113@2x.png
   - name: hodor
@@ -217,7 +232,7 @@ emojis:
   - name: jake
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/jake-1417807978@2x.png
   - name: jira
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/jira-1431522426@2x.png
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/jira-1505838060@2x.png
   - name: jobs
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/jobs-1417752336@2x.png
   - name: joffrey
@@ -225,7 +240,7 @@ emojis:
   - name: jonsnow
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/jonsnow-1414028921@2x.png
   - name: kennypowers
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/kennypowers-1417752920@2x.png
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/kennypowers-1506107973@2x.png
   - name: krang
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/krang-1417752938@2x.png
   - name: kwanzaa
@@ -242,6 +257,10 @@ emojis:
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/meh-1417755922@2x.png
   - name: menorah
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/menorah-1414022898@2x.png
+  - name: mindblown
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/mindblown-1414029295@2x.gif
+  - name: motherofgod
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/motherofgod-1417755937@2x.gif
   - name: ned
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/ned-1414028897@2x.png
   - name: nextgendev
@@ -329,17 +348,21 @@ emojis:
   - name: shamrock
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/shamrock-1414023710@2x.png
   - name: shrug
-    src: https://i.imgur.com/CH8AXi5.png
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/shrug-1414032234@2x.png
   - name: skyrim
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/skyrim-1417754336@2x.png
   - name: sourcetree
-    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/sourcetree-1431522444@2x.png
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/sourcetree-1505838096@2x.png
   - name: standup
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/standup-1417756844@2x.gif
   - name: stare
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/stare-1414024815@2x.png
   - name: stash
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/stash-1431522460@2x.png
+  - name: statuspage
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/statuspage-1505838119@2x.png
+  - name: stride
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/stride-1505836631@2x.png
   - name: success
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/success-1414025948@2x.png
   - name: successful
@@ -347,7 +370,7 @@ emojis:
   - name: sweetjesus
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/sweetjesus-1417754353@2x.png
   - name: tableflip
-    src: https://i.imgur.com/0MODixB.png
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/tableflip-1414031937@2x.png
   - name: taco
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/taco-1417756862@2x.png
   - name: taft
@@ -360,6 +383,10 @@ emojis:
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/theyregreat-1417756964@2x.png
   - name: tree
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/tree-1414022753@2x.png
+  - name: trello
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/trello-1483998789@2x.png
+  - name: trellotaco
+    src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/trellotaco-1483998705@2x.png
   - name: troll
     src: https://dujrsrsgsd3nh.cloudfront.net/img/emoticons/troll-1414023002@2x.png
   - name: truestory
