@@ -1,0 +1,42 @@
+title: slackmoji-cat-emojis
+emojis:
+  - name: angry_cat
+    src: https://emojis.slackmojis.com/emojis/images/1542333929/4926/angry_cat.png
+  - name: anguished_cat
+    src: https://emojis.slackmojis.com/emojis/images/1542333933/4927/anguished_cat.png
+  - name: cat_face_with_monocle
+    src: https://emojis.slackmojis.com/emojis/images/1542333934/4928/cat_face_with_monocle.png
+  - name: dizzy_cat_face
+    src: https://emojis.slackmojis.com/emojis/images/1542333934/4929/dizzy_cat_face.png
+  - name: drooling_cat_face
+    src: https://emojis.slackmojis.com/emojis/images/1542333935/4930/drooling_cat_face.png
+  - name: expressionless_cat
+    src: https://emojis.slackmojis.com/emojis/images/1542333935/4931/expressionless_cat.png
+  - name: flushed_cat
+    src: https://emojis.slackmojis.com/emojis/images/1542333936/4932/flushed_cat.png
+  - name: grimacing_cat
+    src: https://emojis.slackmojis.com/emojis/images/1542333936/4933/grimacing_cat.png
+  - name: hugging_cat_face
+    src: https://emojis.slackmojis.com/emojis/images/1542333936/4934/hugging_cat_face.png
+  - name: innocent_cat
+    src: https://emojis.slackmojis.com/emojis/images/1542333938/4935/innocent_cat.png
+  - name: nerd_cat_face
+    src: https://emojis.slackmojis.com/emojis/images/1542333938/4936/nerd_cat_face.png
+  - name: sleepy_cat
+    src: https://emojis.slackmojis.com/emojis/images/1542333939/4937/sleepy_cat.png
+  - name: sob_cat
+    src: https://emojis.slackmojis.com/emojis/images/1542333940/4938/sob_cat.png
+  - name: star-struck_cat
+    src: https://emojis.slackmojis.com/emojis/images/1542333940/4939/star-struck_cat.png
+  - name: sunglasses_cat
+    src: https://emojis.slackmojis.com/emojis/images/1542333940/4940/sunglasses_cat.png
+  - name: thinking_cat_face
+    src: https://emojis.slackmojis.com/emojis/images/1542333941/4941/thinking_cat_face.png
+  - name: triumph_cat
+    src: https://emojis.slackmojis.com/emojis/images/1542333941/4942/triumph_cat.png
+  - name: yasss_cat
+    src: https://emojis.slackmojis.com/emojis/images/1542333942/4943/yasss_cat.png
+  - name: yum_cat
+    src: https://emojis.slackmojis.com/emojis/images/1542333943/4944/yum_cat.png
+  - name: zany_cat_face
+    src: https://emojis.slackmojis.com/emojis/images/1542333943/4945/zany_cat_face.png

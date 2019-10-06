@@ -1,6 +1,6 @@
 from __future__ import print_function
-import io
 import os
+import pathlib
 
 from box import Box, BoxList
 from PIL import Image
@@ -57,21 +57,24 @@ def valid_image(name, src):
     ext = os.path.splitext(src)[1]
     # the downloaded filename is different from if you download it manually
     # because of the possible duplicates
-    dl_file = os.path.join(SLACKMOJI_DL_DIR, ''.join([name, ext]))
-    if os.path.isfile(dl_file):
-        with open(dl_file) as f:
-            body = f.read()
-    else:
-        response = download_file(src, dl_file)
-        body = response.content
+    # dl_file = os.path.join(SLACKMOJI_DL_DIR, ''.join([name, ext]))
+    dl_file = pathlib.Path(SLACKMOJI_DL_DIR) / ''.join([name, ext])
+    # print(f'  * validating name: {name}, src: {src}, dl_file: {dl_file}')
 
-    with io.BytesIO(body) as f:
-        # Is it an image?
-        im = Image.open(f)
+    if not dl_file.is_file():
+        download_file(src, dl_file)
+
+    # Is it an image?
+    valid_image = True
+    try:
+        im = Image.open(dl_file)
         if im.width > 128 or im.height > 128:
-            print(':{}: is {}\t{}'.format(name, im.size, src))
-            return False
-    return True
+            print(f':{name}: is {im.size}\t{src}')
+            valid_image = False
+    except IOError:
+        print(f':{name}: could not be read\t{src}')
+        valid_image = False
+    return valid_image
 
 
 def main():

@@ -8,8 +8,6 @@ emojis:
     src: https://emojis.slackmojis.com/emojis/images/1450735852/239/charmander.png
   - name: charmander_dancing
     src: https://emojis.slackmojis.com/emojis/images/1469223471/679/charmander_dancing.gif
-  - name: ditto
-    src: https://emojis.slackmojis.com/emojis/images/1501834074/2744/ditto.png
   - name: eevee
     src: https://emojis.slackmojis.com/emojis/images/1479080836/1363/eevee.gif
   - name: eevee2
@@ -32,19 +30,19 @@ emojis:
     src: https://emojis.slackmojis.com/emojis/images/1450736274/243/mew.png
   - name: mewtwo
     src: https://emojis.slackmojis.com/emojis/images/1450736076/242/mewtwo.png
-  - name: mystic2
+  - name: mystic
     src: https://emojis.slackmojis.com/emojis/images/1469201975/673/mystic.gif
   - name: pikachu
     src: https://emojis.slackmojis.com/emojis/images/1450735712/238/pikachu.png
   - name: pikachu2
     src: https://emojis.slackmojis.com/emojis/images/1450458394/182/pikachu.gif
-  - name: pokeball2
+  - name: pokeball
     src: https://emojis.slackmojis.com/emojis/images/1450464069/186/pokeball.png
   - name: poke_pika
     src: https://emojis.slackmojis.com/emojis/images/1472722064/1126/poke_pika.png
   - name: poke_pika_angry
     src: https://emojis.slackmojis.com/emojis/images/1472722188/1127/poke_pika_angry.png
-  - name: poke_pika_wink
+  - name: poke_pika_wink2
     src: https://emojis.slackmojis.com/emojis/images/1472722300/1128/poke_pika_wink.png
   - name: psyduck
     src: https://emojis.slackmojis.com/emojis/images/1450736025/241/psyduck.png
@@ -52,7 +50,7 @@ emojis:
     src: https://emojis.slackmojis.com/emojis/images/1501020510/237/slowpoke.jpg
   - name: snorlax
     src: https://emojis.slackmojis.com/emojis/images/1450735389/233/snorlax.png
-  - name: squirtle
+  - name: squirtle3
     src: https://emojis.slackmojis.com/emojis/images/1450735892/240/squirtle.png
   - name: sylveon
     src: https://emojis.slackmojis.com/emojis/images/1479081267/1369/sylveon.gif

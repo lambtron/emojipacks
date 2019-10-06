@@ -1,0 +1,46 @@
+title: slackmoji-mls
+emojis:
+  - name: atlanta_united
+    src: https://emojis.slackmojis.com/emojis/images/1559745276/5788/atlanta_united.png
+  - name: chicago_fire
+    src: https://emojis.slackmojis.com/emojis/images/1550634008/5378/chicago_fire.png
+  - name: colorado_rapids
+    src: https://emojis.slackmojis.com/emojis/images/1550635189/5380/colorado_rapids.png
+  - name: columbus_crew
+    src: https://emojis.slackmojis.com/emojis/images/1550635297/5381/columbus_crew.png
+  - name: dcunited
+    src: https://emojis.slackmojis.com/emojis/images/1550635953/5382/dcunited.png
+  - name: fccincinnati
+    src: https://emojis.slackmojis.com/emojis/images/1550634192/5379/fccincinnati.png
+  - name: fcdallas
+    src: https://emojis.slackmojis.com/emojis/images/1550623814/5374/fcdallas.png
+  - name: houston_dynamo
+    src: https://emojis.slackmojis.com/emojis/images/1550624229/5375/houston_dynamo.png
+  - name: lafc
+    src: https://emojis.slackmojis.com/emojis/images/1550620389/5373/lafc.png
+  - name: mnufc
+    src: https://emojis.slackmojis.com/emojis/images/1550636138/5383/mnufc.png
+  - name: montreal_impact
+    src: https://emojis.slackmojis.com/emojis/images/1550636289/5384/montreal_impact.png
+  - name: nerevolution
+    src: https://emojis.slackmojis.com/emojis/images/1550694821/5386/nerevolution.png
+  - name: nycfc
+    src: https://emojis.slackmojis.com/emojis/images/1550695017/5387/nycfc.png
+  - name: orlando_city
+    src: https://emojis.slackmojis.com/emojis/images/1550696097/5389/orlando_city.png
+  - name: philadelphia_union
+    src: https://emojis.slackmojis.com/emojis/images/1550697158/5390/philadelphia_union.png
+  - name: portland_timbers
+    src: https://emojis.slackmojis.com/emojis/images/1550719009/5392/portland_timbers.png
+  - name: quakes
+    src: https://emojis.slackmojis.com/emojis/images/1550624616/5376/quakes.png
+  - name: rbny
+    src: https://emojis.slackmojis.com/emojis/images/1550695616/5388/rbny.png
+  - name: rsl2
+    src: https://emojis.slackmojis.com/emojis/images/1550720502/5396/rsl.png
+  - name: seattle_sounders
+    src: https://emojis.slackmojis.com/emojis/images/1550719549/5393/seattle_sounders.png
+  - name: torontofc
+    src: https://emojis.slackmojis.com/emojis/images/1550719735/5394/torontofc.png
+  - name: vancouver_whitecaps
+    src: https://emojis.slackmojis.com/emojis/images/1550719880/5395/vancouver_whitecaps.png

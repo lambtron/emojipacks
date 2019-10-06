@@ -1,74 +1,74 @@
 title: slackmoji-yoyo
 emojis:
-  - name: angry
-    src: http://emojis.slackmojis.com/emojis/images/1492722318/2062/angry.gif
+  - name: angry2
+    src: https://emojis.slackmojis.com/emojis/images/1492722318/2062/angry.gif
   - name: attitude
-    src: http://emojis.slackmojis.com/emojis/images/1492722347/2063/attitude.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722347/2063/attitude.gif
   - name: blow_up
-    src: http://emojis.slackmojis.com/emojis/images/1492722347/2064/blow_up.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722347/2064/blow_up.gif
   - name: bullhorn
-    src: http://emojis.slackmojis.com/emojis/images/1492722348/2065/bullhorn.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722348/2065/bullhorn.gif
   - name: chest_thump
-    src: http://emojis.slackmojis.com/emojis/images/1492722348/2066/chest_thump.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722348/2066/chest_thump.gif
   - name: cough
-    src: http://emojis.slackmojis.com/emojis/images/1492722349/2067/cough.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722349/2067/cough.gif
   - name: entranced
-    src: http://emojis.slackmojis.com/emojis/images/1492722349/2068/entranced.gif
-  - name: excited2
-    src: http://emojis.slackmojis.com/emojis/images/1492722350/2069/excited.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722349/2068/entranced.gif
+  - name: excited
+    src: https://emojis.slackmojis.com/emojis/images/1492722350/2069/excited.gif
   - name: eyebrows
-    src: http://emojis.slackmojis.com/emojis/images/1492722350/2070/eyebrows.gif
-  - name: good_job2
-    src: http://emojis.slackmojis.com/emojis/images/1492722351/2071/good_job.gif
-  - name: haha
-    src: http://emojis.slackmojis.com/emojis/images/1492722351/2072/haha.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722350/2070/eyebrows.gif
+  - name: good_job
+    src: https://emojis.slackmojis.com/emojis/images/1492722351/2071/good_job.gif
+  - name: haha2
+    src: https://emojis.slackmojis.com/emojis/images/1492722351/2072/haha.gif
   - name: headbutt
-    src: http://emojis.slackmojis.com/emojis/images/1492722351/2073/headbutt.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722351/2073/headbutt.gif
   - name: hiding
-    src: http://emojis.slackmojis.com/emojis/images/1492722352/2074/hiding.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722352/2074/hiding.gif
   - name: holding_bomb
-    src: http://emojis.slackmojis.com/emojis/images/1492722352/2075/holding_bomb.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722352/2075/holding_bomb.gif
   - name: injured
-    src: http://emojis.slackmojis.com/emojis/images/1492722353/2077/injured.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722353/2077/injured.gif
   - name: in_love
-    src: http://emojis.slackmojis.com/emojis/images/1492722353/2076/in_love.gif
-  - name: looking
-    src: http://emojis.slackmojis.com/emojis/images/1492722353/2078/looking.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722353/2076/in_love.gif
+  - name: looking2
+    src: https://emojis.slackmojis.com/emojis/images/1492722353/2078/looking.gif
   - name: lookout
-    src: http://emojis.slackmojis.com/emojis/images/1492722354/2079/lookout.gif
-  - name: love
-    src: http://emojis.slackmojis.com/emojis/images/1492722354/2080/love.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722354/2079/lookout.gif
+  - name: love2
+    src: https://emojis.slackmojis.com/emojis/images/1492722354/2080/love.gif
   - name: money_bath
-    src: http://emojis.slackmojis.com/emojis/images/1492722355/2081/money_bath.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722355/2081/money_bath.gif
   - name: nudge
-    src: http://emojis.slackmojis.com/emojis/images/1492722355/2082/nudge.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722355/2082/nudge.gif
   - name: pointing
-    src: http://emojis.slackmojis.com/emojis/images/1492722360/2083/pointing.gif
-  - name: puking2
-    src: http://emojis.slackmojis.com/emojis/images/1492722364/2084/puking.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722360/2083/pointing.gif
+  - name: puking
+    src: https://emojis.slackmojis.com/emojis/images/1492722364/2084/puking.gif
   - name: quivering
-    src: http://emojis.slackmojis.com/emojis/images/1492722365/2085/quivering.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722365/2085/quivering.gif
   - name: reading
-    src: http://emojis.slackmojis.com/emojis/images/1492722365/2086/reading.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722365/2086/reading.gif
   - name: say_nothing
-    src: http://emojis.slackmojis.com/emojis/images/1492722366/2087/say_nothing.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722366/2087/say_nothing.gif
   - name: scared
-    src: http://emojis.slackmojis.com/emojis/images/1492722366/2088/scared.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722366/2088/scared.gif
   - name: scheming
-    src: http://emojis.slackmojis.com/emojis/images/1492722366/2089/scheming.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722366/2089/scheming.gif
   - name: see_money
-    src: http://emojis.slackmojis.com/emojis/images/1492722366/2090/see_money.gif
-  - name: sick
-    src: http://emojis.slackmojis.com/emojis/images/1492722367/2091/sick.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722366/2090/see_money.gif
+  - name: sick3
+    src: https://emojis.slackmojis.com/emojis/images/1492722367/2091/sick.gif
   - name: surrender
-    src: http://emojis.slackmojis.com/emojis/images/1492722367/2092/surrender.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722367/2092/surrender.gif
   - name: sweaty
-    src: http://emojis.slackmojis.com/emojis/images/1492722367/2093/sweaty.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722367/2093/sweaty.gif
   - name: whining
-    src: http://emojis.slackmojis.com/emojis/images/1492722368/2094/whining.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722368/2094/whining.gif
   - name: whisper
-    src: http://emojis.slackmojis.com/emojis/images/1492722368/2095/whisper.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722368/2095/whisper.gif
   - name: yelling
-    src: http://emojis.slackmojis.com/emojis/images/1492722374/2096/yelling.gif
-  - name: zombie2
-    src: http://emojis.slackmojis.com/emojis/images/1492722378/2097/zombie.gif
+    src: https://emojis.slackmojis.com/emojis/images/1492722374/2096/yelling.gif
+  - name: zombie3
+    src: https://emojis.slackmojis.com/emojis/images/1492722378/2097/zombie.gif
