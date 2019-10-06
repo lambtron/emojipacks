@@ -144,17 +144,25 @@ emojis:
 
 ### Emoji packs from [slackmojis.com](http://www.slackmojis.com)
 
-- [Uncategorized](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-uncategorized.yaml)
+- [Blob Cats](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-blob-cats.yaml)
+- [Cat Emojis](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-cat-emojis.yaml)
 - [Facebook Reaction](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-facebook-reaction.yaml)
+- [Game of Thrones](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-game-of-thrones.yaml)
+- [Hangouts Blob](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-hangouts-blob.yaml)
+- [HD Emojis](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-hd-emojis.yaml)
 - [Logo](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-logo.yaml)
 - [Meme](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-meme.yaml)
 - [MLB](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-mlb.yaml)
+- [MLS](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-mls.yaml)
 - [NBA](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-nba.yaml)
 - [NFL](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-nfl.yaml)
 - [NHL](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-nhl.yaml)
 - [NYC Subway](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-nyc-subway.yaml)
 - [Party Parrot](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-party-parrot.yaml)
+- [Piggies](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-piggies.yaml)
 - [Pokemon](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-pokemon.yaml)
+- [Random](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-random.yaml)
+- [Regional Indicator](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-regional-indicator.yaml)
 - [Retro Game](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-retro-game.yaml)
 - [Scrabble Letters](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-scrabble-letters.yaml)
 - [Skype](https://raw.githubusercontent.com/lambtron/emojipacks/master/packs/slackmojis-skype.yaml)
@@ -175,6 +183,11 @@ This script will essentially log into your Slack and then submit a `POST` reques
 *Still having issues? Create an issue [here](https://github.com/lambtron/emojipacks/issues/new).*
 
 *Enjoyed this project? Check out my [blog](http://blog.andyjiang.com) for more*.
+
+## Related Projects
+
+- [Slack Emojis](https://github.com/jkloo/slack-emojis)
+- [Emoji Ripper](https://github.com/samuelfullerthomas/emojiripper)
 
 ## License (MIT)
 
