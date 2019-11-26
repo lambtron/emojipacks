@@ -1,0 +1,16 @@
+title: slackmoji-bananas
+emojis:
+  - name: bananadog
+    src: https://emoji.slack-edge.com/T46RWAPHC/bananadog/f4788cc3d507851f.png
+  - name: bananadance
+    src: https://emoji.slack-edge.com/T46RWAPHC/bananadance/cd67a3d98692abe9.gif
+  - name: parrotbanana
+    src: https://emoji.slack-edge.com/T46RWAPHC/parrotbanana/5ae0fea226605a7e.gif
+  - name: offsetbanana
+    src: https://emoji.slack-edge.com/T46RWAPHC/offsetbanana/b3f7dab6be6baaed.gif
+  - name: classy_banana
+    src: https://emoji.slack-edge.com/T46RWAPHC/classy_banana/00531cef20d6bfdc.gif
+  - name: bannaners
+    src: https://emoji.slack-edge.com/T46RWAPHC/bannaners/e0fc31a1de9d5e76.jpg
+  - name: nanananananana
+    src: https://emoji.slack-edge.com/T46RWAPHC/batman/60ecd1434ff9d4c0.gif
